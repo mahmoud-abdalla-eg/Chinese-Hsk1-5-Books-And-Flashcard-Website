@@ -1,5 +1,10 @@
 # Mandarin Flow HSK — HSK 1–5 Books & Flashcards Website
 
+<<<<<<< HEAD
+=======
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+>>>>>>> 59ff675 (Readme and license update)
 A multilingual, conversation-first Chinese learning platform for HSK 1–5 learners.
 
 Mandarin Flow HSK helps students learn Chinese naturally through long conversations, flashcards, listening practice, shadowing, pronunciation recording, quizzes, and local progress tracking. Instead of memorizing vocabulary as isolated words, the platform places HSK vocabulary inside realistic daily-life situations so learners can understand, repeat, and use the words in context.
@@ -283,6 +288,14 @@ Created by [Mahmoud Abdalla](https://github.com/mahmoud-abdalla-eg).
 
 ## License
 
+<<<<<<< HEAD
 This project does not currently include a license file.
 
 If you plan to use, modify, or distribute this project, add a license such as MIT, Apache 2.0, or another open-source license that matches your goals.
+=======
+This project is open source and licensed under the **MIT License**.
+
+You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the project, as long as the original copyright notice and MIT license text are included.
+
+See the [LICENSE](LICENSE) file for full details.
+>>>>>>> 59ff675 (Readme and license update)
