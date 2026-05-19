@@ -1,0 +1,7502 @@
+[
+  {
+    "id": "ai",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 1,
+    "hanzi": "爱",
+    "traditional": "愛",
+    "pinyin": "ài",
+    "meaning": {
+      "en": "love",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "ba",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 2,
+    "hanzi": "吧",
+    "traditional": "吧",
+    "pinyin": "ba",
+    "meaning": {
+      "en": "particle (suggestion or softening tone)",
+      "ar": ""
+    },
+    "partOfSpeech": "particle",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "ba-2",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 3,
+    "hanzi": "八",
+    "traditional": "八",
+    "pinyin": "bā",
+    "meaning": {
+      "en": "eight",
+      "ar": ""
+    },
+    "partOfSpeech": "number",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "baba",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 4,
+    "hanzi": "爸爸",
+    "traditional": "爸爸",
+    "pinyin": "bàba",
+    "meaning": {
+      "en": "dad",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "bai",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 5,
+    "hanzi": "百",
+    "traditional": "百",
+    "pinyin": "bǎi",
+    "meaning": {
+      "en": "hundred",
+      "ar": ""
+    },
+    "partOfSpeech": "number",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "baitian",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 6,
+    "hanzi": "白天",
+    "traditional": "白天",
+    "pinyin": "báitiān",
+    "meaning": {
+      "en": "daytime",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["time"]
+  },
+  {
+    "id": "ban",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 7,
+    "hanzi": "半",
+    "traditional": "半",
+    "pinyin": "bàn",
+    "meaning": {
+      "en": "half",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "baozi",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 8,
+    "hanzi": "包子",
+    "traditional": "包子",
+    "pinyin": "bāozi",
+    "meaning": {
+      "en": "steamed bun",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["food"]
+  },
+  {
+    "id": "beizi",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 9,
+    "hanzi": "杯子",
+    "traditional": "杯子",
+    "pinyin": "bēizi",
+    "meaning": {
+      "en": "cup",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "ben",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 10,
+    "hanzi": "本",
+    "traditional": "本",
+    "pinyin": "běn",
+    "meaning": {
+      "en": "book (measure word)",
+      "ar": ""
+    },
+    "partOfSpeech": "measure word",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["school"]
+  },
+  {
+    "id": "bian",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 11,
+    "hanzi": "边",
+    "traditional": "邊",
+    "pinyin": "biān",
+    "meaning": {
+      "en": "side",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "bing",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 12,
+    "hanzi": "病",
+    "traditional": "病",
+    "pinyin": "bìng",
+    "meaning": {
+      "en": "illness; sick",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["health"]
+  },
+  {
+    "id": "bu",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 13,
+    "hanzi": "不",
+    "traditional": "不",
+    "pinyin": "bù",
+    "meaning": {
+      "en": "not",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "bu-keqi",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 14,
+    "hanzi": "不客气",
+    "traditional": "不客氣",
+    "pinyin": "bù kèqi",
+    "meaning": {
+      "en": "you're welcome",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "bu-yao",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 15,
+    "hanzi": "不要",
+    "traditional": "不要",
+    "pinyin": "bù yào",
+    "meaning": {
+      "en": "don't",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "cai",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 16,
+    "hanzi": "菜",
+    "traditional": "菜",
+    "pinyin": "cài",
+    "meaning": {
+      "en": "dish; vegetable",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "cha",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 17,
+    "hanzi": "茶",
+    "traditional": "茶",
+    "pinyin": "chá",
+    "meaning": {
+      "en": "tea",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["food"]
+  },
+  {
+    "id": "chang",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 18,
+    "hanzi": "唱",
+    "traditional": "唱",
+    "pinyin": "chàng",
+    "meaning": {
+      "en": "sing",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "chao-shi",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 19,
+    "hanzi": "超市",
+    "traditional": "超市",
+    "pinyin": "chāo shì",
+    "meaning": {
+      "en": "supermarket",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "che",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 20,
+    "hanzi": "车",
+    "traditional": "車",
+    "pinyin": "chē",
+    "meaning": {
+      "en": "car; vehicle",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "chi",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 21,
+    "hanzi": "吃",
+    "traditional": "吃",
+    "pinyin": "chī",
+    "meaning": {
+      "en": "eat",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["food"]
+  },
+  {
+    "id": "chuan",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 22,
+    "hanzi": "穿",
+    "traditional": "穿",
+    "pinyin": "chuān",
+    "meaning": {
+      "en": "wear",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "chuzuche",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 23,
+    "hanzi": "出租车",
+    "traditional": "出租車",
+    "pinyin": "chūzūchē",
+    "meaning": {
+      "en": "taxi",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "da",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 24,
+    "hanzi": "大",
+    "traditional": "大",
+    "pinyin": "dà",
+    "meaning": {
+      "en": "big; large",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "da-dianhua",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 25,
+    "hanzi": "打电话",
+    "traditional": "打電話",
+    "pinyin": "dǎ diànhuà",
+    "meaning": {
+      "en": "make a phone call",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "dajia",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 26,
+    "hanzi": "大家",
+    "traditional": "大家",
+    "pinyin": "dàjiā",
+    "meaning": {
+      "en": "everyone",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "dao",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 27,
+    "hanzi": "到",
+    "traditional": "到",
+    "pinyin": "dào",
+    "meaning": {
+      "en": "arrive; to",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "daxue",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 28,
+    "hanzi": "大学",
+    "traditional": "大學",
+    "pinyin": "dàxué",
+    "meaning": {
+      "en": "university",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "daxuesheng",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 29,
+    "hanzi": "大学生",
+    "traditional": "大學生",
+    "pinyin": "dàxuéshēng",
+    "meaning": {
+      "en": "university student",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["school"]
+  },
+  {
+    "id": "de",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 30,
+    "hanzi": "的",
+    "traditional": "的",
+    "pinyin": "de",
+    "meaning": {
+      "en": "possessive particle",
+      "ar": ""
+    },
+    "partOfSpeech": "particle",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "di",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 31,
+    "hanzi": "第",
+    "traditional": "第",
+    "pinyin": "dì",
+    "meaning": {
+      "en": "prefix for ordinal numbers",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "dian",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 32,
+    "hanzi": "店",
+    "traditional": "店",
+    "pinyin": "diàn",
+    "meaning": {
+      "en": "store",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["shopping"]
+  },
+  {
+    "id": "dian-2",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 33,
+    "hanzi": "点",
+    "traditional": "點",
+    "pinyin": "diǎn",
+    "meaning": {
+      "en": "o'clock; point",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "dianhua",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 34,
+    "hanzi": "电话",
+    "traditional": "電話",
+    "pinyin": "diànhuà",
+    "meaning": {
+      "en": "telephone",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "diannao",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 35,
+    "hanzi": "电脑",
+    "traditional": "電腦",
+    "pinyin": "diànnǎo",
+    "meaning": {
+      "en": "computer",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "dianshi",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 36,
+    "hanzi": "电视",
+    "traditional": "電視",
+    "pinyin": "diànshì",
+    "meaning": {
+      "en": "television",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "dianying",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 37,
+    "hanzi": "电影",
+    "traditional": "電影",
+    "pinyin": "diànyǐng",
+    "meaning": {
+      "en": "movie",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "dianyingyuan",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 38,
+    "hanzi": "电影院",
+    "traditional": "電影院",
+    "pinyin": "diànyǐngyuàn",
+    "meaning": {
+      "en": "cinema",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "didi",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 39,
+    "hanzi": "弟弟",
+    "traditional": "弟弟",
+    "pinyin": "dìdi",
+    "meaning": {
+      "en": "younger brother",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["family"]
+  },
+  {
+    "id": "dongxi",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 40,
+    "hanzi": "东西",
+    "traditional": "東西",
+    "pinyin": "dōngxī",
+    "meaning": {
+      "en": "things; stuff",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "dou",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 41,
+    "hanzi": "都",
+    "traditional": "都",
+    "pinyin": "dōu",
+    "meaning": {
+      "en": "all",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "du",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 42,
+    "hanzi": "读",
+    "traditional": "讀",
+    "pinyin": "dú",
+    "meaning": {
+      "en": "read",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "dui",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 43,
+    "hanzi": "对",
+    "traditional": "對",
+    "pinyin": "duì",
+    "meaning": {
+      "en": "correct; towards",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "duibuqi",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 44,
+    "hanzi": "对不起",
+    "traditional": "對不起",
+    "pinyin": "duìbuqǐ",
+    "meaning": {
+      "en": "sorry",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "duo",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 45,
+    "hanzi": "多",
+    "traditional": "多",
+    "pinyin": "duō",
+    "meaning": {
+      "en": "many; much",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "duoshao",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 46,
+    "hanzi": "多少",
+    "traditional": "多少",
+    "pinyin": "duōshǎo",
+    "meaning": {
+      "en": "how much; how many",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "dushu",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 47,
+    "hanzi": "读书",
+    "traditional": "讀書",
+    "pinyin": "dúshū",
+    "meaning": {
+      "en": "study; read books",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["school"]
+  },
+  {
+    "id": "er",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 48,
+    "hanzi": "二",
+    "traditional": "二",
+    "pinyin": "èr",
+    "meaning": {
+      "en": "two",
+      "ar": ""
+    },
+    "partOfSpeech": "number",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "erzi",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 49,
+    "hanzi": "儿子",
+    "traditional": "兒子",
+    "pinyin": "érzi",
+    "meaning": {
+      "en": "son",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["family"]
+  },
+  {
+    "id": "fan",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 50,
+    "hanzi": "饭",
+    "traditional": "飯",
+    "pinyin": "fàn",
+    "meaning": {
+      "en": "rice; meal",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["food"]
+  },
+  {
+    "id": "fandian",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 51,
+    "hanzi": "饭店",
+    "traditional": "飯店",
+    "pinyin": "fàndiàn",
+    "meaning": {
+      "en": "restaurant; hotel",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["food"]
+  },
+  {
+    "id": "fangjian",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 52,
+    "hanzi": "房间",
+    "traditional": "房間",
+    "pinyin": "fángjiān",
+    "meaning": {
+      "en": "room",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "fei-chang",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 53,
+    "hanzi": "非常",
+    "traditional": "非常",
+    "pinyin": "fēi cháng",
+    "meaning": {
+      "en": "very; extremely",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "fei-ji",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 54,
+    "hanzi": "飞机",
+    "traditional": "飛機",
+    "pinyin": "fēi jī",
+    "meaning": {
+      "en": "airplane",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "fen",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 55,
+    "hanzi": "分",
+    "traditional": "分",
+    "pinyin": "fēn",
+    "meaning": {
+      "en": "point; minute",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["time"]
+  },
+  {
+    "id": "fen-zhong",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 56,
+    "hanzi": "分钟",
+    "traditional": "分鐘",
+    "pinyin": "fēn zhōng",
+    "meaning": {
+      "en": "minute",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["time"]
+  },
+  {
+    "id": "gaoxing",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 57,
+    "hanzi": "高兴",
+    "traditional": "高興",
+    "pinyin": "gāoxìng",
+    "meaning": {
+      "en": "happy",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "ge",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 58,
+    "hanzi": "个",
+    "traditional": "個",
+    "pinyin": "gè",
+    "meaning": {
+      "en": "measure word",
+      "ar": ""
+    },
+    "partOfSpeech": "measure word",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "ge-2",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 59,
+    "hanzi": "歌",
+    "traditional": "歌",
+    "pinyin": "gē",
+    "meaning": {
+      "en": "song",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["family"]
+  },
+  {
+    "id": "gege",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 60,
+    "hanzi": "哥哥",
+    "traditional": "哥哥",
+    "pinyin": "gēge",
+    "meaning": {
+      "en": "older brother",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["family"]
+  },
+  {
+    "id": "gei",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 61,
+    "hanzi": "给",
+    "traditional": "給",
+    "pinyin": "gěi",
+    "meaning": {
+      "en": "give; for",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "gongsi",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 62,
+    "hanzi": "公司",
+    "traditional": "公司",
+    "pinyin": "gōngsī",
+    "meaning": {
+      "en": "company",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "gongzuo",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 63,
+    "hanzi": "工作",
+    "traditional": "工作",
+    "pinyin": "gōngzuò",
+    "meaning": {
+      "en": "work; job",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "gou",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 64,
+    "hanzi": "狗",
+    "traditional": "狗",
+    "pinyin": "gǒu",
+    "meaning": {
+      "en": "dog",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "gui",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 65,
+    "hanzi": "贵",
+    "traditional": "貴",
+    "pinyin": "guì",
+    "meaning": {
+      "en": "expensive",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "guo",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 66,
+    "hanzi": "国",
+    "traditional": "國",
+    "pinyin": "guó",
+    "meaning": {
+      "en": "country",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "hai",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 67,
+    "hanzi": "还",
+    "traditional": "還",
+    "pinyin": "hái",
+    "meaning": {
+      "en": "still; yet",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "haizi",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 68,
+    "hanzi": "孩子",
+    "traditional": "孩子",
+    "pinyin": "háizi",
+    "meaning": {
+      "en": "child; children",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "hanyu",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 69,
+    "hanzi": "汉语",
+    "traditional": "漢語",
+    "pinyin": "Hànyǔ",
+    "meaning": {
+      "en": "Chinese (language)",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "hanzi",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 70,
+    "hanzi": "汉字",
+    "traditional": "漢字",
+    "pinyin": "hànzì",
+    "meaning": {
+      "en": "Chinese character",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "hao",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 71,
+    "hanzi": "号",
+    "traditional": "號",
+    "pinyin": "hào",
+    "meaning": {
+      "en": "number; date",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "hao-2",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 72,
+    "hanzi": "好",
+    "traditional": "好",
+    "pinyin": "hǎo",
+    "meaning": {
+      "en": "good",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "haochi",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 73,
+    "hanzi": "好吃",
+    "traditional": "好吃",
+    "pinyin": "hǎochī",
+    "meaning": {
+      "en": "delicious",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "haokan",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 74,
+    "hanzi": "好看",
+    "traditional": "好看",
+    "pinyin": "hǎokàn",
+    "meaning": {
+      "en": "good-looking; beautiful",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "haoting",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 75,
+    "hanzi": "好听",
+    "traditional": "好聽",
+    "pinyin": "hǎotīng",
+    "meaning": {
+      "en": "pleasant to hear",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "haowanr",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 76,
+    "hanzi": "好玩儿",
+    "traditional": "好玩兒",
+    "pinyin": "hǎowánr",
+    "meaning": {
+      "en": "fun; interesting",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "he",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 77,
+    "hanzi": "和",
+    "traditional": "和",
+    "pinyin": "hé",
+    "meaning": {
+      "en": "and; with",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "he-2",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 78,
+    "hanzi": "喝",
+    "traditional": "喝",
+    "pinyin": "hē",
+    "meaning": {
+      "en": "to drink",
+      "ar": ""
+    },
+    "partOfSpeech": "verb",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["food"]
+  },
+  {
+    "id": "hen",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 79,
+    "hanzi": "很",
+    "traditional": "很",
+    "pinyin": "hěn",
+    "meaning": {
+      "en": "very",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "hou",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 80,
+    "hanzi": "后",
+    "traditional": "後",
+    "pinyin": "hòu",
+    "meaning": {
+      "en": "behind; after",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "hui",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 81,
+    "hanzi": "回",
+    "traditional": "回",
+    "pinyin": "huí",
+    "meaning": {
+      "en": "return; go back",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "hui-2",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 82,
+    "hanzi": "会",
+    "traditional": "會",
+    "pinyin": "huì",
+    "meaning": {
+      "en": "can; will; meeting",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "huoche",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 83,
+    "hanzi": "火车",
+    "traditional": "火車",
+    "pinyin": "huǒchē",
+    "meaning": {
+      "en": "train",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "ji",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 84,
+    "hanzi": "几",
+    "traditional": "幾",
+    "pinyin": "jǐ",
+    "meaning": {
+      "en": "how many; several",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "jia",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 85,
+    "hanzi": "家",
+    "traditional": "家",
+    "pinyin": "jiā",
+    "meaning": {
+      "en": "home; family",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["family"]
+  },
+  {
+    "id": "jian",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 86,
+    "hanzi": "见",
+    "traditional": "見",
+    "pinyin": "jiàn",
+    "meaning": {
+      "en": "to see; to meet",
+      "ar": ""
+    },
+    "partOfSpeech": "verb",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "jian-2",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 87,
+    "hanzi": "件",
+    "traditional": "件",
+    "pinyin": "jiàn",
+    "meaning": {
+      "en": "item",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "jiao",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 88,
+    "hanzi": "叫",
+    "traditional": "叫",
+    "pinyin": "jiào",
+    "meaning": {
+      "en": "call; be named",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "jiaozi",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 89,
+    "hanzi": "饺子",
+    "traditional": "餃子",
+    "pinyin": "jiǎozi",
+    "meaning": {
+      "en": "dumpling",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "jia-ren",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 90,
+    "hanzi": "家人",
+    "traditional": "家人",
+    "pinyin": "jiā rén",
+    "meaning": {
+      "en": "family members",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["family"]
+  },
+  {
+    "id": "jidan",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 91,
+    "hanzi": "鸡蛋",
+    "traditional": "雞蛋",
+    "pinyin": "jīdàn",
+    "meaning": {
+      "en": "egg",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "jiejie",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 92,
+    "hanzi": "姐姐",
+    "traditional": "姐姐",
+    "pinyin": "jiějie",
+    "meaning": {
+      "en": "older sister",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["family"]
+  },
+  {
+    "id": "jinnian",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 93,
+    "hanzi": "今年",
+    "traditional": "今年",
+    "pinyin": "jīnnián",
+    "meaning": {
+      "en": "this year",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["time"]
+  },
+  {
+    "id": "jintian",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 94,
+    "hanzi": "今天",
+    "traditional": "今天",
+    "pinyin": "jīntiān",
+    "meaning": {
+      "en": "today",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["time"]
+  },
+  {
+    "id": "jiu",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 95,
+    "hanzi": "九",
+    "traditional": "九",
+    "pinyin": "jiǔ",
+    "meaning": {
+      "en": "nine",
+      "ar": ""
+    },
+    "partOfSpeech": "number",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "jue-de",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 96,
+    "hanzi": "觉得",
+    "traditional": "覺得",
+    "pinyin": "jué de",
+    "meaning": {
+      "en": "to feel; to think",
+      "ar": ""
+    },
+    "partOfSpeech": "verb",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "kai",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 97,
+    "hanzi": "开",
+    "traditional": "開",
+    "pinyin": "kāi",
+    "meaning": {
+      "en": "to open; to turn on",
+      "ar": ""
+    },
+    "partOfSpeech": "verb",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "kai-che",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 98,
+    "hanzi": "开车",
+    "traditional": "開車",
+    "pinyin": "kāi chē",
+    "meaning": {
+      "en": "to drive",
+      "ar": ""
+    },
+    "partOfSpeech": "verb",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "kan",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 99,
+    "hanzi": "看",
+    "traditional": "看",
+    "pinyin": "kàn",
+    "meaning": {
+      "en": "to see; to look; to watch",
+      "ar": ""
+    },
+    "partOfSpeech": "verb",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "kan-bing",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 100,
+    "hanzi": "看病",
+    "traditional": "看病",
+    "pinyin": "kàn bìng",
+    "meaning": {
+      "en": "to see a doctor",
+      "ar": ""
+    },
+    "partOfSpeech": "verb",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["health"]
+  },
+  {
+    "id": "kan-jian",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 101,
+    "hanzi": "看见",
+    "traditional": "看見",
+    "pinyin": "kàn jiàn",
+    "meaning": {
+      "en": "see",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "ke",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 102,
+    "hanzi": "课",
+    "traditional": "課",
+    "pinyin": "kè",
+    "meaning": {
+      "en": "class; lesson",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["family", "school"]
+  },
+  {
+    "id": "ke-yi",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 103,
+    "hanzi": "可以",
+    "traditional": "可以",
+    "pinyin": "kě yǐ",
+    "meaning": {
+      "en": "can",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "kou",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 104,
+    "hanzi": "口",
+    "traditional": "口",
+    "pinyin": "kǒu",
+    "meaning": {
+      "en": "mouth",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "kuai",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 105,
+    "hanzi": "块",
+    "traditional": "塊",
+    "pinyin": "kuài",
+    "meaning": {
+      "en": "piece; yuan (currency)",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "lai",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 106,
+    "hanzi": "来",
+    "traditional": "來",
+    "pinyin": "lái",
+    "meaning": {
+      "en": "to come",
+      "ar": ""
+    },
+    "partOfSpeech": "verb",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "laoshi",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 107,
+    "hanzi": "老师",
+    "traditional": "老師",
+    "pinyin": "lǎoshī",
+    "meaning": {
+      "en": "teacher",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["school", "food"]
+  },
+  {
+    "id": "le",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 108,
+    "hanzi": "了",
+    "traditional": "了",
+    "pinyin": "le",
+    "meaning": {
+      "en": "(particle indicating a completed action or change of state)",
+      "ar": ""
+    },
+    "partOfSpeech": "particle",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "leng",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 109,
+    "hanzi": "冷",
+    "traditional": "冷",
+    "pinyin": "lěng",
+    "meaning": {
+      "en": "cold",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "li",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 110,
+    "hanzi": "里",
+    "traditional": "裡",
+    "pinyin": "lǐ",
+    "meaning": {
+      "en": "inside",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "liang",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 111,
+    "hanzi": "两",
+    "traditional": "兩",
+    "pinyin": "liǎng",
+    "meaning": {
+      "en": "two",
+      "ar": ""
+    },
+    "partOfSpeech": "number",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "ling",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 112,
+    "hanzi": "零",
+    "traditional": "零",
+    "pinyin": "líng",
+    "meaning": {
+      "en": "zero",
+      "ar": ""
+    },
+    "partOfSpeech": "number",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "liu",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 113,
+    "hanzi": "六",
+    "traditional": "六",
+    "pinyin": "liù",
+    "meaning": {
+      "en": "six",
+      "ar": ""
+    },
+    "partOfSpeech": "number",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "ma",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 114,
+    "hanzi": "吗",
+    "traditional": "嗎",
+    "pinyin": "ma",
+    "meaning": {
+      "en": "question particle",
+      "ar": ""
+    },
+    "partOfSpeech": "particle",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "mai",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 115,
+    "hanzi": "卖",
+    "traditional": "賣",
+    "pinyin": "mài",
+    "meaning": {
+      "en": "sell",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "mai-2",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 116,
+    "hanzi": "买",
+    "traditional": "買",
+    "pinyin": "mǎi",
+    "meaning": {
+      "en": "to buy",
+      "ar": ""
+    },
+    "partOfSpeech": "verb",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["shopping"]
+  },
+  {
+    "id": "ma-ma",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 117,
+    "hanzi": "妈妈",
+    "traditional": "媽媽",
+    "pinyin": "mā ma",
+    "meaning": {
+      "en": "mom",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "mang",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 118,
+    "hanzi": "忙",
+    "traditional": "忙",
+    "pinyin": "máng",
+    "meaning": {
+      "en": "busy",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "mao",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 119,
+    "hanzi": "猫",
+    "traditional": "貓",
+    "pinyin": "māo",
+    "meaning": {
+      "en": "cat",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "mei-guanxi",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 120,
+    "hanzi": "没关系",
+    "traditional": "沒關係",
+    "pinyin": "méi guānxi",
+    "meaning": {
+      "en": "it doesn't matter",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "meimei",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 121,
+    "hanzi": "妹妹",
+    "traditional": "妹妹",
+    "pinyin": "mèimei",
+    "meaning": {
+      "en": "younger sister",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["family"]
+  },
+  {
+    "id": "mei-shi",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 122,
+    "hanzi": "没事",
+    "traditional": "沒事",
+    "pinyin": "méi shì",
+    "meaning": {
+      "en": "no problem, it's nothing",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "meiyou",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 123,
+    "hanzi": "没有",
+    "traditional": "沒有",
+    "pinyin": "méiyǒu",
+    "meaning": {
+      "en": "don't have; there isn't",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "men",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 124,
+    "hanzi": "们",
+    "traditional": "們",
+    "pinyin": "men",
+    "meaning": {
+      "en": "plural marker",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "mianbao",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 125,
+    "hanzi": "面包",
+    "traditional": "麵包",
+    "pinyin": "miànbāo",
+    "meaning": {
+      "en": "bread",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "miantiaor",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 126,
+    "hanzi": "面条儿",
+    "traditional": "麵條兒",
+    "pinyin": "miàntiáor",
+    "meaning": {
+      "en": "noodles",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "mifan",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 127,
+    "hanzi": "米饭",
+    "traditional": "米飯",
+    "pinyin": "mǐfàn",
+    "meaning": {
+      "en": "cooked rice",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["food"]
+  },
+  {
+    "id": "mingnian",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 128,
+    "hanzi": "明年",
+    "traditional": "明年",
+    "pinyin": "míngnián",
+    "meaning": {
+      "en": "next year",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["time"]
+  },
+  {
+    "id": "mingtian",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 129,
+    "hanzi": "明天",
+    "traditional": "明天",
+    "pinyin": "míngtiān",
+    "meaning": {
+      "en": "tomorrow",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["time"]
+  },
+  {
+    "id": "mingzi",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 130,
+    "hanzi": "名字",
+    "traditional": "名字",
+    "pinyin": "míngzì",
+    "meaning": {
+      "en": "name",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "na",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 131,
+    "hanzi": "那",
+    "traditional": "那",
+    "pinyin": "nà",
+    "meaning": {
+      "en": "that",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "na-2",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 132,
+    "hanzi": "哪",
+    "traditional": "哪",
+    "pinyin": "nǎ",
+    "meaning": {
+      "en": "which; where",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "nabian",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 133,
+    "hanzi": "那边",
+    "traditional": "那邊",
+    "pinyin": "nàbiān",
+    "meaning": {
+      "en": "over there",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "na-ge",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 134,
+    "hanzi": "那个",
+    "traditional": "那個",
+    "pinyin": "nà ge",
+    "meaning": {
+      "en": "that one",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "na-ge-2",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 135,
+    "hanzi": "哪个",
+    "traditional": "哪個",
+    "pinyin": "nǎ ge",
+    "meaning": {
+      "en": "which one",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "nali",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 136,
+    "hanzi": "那里",
+    "traditional": "那裡",
+    "pinyin": "nàlǐ",
+    "meaning": {
+      "en": "there",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "nali-2",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 137,
+    "hanzi": "哪里",
+    "traditional": "哪裡",
+    "pinyin": "nǎlǐ",
+    "meaning": {
+      "en": "where",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "nan",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 138,
+    "hanzi": "男",
+    "traditional": "男",
+    "pinyin": "nán",
+    "meaning": {
+      "en": "male",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "nan-peng-you",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 139,
+    "hanzi": "男朋友",
+    "traditional": "男朋友",
+    "pinyin": "nán péng you",
+    "meaning": {
+      "en": "boyfriend",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "nar",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 140,
+    "hanzi": "那儿",
+    "traditional": "那兒",
+    "pinyin": "nàr",
+    "meaning": {
+      "en": "there",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "nar-2",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 141,
+    "hanzi": "哪儿",
+    "traditional": "哪兒",
+    "pinyin": "nǎr",
+    "meaning": {
+      "en": "where",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "naxie",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 142,
+    "hanzi": "那些",
+    "traditional": "那些",
+    "pinyin": "nàxiē",
+    "meaning": {
+      "en": "those",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "naxie-2",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 143,
+    "hanzi": "哪些",
+    "traditional": "哪些",
+    "pinyin": "nǎxiē",
+    "meaning": {
+      "en": "which (plural)",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "ne",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 144,
+    "hanzi": "呢",
+    "traditional": "呢",
+    "pinyin": "ne",
+    "meaning": {
+      "en": "question particle; indicates emphasis",
+      "ar": ""
+    },
+    "partOfSpeech": "particle",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "neng",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 145,
+    "hanzi": "能",
+    "traditional": "能",
+    "pinyin": "néng",
+    "meaning": {
+      "en": "can; be able to",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "ni",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 146,
+    "hanzi": "你",
+    "traditional": "你",
+    "pinyin": "nǐ",
+    "meaning": {
+      "en": "you",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "ni-hao",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 147,
+    "hanzi": "你好",
+    "traditional": "你好",
+    "pinyin": "nǐ hǎo",
+    "meaning": {
+      "en": "hello",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "nian",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 148,
+    "hanzi": "年",
+    "traditional": "年",
+    "pinyin": "nián",
+    "meaning": {
+      "en": "year",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["time"]
+  },
+  {
+    "id": "nimen",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 149,
+    "hanzi": "你们",
+    "traditional": "你們",
+    "pinyin": "nǐmen",
+    "meaning": {
+      "en": "you (plural)",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "nin",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 150,
+    "hanzi": "您",
+    "traditional": "您",
+    "pinyin": "nín",
+    "meaning": {
+      "en": "you (polite form)",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "niunai",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 151,
+    "hanzi": "牛奶",
+    "traditional": "牛奶",
+    "pinyin": "niúnǎi",
+    "meaning": {
+      "en": "milk",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "nu",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 152,
+    "hanzi": "女",
+    "traditional": "女",
+    "pinyin": "nǚ",
+    "meaning": {
+      "en": "female",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "nu-er",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 153,
+    "hanzi": "女儿",
+    "traditional": "女兒",
+    "pinyin": "nǚ'ér",
+    "meaning": {
+      "en": "daughter",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["family"]
+  },
+  {
+    "id": "nu-pengyou",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 154,
+    "hanzi": "女朋友",
+    "traditional": "女朋友",
+    "pinyin": "nǚ péngyǒu",
+    "meaning": {
+      "en": "girlfriend",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "nushi",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 155,
+    "hanzi": "女士",
+    "traditional": "女士",
+    "pinyin": "nǚshì",
+    "meaning": {
+      "en": "lady; Ms.",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "pengyou",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 156,
+    "hanzi": "朋友",
+    "traditional": "朋友",
+    "pinyin": "péngyǒu",
+    "meaning": {
+      "en": "friend",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "pian-yi",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 157,
+    "hanzi": "便宜",
+    "traditional": "便宜",
+    "pinyin": "pián yí",
+    "meaning": {
+      "en": "cheap",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "piao-liang",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 158,
+    "hanzi": "漂亮",
+    "traditional": "漂亮",
+    "pinyin": "piào liàng",
+    "meaning": {
+      "en": "beautiful",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "ping-guo",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 159,
+    "hanzi": "苹果",
+    "traditional": "蘋果",
+    "pinyin": "píng guǒ",
+    "meaning": {
+      "en": "apple",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "qi",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 160,
+    "hanzi": "七",
+    "traditional": "七",
+    "pinyin": "qī",
+    "meaning": {
+      "en": "seven",
+      "ar": ""
+    },
+    "partOfSpeech": "number",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "qian",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 161,
+    "hanzi": "前",
+    "traditional": "前",
+    "pinyin": "qián",
+    "meaning": {
+      "en": "front; before",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "qian-2",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 162,
+    "hanzi": "钱",
+    "traditional": "錢",
+    "pinyin": "qián",
+    "meaning": {
+      "en": "money",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["shopping"]
+  },
+  {
+    "id": "qian-3",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 163,
+    "hanzi": "千",
+    "traditional": "千",
+    "pinyin": "qiān",
+    "meaning": {
+      "en": "thousand",
+      "ar": ""
+    },
+    "partOfSpeech": "number",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "qichuang",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 164,
+    "hanzi": "起床",
+    "traditional": "起床",
+    "pinyin": "qǐchuáng",
+    "meaning": {
+      "en": "to get out of bed",
+      "ar": ""
+    },
+    "partOfSpeech": "verb",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "qing",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 165,
+    "hanzi": "请",
+    "traditional": "請",
+    "pinyin": "qǐng",
+    "meaning": {
+      "en": "please; invite",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "qingwen",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 166,
+    "hanzi": "请问",
+    "traditional": "請問",
+    "pinyin": "qǐngwèn",
+    "meaning": {
+      "en": "excuse me; may I ask",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "qu",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 167,
+    "hanzi": "去",
+    "traditional": "去",
+    "pinyin": "qù",
+    "meaning": {
+      "en": "to go",
+      "ar": ""
+    },
+    "partOfSpeech": "verb",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "qu-nian",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 168,
+    "hanzi": "去年",
+    "traditional": "去年",
+    "pinyin": "qù nián",
+    "meaning": {
+      "en": "last year",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["time"]
+  },
+  {
+    "id": "re",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 169,
+    "hanzi": "热",
+    "traditional": "熱",
+    "pinyin": "rè",
+    "meaning": {
+      "en": "hot",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "ren",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 170,
+    "hanzi": "人",
+    "traditional": "人",
+    "pinyin": "rén",
+    "meaning": {
+      "en": "person; people",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["family"]
+  },
+  {
+    "id": "ren-shi",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 171,
+    "hanzi": "认识",
+    "traditional": "認識",
+    "pinyin": "rèn shi",
+    "meaning": {
+      "en": "to know; to recognize",
+      "ar": ""
+    },
+    "partOfSpeech": "verb",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "ri",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 172,
+    "hanzi": "日",
+    "traditional": "日",
+    "pinyin": "rì",
+    "meaning": {
+      "en": "day; date",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["time"]
+  },
+  {
+    "id": "san",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 173,
+    "hanzi": "三",
+    "traditional": "三",
+    "pinyin": "sān",
+    "meaning": {
+      "en": "three",
+      "ar": ""
+    },
+    "partOfSpeech": "number",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "shang",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 174,
+    "hanzi": "上",
+    "traditional": "上",
+    "pinyin": "shàng",
+    "meaning": {
+      "en": "up; go up",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "shangban",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 175,
+    "hanzi": "上班",
+    "traditional": "上班",
+    "pinyin": "shàngbān",
+    "meaning": {
+      "en": "go to work",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "shangdian",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 176,
+    "hanzi": "商店",
+    "traditional": "商店",
+    "pinyin": "shāngdiàn",
+    "meaning": {
+      "en": "shop; store",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["shopping"]
+  },
+  {
+    "id": "shang-ke",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 177,
+    "hanzi": "上课",
+    "traditional": "上課",
+    "pinyin": "shàng kè",
+    "meaning": {
+      "en": "attend class",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["school"]
+  },
+  {
+    "id": "shangwu",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 178,
+    "hanzi": "上午",
+    "traditional": "上午",
+    "pinyin": "shàngwǔ",
+    "meaning": {
+      "en": "morning",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "shangxue",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 179,
+    "hanzi": "上学",
+    "traditional": "上學",
+    "pinyin": "shàngxué",
+    "meaning": {
+      "en": "to go to school",
+      "ar": ""
+    },
+    "partOfSpeech": "verb",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["school"]
+  },
+  {
+    "id": "shao",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 180,
+    "hanzi": "少",
+    "traditional": "少",
+    "pinyin": "shǎo",
+    "meaning": {
+      "en": "few; little; less",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "shei",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 181,
+    "hanzi": "谁",
+    "traditional": "誰",
+    "pinyin": "shéi",
+    "meaning": {
+      "en": "who",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "shengbing",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 182,
+    "hanzi": "生病",
+    "traditional": "生病",
+    "pinyin": "shēngbìng",
+    "meaning": {
+      "en": "to fall ill",
+      "ar": ""
+    },
+    "partOfSpeech": "verb",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "shenme",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 183,
+    "hanzi": "什么",
+    "traditional": "什麼",
+    "pinyin": "shénme",
+    "meaning": {
+      "en": "what",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "shi",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 184,
+    "hanzi": "十",
+    "traditional": "十",
+    "pinyin": "shí",
+    "meaning": {
+      "en": "ten",
+      "ar": ""
+    },
+    "partOfSpeech": "number",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "shi-2",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 185,
+    "hanzi": "事",
+    "traditional": "事",
+    "pinyin": "shì",
+    "meaning": {
+      "en": "matter; thing; affair",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "shi-3",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 186,
+    "hanzi": "是",
+    "traditional": "是",
+    "pinyin": "shì",
+    "meaning": {
+      "en": "is; are; am",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "shihou",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 187,
+    "hanzi": "时候",
+    "traditional": "時候",
+    "pinyin": "shíhou",
+    "meaning": {
+      "en": "time; moment",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["time"]
+  },
+  {
+    "id": "shijian",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 188,
+    "hanzi": "时间",
+    "traditional": "時間",
+    "pinyin": "shíjiān",
+    "meaning": {
+      "en": "time",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["time"]
+  },
+  {
+    "id": "shouji",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 189,
+    "hanzi": "手机",
+    "traditional": "手機",
+    "pinyin": "shǒujī",
+    "meaning": {
+      "en": "mobile phone",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "shu",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 190,
+    "hanzi": "书",
+    "traditional": "書",
+    "pinyin": "shū",
+    "meaning": {
+      "en": "book",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["school"]
+  },
+  {
+    "id": "shu-dian",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 191,
+    "hanzi": "书店",
+    "traditional": "書店",
+    "pinyin": "shū diàn",
+    "meaning": {
+      "en": "bookstore",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["school", "shopping"]
+  },
+  {
+    "id": "shui",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 192,
+    "hanzi": "睡",
+    "traditional": "睡",
+    "pinyin": "shuì",
+    "meaning": {
+      "en": "to sleep",
+      "ar": ""
+    },
+    "partOfSpeech": "verb",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "shui-2",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 193,
+    "hanzi": "水",
+    "traditional": "水",
+    "pinyin": "shuǐ",
+    "meaning": {
+      "en": "water",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "shui-guo",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 194,
+    "hanzi": "水果",
+    "traditional": "水果",
+    "pinyin": "shuǐ guǒ",
+    "meaning": {
+      "en": "fruit",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "shui-jiao",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 195,
+    "hanzi": "睡觉",
+    "traditional": "睡覺",
+    "pinyin": "shuì jiào",
+    "meaning": {
+      "en": "to sleep",
+      "ar": ""
+    },
+    "partOfSpeech": "verb",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "shuo",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 196,
+    "hanzi": "说",
+    "traditional": "說",
+    "pinyin": "shuō",
+    "meaning": {
+      "en": "to say; to speak",
+      "ar": ""
+    },
+    "partOfSpeech": "verb",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "shuo-hua",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 197,
+    "hanzi": "说话",
+    "traditional": "說話",
+    "pinyin": "shuō huà",
+    "meaning": {
+      "en": "to talk; to speak",
+      "ar": ""
+    },
+    "partOfSpeech": "verb",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "si",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 198,
+    "hanzi": "四",
+    "traditional": "四",
+    "pinyin": "sì",
+    "meaning": {
+      "en": "four",
+      "ar": ""
+    },
+    "partOfSpeech": "number",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "sui",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 199,
+    "hanzi": "岁",
+    "traditional": "歲",
+    "pinyin": "suì",
+    "meaning": {
+      "en": "year (of age)",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["time"]
+  },
+  {
+    "id": "ta",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 200,
+    "hanzi": "他",
+    "traditional": "他",
+    "pinyin": "tā",
+    "meaning": {
+      "en": "he; him",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "ta-2",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 201,
+    "hanzi": "它",
+    "traditional": "它",
+    "pinyin": "tā",
+    "meaning": {
+      "en": "it",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "ta-3",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 202,
+    "hanzi": "她",
+    "traditional": "她",
+    "pinyin": "tā",
+    "meaning": {
+      "en": "she; her",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "tai",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 203,
+    "hanzi": "太",
+    "traditional": "太",
+    "pinyin": "tài",
+    "meaning": {
+      "en": "too; extremely",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "tamen",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 204,
+    "hanzi": "他们",
+    "traditional": "他們",
+    "pinyin": "tāmen",
+    "meaning": {
+      "en": "they; them (male or mixed group)",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "tamen-2",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 205,
+    "hanzi": "它们",
+    "traditional": "它們",
+    "pinyin": "tāmen",
+    "meaning": {
+      "en": "they",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "tamen-3",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 206,
+    "hanzi": "她们",
+    "traditional": "她們",
+    "pinyin": "tāmen",
+    "meaning": {
+      "en": "they; them (female group)",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "tian",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 207,
+    "hanzi": "天",
+    "traditional": "天",
+    "pinyin": "tiān",
+    "meaning": {
+      "en": "day; sky",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["time"]
+  },
+  {
+    "id": "tianqi",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 208,
+    "hanzi": "天气",
+    "traditional": "天氣",
+    "pinyin": "tiānqì",
+    "meaning": {
+      "en": "weather",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["food"]
+  },
+  {
+    "id": "ting",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 209,
+    "hanzi": "听",
+    "traditional": "聽",
+    "pinyin": "tīng",
+    "meaning": {
+      "en": "listen",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "tingjian",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 210,
+    "hanzi": "听见",
+    "traditional": "聽見",
+    "pinyin": "tīngjiàn",
+    "meaning": {
+      "en": "to hear",
+      "ar": ""
+    },
+    "partOfSpeech": "verb",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "tongxue",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 211,
+    "hanzi": "同学",
+    "traditional": "同學",
+    "pinyin": "tóngxué",
+    "meaning": {
+      "en": "classmate",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["school"]
+  },
+  {
+    "id": "wai",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 212,
+    "hanzi": "外",
+    "traditional": "外",
+    "pinyin": "wài",
+    "meaning": {
+      "en": "outside; external",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "waibian",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 213,
+    "hanzi": "外边",
+    "traditional": "外邊",
+    "pinyin": "wàibiān",
+    "meaning": {
+      "en": "outside",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "wan",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 214,
+    "hanzi": "玩",
+    "traditional": "玩",
+    "pinyin": "wán",
+    "meaning": {
+      "en": "play, have fun",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "wan-2",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 215,
+    "hanzi": "晚",
+    "traditional": "晚",
+    "pinyin": "wǎn",
+    "meaning": {
+      "en": "late; evening",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "wanfan",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 216,
+    "hanzi": "晚饭",
+    "traditional": "晚飯",
+    "pinyin": "wǎnfàn",
+    "meaning": {
+      "en": "dinner",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "wanshang",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 217,
+    "hanzi": "晚上",
+    "traditional": "晚上",
+    "pinyin": "wǎnshàng",
+    "meaning": {
+      "en": "evening; night",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "wei",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 218,
+    "hanzi": "喂",
+    "traditional": "餵",
+    "pinyin": "wèi",
+    "meaning": {
+      "en": "to feed",
+      "ar": ""
+    },
+    "partOfSpeech": "verb",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "wen",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 219,
+    "hanzi": "问",
+    "traditional": "問",
+    "pinyin": "wèn",
+    "meaning": {
+      "en": "ask",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "wenti",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 220,
+    "hanzi": "问题",
+    "traditional": "問題",
+    "pinyin": "wèntí",
+    "meaning": {
+      "en": "question",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "wo",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 221,
+    "hanzi": "我",
+    "traditional": "我",
+    "pinyin": "wǒ",
+    "meaning": {
+      "en": "I; me",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "women",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 222,
+    "hanzi": "我们",
+    "traditional": "我們",
+    "pinyin": "wǒmen",
+    "meaning": {
+      "en": "we; us",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "wu",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 223,
+    "hanzi": "五",
+    "traditional": "五",
+    "pinyin": "wǔ",
+    "meaning": {
+      "en": "five",
+      "ar": ""
+    },
+    "partOfSpeech": "number",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "wu-fan",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 224,
+    "hanzi": "午饭",
+    "traditional": "午飯",
+    "pinyin": "wǔ fàn",
+    "meaning": {
+      "en": "lunch",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "xia",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 225,
+    "hanzi": "下",
+    "traditional": "下",
+    "pinyin": "xià",
+    "meaning": {
+      "en": "down; under",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "xia-yu",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 226,
+    "hanzi": "下雨",
+    "traditional": "下雨",
+    "pinyin": "xià yǔ",
+    "meaning": {
+      "en": "rain",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "xia-ban",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 227,
+    "hanzi": "下班",
+    "traditional": "下班",
+    "pinyin": "xià bān",
+    "meaning": {
+      "en": "to finish work",
+      "ar": ""
+    },
+    "partOfSpeech": "verb",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "xia-ke",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 228,
+    "hanzi": "下课",
+    "traditional": "下課",
+    "pinyin": "xià kè",
+    "meaning": {
+      "en": "finish class",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["school"]
+  },
+  {
+    "id": "xiang",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 229,
+    "hanzi": "想",
+    "traditional": "想",
+    "pinyin": "xiǎng",
+    "meaning": {
+      "en": "want; think",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "xiansheng",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 230,
+    "hanzi": "先生",
+    "traditional": "先生",
+    "pinyin": "xiānshēng",
+    "meaning": {
+      "en": "Mr.; sir",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "xianzai",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 231,
+    "hanzi": "现在",
+    "traditional": "現在",
+    "pinyin": "xiànzài",
+    "meaning": {
+      "en": "now",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "xiao",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 232,
+    "hanzi": "小",
+    "traditional": "小",
+    "pinyin": "xiǎo",
+    "meaning": {
+      "en": "small",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "xiao-pengyou",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 233,
+    "hanzi": "小朋友",
+    "traditional": "小朋友",
+    "pinyin": "xiǎo péngyǒu",
+    "meaning": {
+      "en": "little friend; child",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "xiaoshi",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 234,
+    "hanzi": "小时",
+    "traditional": "小時",
+    "pinyin": "xiǎoshí",
+    "meaning": {
+      "en": "hour",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["time"]
+  },
+  {
+    "id": "xiaoxue",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 235,
+    "hanzi": "小学",
+    "traditional": "小學",
+    "pinyin": "xiǎoxué",
+    "meaning": {
+      "en": "primary school",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["school"]
+  },
+  {
+    "id": "xiaoxuesheng",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 236,
+    "hanzi": "小学生",
+    "traditional": "小學生",
+    "pinyin": "xiǎoxuéshēng",
+    "meaning": {
+      "en": "primary school student",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["school"]
+  },
+  {
+    "id": "xiawu",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 237,
+    "hanzi": "下午",
+    "traditional": "下午",
+    "pinyin": "xiàwǔ",
+    "meaning": {
+      "en": "afternoon",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "xie",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 238,
+    "hanzi": "写",
+    "traditional": "寫",
+    "pinyin": "xiě",
+    "meaning": {
+      "en": "to write",
+      "ar": ""
+    },
+    "partOfSpeech": "verb",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "xie-2",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 239,
+    "hanzi": "些",
+    "traditional": "些",
+    "pinyin": "xiē",
+    "meaning": {
+      "en": "some",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "xiexie",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 240,
+    "hanzi": "谢谢",
+    "traditional": "謝謝",
+    "pinyin": "xièxie",
+    "meaning": {
+      "en": "thank you",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "xi-huan",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 241,
+    "hanzi": "喜欢",
+    "traditional": "喜歡",
+    "pinyin": "xǐ huān",
+    "meaning": {
+      "en": "to like",
+      "ar": ""
+    },
+    "partOfSpeech": "verb",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "xin",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 242,
+    "hanzi": "新",
+    "traditional": "新",
+    "pinyin": "xīn",
+    "meaning": {
+      "en": "new",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "xingqi",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 243,
+    "hanzi": "星期",
+    "traditional": "星期",
+    "pinyin": "xīngqī",
+    "meaning": {
+      "en": "week; day of the week",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["time"]
+  },
+  {
+    "id": "xingqiri",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 244,
+    "hanzi": "星期日",
+    "traditional": "星期日",
+    "pinyin": "xīngqīrì",
+    "meaning": {
+      "en": "Sunday",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["time"]
+  },
+  {
+    "id": "xingqitian",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 245,
+    "hanzi": "星期天",
+    "traditional": "星期天",
+    "pinyin": "xīngqītiān",
+    "meaning": {
+      "en": "Sunday",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["time"]
+  },
+  {
+    "id": "xiuxi",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 246,
+    "hanzi": "休息",
+    "traditional": "休息",
+    "pinyin": "xiūxi",
+    "meaning": {
+      "en": "rest",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "xue",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 247,
+    "hanzi": "学",
+    "traditional": "學",
+    "pinyin": "xué",
+    "meaning": {
+      "en": "learn; study",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["school"]
+  },
+  {
+    "id": "xue-2",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 248,
+    "hanzi": "雪",
+    "traditional": "雪",
+    "pinyin": "xuě",
+    "meaning": {
+      "en": "snow",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "xuesheng",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 249,
+    "hanzi": "学生",
+    "traditional": "學生",
+    "pinyin": "xuéshēng",
+    "meaning": {
+      "en": "student",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["school"]
+  },
+  {
+    "id": "xuexi",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 250,
+    "hanzi": "学习",
+    "traditional": "學習",
+    "pinyin": "xuéxí",
+    "meaning": {
+      "en": "study; learn",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["school"]
+  },
+  {
+    "id": "xuexiao",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 251,
+    "hanzi": "学校",
+    "traditional": "學校",
+    "pinyin": "xuéxiào",
+    "meaning": {
+      "en": "school",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["school"]
+  },
+  {
+    "id": "yao",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 252,
+    "hanzi": "要",
+    "traditional": "要",
+    "pinyin": "yào",
+    "meaning": {
+      "en": "to want; to need",
+      "ar": ""
+    },
+    "partOfSpeech": "verb",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "ye",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 253,
+    "hanzi": "也",
+    "traditional": "也",
+    "pinyin": "yě",
+    "meaning": {
+      "en": "also; too",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "yi",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 254,
+    "hanzi": "一",
+    "traditional": "一",
+    "pinyin": "yī",
+    "meaning": {
+      "en": "one",
+      "ar": ""
+    },
+    "partOfSpeech": "number",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "yi-ban",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 255,
+    "hanzi": "一半",
+    "traditional": "一半",
+    "pinyin": "yī bàn",
+    "meaning": {
+      "en": "half",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "yidianr",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 256,
+    "hanzi": "一点儿",
+    "traditional": "一點兒",
+    "pinyin": "yīdiǎnr",
+    "meaning": {
+      "en": "a little; some",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "yi-fu",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 257,
+    "hanzi": "衣服",
+    "traditional": "衣服",
+    "pinyin": "yī fú",
+    "meaning": {
+      "en": "clothes",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "yi-sheng",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 258,
+    "hanzi": "医生",
+    "traditional": "醫生",
+    "pinyin": "yī shēng",
+    "meaning": {
+      "en": "doctor",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["health"]
+  },
+  {
+    "id": "yi-xia",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 259,
+    "hanzi": "一下",
+    "traditional": "一下",
+    "pinyin": "yī xià",
+    "meaning": {
+      "en": "a moment, briefly",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "yixie",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 260,
+    "hanzi": "一些",
+    "traditional": "一些",
+    "pinyin": "yīxiē",
+    "meaning": {
+      "en": "some; a few",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "yi-yuan",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 261,
+    "hanzi": "医院",
+    "traditional": "醫院",
+    "pinyin": "yī yuàn",
+    "meaning": {
+      "en": "hospital",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["health"]
+  },
+  {
+    "id": "yi-zi",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 262,
+    "hanzi": "椅子",
+    "traditional": "椅子",
+    "pinyin": "yǐ zi",
+    "meaning": {
+      "en": "chair",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "you",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 263,
+    "hanzi": "有",
+    "traditional": "有",
+    "pinyin": "yǒu",
+    "meaning": {
+      "en": "have; there is/are",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "youde",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 264,
+    "hanzi": "有的",
+    "traditional": "有的",
+    "pinyin": "yǒude",
+    "meaning": {
+      "en": "some",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "you-xie",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 265,
+    "hanzi": "有些",
+    "traditional": "有些",
+    "pinyin": "yǒu xiē",
+    "meaning": {
+      "en": "some, a few",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "you-dian-er",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 266,
+    "hanzi": "有点儿",
+    "traditional": "有點兒",
+    "pinyin": "yǒu diǎn er",
+    "meaning": {
+      "en": "a little bit",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "yu",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 267,
+    "hanzi": "雨",
+    "traditional": "雨",
+    "pinyin": "yǔ",
+    "meaning": {
+      "en": "rain",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "yuan",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 268,
+    "hanzi": "元",
+    "traditional": "元",
+    "pinyin": "yuán",
+    "meaning": {
+      "en": "yuan (currency)",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "yue",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 269,
+    "hanzi": "月",
+    "traditional": "月",
+    "pinyin": "yuè",
+    "meaning": {
+      "en": "month; moon",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["time"]
+  },
+  {
+    "id": "zai",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 270,
+    "hanzi": "再",
+    "traditional": "再",
+    "pinyin": "zài",
+    "meaning": {
+      "en": "again; once more",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "zai-2",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 271,
+    "hanzi": "在",
+    "traditional": "在",
+    "pinyin": "zài",
+    "meaning": {
+      "en": "at; in; on",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "zaijian",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 272,
+    "hanzi": "再见",
+    "traditional": "再見",
+    "pinyin": "zàijiàn",
+    "meaning": {
+      "en": "goodbye",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "zao",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 273,
+    "hanzi": "早",
+    "traditional": "早",
+    "pinyin": "zǎo",
+    "meaning": {
+      "en": "early; morning",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "zaofan",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 274,
+    "hanzi": "早饭",
+    "traditional": "早飯",
+    "pinyin": "zǎofàn",
+    "meaning": {
+      "en": "breakfast",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "zaoshang",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 275,
+    "hanzi": "早上",
+    "traditional": "早上",
+    "pinyin": "zǎoshàng",
+    "meaning": {
+      "en": "morning",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "zenme",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 276,
+    "hanzi": "怎么",
+    "traditional": "怎麼",
+    "pinyin": "zěnme",
+    "meaning": {
+      "en": "how; why",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "zenme-yang",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 277,
+    "hanzi": "怎么样",
+    "traditional": "怎麼樣",
+    "pinyin": "zěnme yàng",
+    "meaning": {
+      "en": "how about",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "zhao",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 278,
+    "hanzi": "找",
+    "traditional": "找",
+    "pinyin": "zhǎo",
+    "meaning": {
+      "en": "to look for",
+      "ar": ""
+    },
+    "partOfSpeech": "verb",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "zhe",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 279,
+    "hanzi": "这",
+    "traditional": "這",
+    "pinyin": "zhè",
+    "meaning": {
+      "en": "this",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "zhe-bian",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 280,
+    "hanzi": "这边",
+    "traditional": "這邊",
+    "pinyin": "zhè bian",
+    "meaning": {
+      "en": "this side; here",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "zhe-ge",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 281,
+    "hanzi": "这个",
+    "traditional": "這個",
+    "pinyin": "zhè ge",
+    "meaning": {
+      "en": "this one",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "zhe-li",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 282,
+    "hanzi": "这里",
+    "traditional": "這裡",
+    "pinyin": "zhè lǐ",
+    "meaning": {
+      "en": "here",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "zhen",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 283,
+    "hanzi": "真",
+    "traditional": "真",
+    "pinyin": "zhēn",
+    "meaning": {
+      "en": "really; truly",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "zhengzai",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 284,
+    "hanzi": "正在",
+    "traditional": "正在",
+    "pinyin": "zhèngzài",
+    "meaning": {
+      "en": "in the process of; currently",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "zher",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 285,
+    "hanzi": "这儿",
+    "traditional": "這兒",
+    "pinyin": "zhèr",
+    "meaning": {
+      "en": "here",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "zhe-xie",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 286,
+    "hanzi": "这些",
+    "traditional": "這些",
+    "pinyin": "zhè xiē",
+    "meaning": {
+      "en": "these",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "zhi",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 287,
+    "hanzi": "只",
+    "traditional": "只",
+    "pinyin": "zhǐ",
+    "meaning": {
+      "en": "only",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "zhidao",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 288,
+    "hanzi": "知道",
+    "traditional": "知道",
+    "pinyin": "zhīdào",
+    "meaning": {
+      "en": "know",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "zhongguo",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 289,
+    "hanzi": "中国",
+    "traditional": "中國",
+    "pinyin": "Zhōngguó",
+    "meaning": {
+      "en": "China",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "zhongwen",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 290,
+    "hanzi": "中文",
+    "traditional": "中文",
+    "pinyin": "Zhōngwén",
+    "meaning": {
+      "en": "Chinese (language)",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "zhongwu",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 291,
+    "hanzi": "中午",
+    "traditional": "中午",
+    "pinyin": "zhōngwǔ",
+    "meaning": {
+      "en": "noon",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "zhongxue",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 292,
+    "hanzi": "中学",
+    "traditional": "中學",
+    "pinyin": "zhōngxué",
+    "meaning": {
+      "en": "middle school",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["school"]
+  },
+  {
+    "id": "zhongxuesheng",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 293,
+    "hanzi": "中学生",
+    "traditional": "中學生",
+    "pinyin": "zhōngxuéshēng",
+    "meaning": {
+      "en": "middle school student",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["school"]
+  },
+  {
+    "id": "zhu",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 294,
+    "hanzi": "住",
+    "traditional": "住",
+    "pinyin": "zhù",
+    "meaning": {
+      "en": "live; reside",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "zhuozi",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 295,
+    "hanzi": "桌子",
+    "traditional": "桌子",
+    "pinyin": "zhuōzi",
+    "meaning": {
+      "en": "table",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "zi",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 296,
+    "hanzi": "字",
+    "traditional": "字",
+    "pinyin": "zì",
+    "meaning": {
+      "en": "character; word",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "zuo",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 297,
+    "hanzi": "坐",
+    "traditional": "坐",
+    "pinyin": "zuò",
+    "meaning": {
+      "en": "sit; take (transport)",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "zuo-2",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 298,
+    "hanzi": "做",
+    "traditional": "做",
+    "pinyin": "zuò",
+    "meaning": {
+      "en": "do; make",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "zuo-fan",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 299,
+    "hanzi": "做饭",
+    "traditional": "做飯",
+    "pinyin": "zuò fàn",
+    "meaning": {
+      "en": "to cook",
+      "ar": ""
+    },
+    "partOfSpeech": "verb",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": []
+  },
+  {
+    "id": "zuotian",
+    "source": "Chinese Language Hub HSK 3.0 export",
+    "hskLevel": 1,
+    "order": 300,
+    "hanzi": "昨天",
+    "traditional": "昨天",
+    "pinyin": "zuótiān",
+    "meaning": {
+      "en": "yesterday",
+      "ar": ""
+    },
+    "partOfSpeech": "unknown",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "audio": {
+      "word": null,
+      "example": null
+    },
+    "tags": ["time"]
+  }
+]

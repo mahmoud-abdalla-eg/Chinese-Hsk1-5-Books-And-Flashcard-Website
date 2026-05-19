@@ -1,0 +1,100 @@
+@import "tailwindcss";
+
+:root {
+  --background: #f8eddd;
+  --foreground: #172033;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans:
+    "Aptos", "Segoe UI", "Noto Sans Arabic", "Noto Sans SC", sans-serif;
+  --font-serif: "Georgia", "Noto Serif SC", serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+::selection {
+  background: #f5c46b;
+  color: #20180f;
+}
+
+html {
+  background: #20180f;
+}
+
+body {
+  min-height: 100vh;
+  background:
+    radial-gradient(
+      circle at 10% 0%,
+      rgba(245, 158, 11, 0.22),
+      transparent 28rem
+    ),
+    radial-gradient(
+      circle at 90% 10%,
+      rgba(20, 184, 166, 0.17),
+      transparent 30rem
+    ), linear-gradient(135deg, #fbf2e4 0%, #f7e7d4 46%, #eef7ef 100%);
+  color: var(--foreground);
+  font-family:
+    "Aptos", "Segoe UI", "Noto Sans Arabic", "Noto Sans SC", sans-serif;
+}
+
+[dir="rtl"] body {
+  font-family: "Noto Sans Arabic", "Segoe UI", Tahoma, sans-serif;
+}
+
+.dark body {
+  background:
+    radial-gradient(
+      circle at 10% 0%,
+      rgba(245, 158, 11, 0.14),
+      transparent 28rem
+    ),
+    radial-gradient(
+      circle at 90% 10%,
+      rgba(14, 165, 233, 0.12),
+      transparent 30rem
+    ), linear-gradient(135deg, #06080f 0%, #101827 52%, #111614 100%);
+}
+
+.hanzi-display {
+  font-family: "Noto Serif SC", "Songti SC", "SimSun", serif;
+}
+
+.text-balance {
+  text-wrap: balance;
+}
+
+@keyframes rise-in {
+  from {
+    opacity: 0;
+    transform: translateY(18px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes float-soft {
+  0%,
+  100% {
+    transform: translateY(0) rotate(-1deg);
+  }
+  50% {
+    transform: translateY(-10px) rotate(1deg);
+  }
+}
+
+.animate-rise-in {
+  animation: rise-in 700ms ease both;
+}
+
+.animate-float-soft {
+  animation: float-soft 6s ease-in-out infinite;
+}

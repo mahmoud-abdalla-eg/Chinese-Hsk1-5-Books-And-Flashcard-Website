@@ -1,0 +1,51 @@
+{
+  "id": "hsk-5-unit-32-conversation-1",
+  "hskLevel": 5,
+  "unitId": 32,
+  "status": "needs-authoring",
+  "title": {
+    "en": "Unit 32 conversation authoring brief",
+    "zh": "第32单元会话编写说明",
+    "ar": "موجز تأليف محادثة الوحدة 32"
+  },
+  "targetVocabularyIds": [
+    "zijue",
+    "zi-mu",
+    "zinu",
+    "zishen",
+    "zi-shi",
+    "zi-xun",
+    "ziyou",
+    "zi-yuan",
+    "zongbu",
+    "zong-gong",
+    "zong-he",
+    "zongshu",
+    "zongti",
+    "zong-tong",
+    "zong-zhi",
+    "zu",
+    "zucheng",
+    "zugou",
+    "zuhe",
+    "zui",
+    "zui-ba",
+    "zui-chu",
+    "zuijia",
+    "zujin",
+    "zunjing",
+    "zunshou",
+    "zuo-chu",
+    "zu-zhi",
+    "zuzhi"
+  ],
+  "dialogue": [],
+  "grammarNotes": [],
+  "culturalNotes": [],
+  "comprehensionQuestions": [],
+  "shadowingPractice": {
+    "enabled": true,
+    "mode": "line-by-line"
+  },
+  "authoringNote": "This scaffold intentionally contains no invented dialogue. Add reviewed Chinese, pinyin, English, Arabic, and real audio paths before marking complete."
+}
