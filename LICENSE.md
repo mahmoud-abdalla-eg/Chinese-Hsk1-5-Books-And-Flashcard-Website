@@ -1,47 +1,74 @@
-Chinese HSK Website Non-Commercial Source-Available License v1.0
+# Source Available — Non-Commercial License
 
 Copyright (c) 2026 Mahmoud Abdalla
 
-This software, source code, documentation, design, learning content, conversations, flashcards, and related project files are made available for personal and educational non-commercial use only.
+This license applies to the project known as:
 
-1. Permission Granted
+**Mandarin Flow HSK — HSK 1–5 Books & Flashcards Website**
+
+## 1. Permission
 
 You are allowed to:
 
-- View and study the source code.
-- Clone or fork the repository for personal learning.
-- Run the project locally for personal or educational purposes.
-- Modify the project for your own non-commercial use.
-- Share non-commercial improvements or contributions back to the original repository.
+- view the source code,
+- download the source code,
+- use the project for personal learning,
+- use the project for educational study,
+- modify the project for personal or educational use,
+- share small code snippets for discussion, review, or learning.
 
-2. Restrictions
+## 2. Restrictions
 
-You are not allowed to do any of the following without prior written permission from the copyright owner:
+You are **not allowed** to:
 
-- Sell, resell, rent, lease, sublicense, or commercially redistribute the project or any substantial part of it.
-- Repackage the project as a paid template, paid course asset, paid website, paid application, or paid digital product.
-- Offer the project, a modified version of it, or a substantially similar derivative as a paid SaaS, subscription product, hosted learning platform, or commercial service.
-- Use the project in paid client work, commercial agency work, or any work performed for commercial advantage or monetary compensation.
-- Remove or alter copyright notices, author attribution, or this license.
-- Claim the original project, design, content, or learning structure as your own.
-- Use the project name, author name, branding, or repository identity in a way that suggests endorsement or partnership without written permission.
+- sell this project,
+- resell this project,
+- rent, lease, sublicense, or commercially distribute this project,
+- publish this project as your own product,
+- use this project in a paid commercial product,
+- use this project as part of a paid SaaS, subscription, or hosted service,
+- sell modified versions of this project,
+- remove or hide the original author credit,
+- use the project name, design, branding, content, vocabulary structure, or learning materials commercially without written permission.
 
-3. Commercial Licensing
+## 3. Commercial Use
 
-Commercial use is not included in this license.
+Commercial use is not permitted unless you receive prior written permission from the copyright holder.
 
-For commercial licensing, resale permission, white-label use, SaaS use, paid educational use, or client project use, you must contact the copyright owner and obtain written permission first.
+Commercial use includes, but is not limited to:
 
-4. Contributions
+- selling access to the website,
+- selling the code,
+- selling a modified version,
+- using it for a paid course or paid learning platform,
+- hosting it as a paid service,
+- using it inside a commercial product,
+- using it to provide paid services to clients.
 
-By submitting a contribution to this project, you agree that your contribution may be included in the project under this same non-commercial source-available license.
+To request commercial permission, contact the author.
 
-5. Termination
+## 4. Contributions
 
-If you violate this license, your permission to use, copy, modify, or distribute the project ends automatically. You must stop using the project and remove any unauthorized copies, distributions, or commercial versions.
+If you contribute code, content, translations, design improvements, or documentation to this project, you agree that your contribution will be licensed under this same license.
 
-6. No Warranty
+## 5. Ownership
 
-THE PROJECT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, OR ACCURACY OF LEARNING CONTENT.
+The copyright holder keeps full ownership of the original project, source code, content, design, structure, name, and related materials.
 
-IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE PROJECT.
+This license does not transfer ownership to users, contributors, or third parties.
+
+## 6. No Warranty
+
+This project is provided "as is", without warranty of any kind.
+
+The author is not responsible for any damage, data loss, legal issue, business loss, or other problem caused by using, modifying, or distributing this project.
+
+## 7. Termination
+
+If you violate this license, your permission to use the project ends immediately.
+
+After termination, you must stop using the project and remove any copies, hosted versions, or modified versions that violate this license.
+
+---
+
+This project is **source available**, but it is **not open source under the OSI definition** and it is **not MIT licensed**.
