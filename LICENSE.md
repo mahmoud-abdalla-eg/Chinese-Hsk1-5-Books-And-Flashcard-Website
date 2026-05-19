@@ -71,4 +71,4 @@ After termination, you must stop using the project and remove any copies, hosted
 
 ---
 
-This project is **source available**, but it is **not open source under the OSI definition** and it is **not MIT licensed**.
+This project is **source available** for learning and review, but commercial use is not allowed without written permission.

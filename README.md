@@ -1,6 +1,6 @@
 # Mandarin Flow HSK — HSK 1–5 Books & Flashcards Website
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: Source Available — Non-Commercial](https://img.shields.io/badge/License-Source%20Available--Non--Commercial-red.svg)](./LICENSE.md)
 
 A multilingual, conversation-first Chinese learning platform for HSK 1–5 learners.
 
@@ -85,7 +85,7 @@ Learners can:
 
 The website includes pronunciation practice features where learners can record themselves and receive an estimated browser-based score.
 
-> Note: The pronunciation score is currently an estimated score. It can be upgraded later with a dedicated pronunciation assessment service such as Azure Speech Assessment.
+> Note: The pronunciation score is currently an estimated score. It can be upgraded later with a dedicated pronunciation assessment service.
 
 ### Multilingual Interface
 
@@ -167,6 +167,7 @@ Chinese-Hsk1-5-Books-And-Flashcard-Website/
 ├── hsk 4/
 ├── hsk 5/
 ├── HSK 1-6 Grammar.pdf
+├── LICENSE.md
 └── README.md
 ```
 
@@ -266,7 +267,7 @@ You can also deploy the Next.js app to platforms such as:
 
 ## Contributing
 
-Contributions are welcome.
+Contributions are welcome for learning and educational improvement.
 
 Good areas for contribution include:
 
@@ -279,14 +280,16 @@ Good areas for contribution include:
 - Improving UI/UX
 - Adding tests and validation scripts
 
+By contributing, you agree that your contribution will follow the same license as this project.
+
 ## Author
 
 Created by [Mahmoud Abdalla](https://github.com/mahmoud-abdalla-eg).
 
 ## License
 
-This project is open source and licensed under the **MIT License**.
+This project is released under a **Source Available — Non-Commercial License**.
 
-You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the project, as long as the original copyright notice and MIT license text are included.
+You may view, study, and modify the source code for personal or educational use, but you may not sell, resell, commercially distribute, host as a paid service, or use this project commercially without written permission from the author.
 
-See the [LICENSE](LICENSE) file for full details.
+See the full license here: [LICENSE.md](./LICENSE.md).
