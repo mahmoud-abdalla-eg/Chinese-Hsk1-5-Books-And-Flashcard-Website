@@ -1,0 +1,5332 @@
+[
+  {
+    "id": "hsk-1-1.03.1",
+    "hskLevel": 1,
+    "lessonCode": "1.03.1",
+    "pattern": "什么 shénme what",
+    "example": {
+      "hanzi": "这是什么?",
+      "pinyin": "zhè shì shénme?",
+      "en": "What is this?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.03.1",
+    "hskLevel": 1,
+    "lessonCode": "1.03.1",
+    "pattern": "什么 N shénme N what kind of N",
+    "example": {
+      "hanzi": "那是什么书?",
+      "pinyin": "nàshi shénme shū?",
+      "en": "What book is that?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.03.2",
+    "hskLevel": 1,
+    "lessonCode": "1.03.2",
+    "pattern": "不是 bùshì not to be",
+    "example": {
+      "hanzi": "我不是美国人。",
+      "pinyin": "wǒ bùshì Měiguórén。",
+      "en": "I am not an American.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.03.2",
+    "hskLevel": 1,
+    "lessonCode": "1.03.2",
+    "pattern": "是 shì to be",
+    "example": {
+      "hanzi": "她是老师。",
+      "pinyin": "tā shì lǎoshī。",
+      "en": "She is a teacher.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.03.3",
+    "hskLevel": 1,
+    "lessonCode": "1.03.3",
+    "pattern": "吗? ma? right?",
+    "example": {
+      "hanzi": "你是老师吗?",
+      "pinyin": "nǐ shì lǎoshī ma?",
+      "en": "You’re a teacher, right?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.04.1",
+    "hskLevel": 1,
+    "lessonCode": "1.04.1",
+    "pattern": "谁 shéi who",
+    "example": {
+      "hanzi": "她是谁?",
+      "pinyin": "tā shì shéi?",
+      "en": "Who is she?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.04.1",
+    "hskLevel": 1,
+    "lessonCode": "1.04.1",
+    "pattern": "哪 M N nǎ M N which N",
+    "example": {
+      "hanzi": "哪个人?",
+      "pinyin": "nǎ gèrén?",
+      "en": "Which person?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.04.2",
+    "hskLevel": 1,
+    "lessonCode": "1.04.2",
+    "pattern": "(的) ( de) ’s",
+    "example": {
+      "hanzi": "她是我 (的) 老师。",
+      "pinyin": "tā shì wǒ ( de) lǎoshī。",
+      "en": "She is my teacher.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.04.3",
+    "hskLevel": 1,
+    "lessonCode": "1.04.3",
+    "pattern": "N 呢? N ne? what about N?",
+    "example": {
+      "hanzi": "我是中国人，你呢?",
+      "pinyin": "wǒ shì Zhōngguórén， nǐ ne?",
+      "en": "I am Chinese, what about you?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.05.1",
+    "hskLevel": 1,
+    "lessonCode": "1.05.1",
+    "pattern": "几 M N jǐ M N how many N",
+    "example": {
+      "hanzi": "你有几个汉语老师?",
+      "pinyin": "nǐ yǒu jǐge Hànyǔ lǎoshī?",
+      "en": "How many teachers do you have?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.05.2",
+    "hskLevel": 1,
+    "lessonCode": "1.05.2",
+    "pattern": "一～九十九 yī～ jiǔ shíjiǔ 1 ~ 99 九十一 jiǔ shí·yī 1 - 99",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.05.3",
+    "hskLevel": 1,
+    "lessonCode": "1.05.3",
+    "pattern": "AGE 了 AGE le became AGE",
+    "example": {
+      "hanzi": "我40岁了。",
+      "pinyin": "wǒ40 suì le。",
+      "en": "I’m 40 years old.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.05.4",
+    "hskLevel": 1,
+    "lessonCode": "1.05.4",
+    "pattern": "多大 duōdà how old",
+    "example": {
+      "hanzi": "你女儿多大了？",
+      "pinyin": "nǐ nǚ'ér duōdà le？",
+      "en": "How old is your daughter?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.06.1",
+    "hskLevel": 1,
+    "lessonCode": "1.06.1",
+    "pattern": "会 V huì V know how to V",
+    "example": {
+      "hanzi": "我会写。",
+      "pinyin": "wǒ huì xiě。",
+      "en": "I know how to write.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.06.2",
+    "hskLevel": 1,
+    "lessonCode": "1.06.2",
+    "pattern": "很 hěn very 我很好 wǒ hěn hǎo I am good.",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.06.3",
+    "hskLevel": 1,
+    "lessonCode": "1.06.3",
+    "pattern": "怎么 V zěnme V how to V",
+    "example": {
+      "hanzi": "这个怎么读?",
+      "pinyin": "zhège zěnme dú?",
+      "en": "How do you read this?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.07.1",
+    "hskLevel": 1,
+    "lessonCode": "1.07.1",
+    "pattern": "月、号/日、星期 yuè、 hào/ rì、 xīngqī (telling dates) 九月二号/日星期四 Jiǔyuè èrhào/ rì Xīngqīsì Thursday September 2",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.07.2",
+    "hskLevel": 1,
+    "lessonCode": "1.07.2",
+    "pattern": "(omitting",
+    "example": {
+      "hanzi": "是) 我汉语老师33岁。",
+      "pinyin": "wǒ Hànyǔ lǎoshī33 suì。",
+      "en": "My Chinese teacher is 33.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.07.3",
+    "hskLevel": 1,
+    "lessonCode": "1.07.3",
+    "pattern": "去 PLACE V qù PLACE V go to PLACE to do V",
+    "example": {
+      "hanzi": "我去学校学习。",
+      "pinyin": "wǒ qù xuéxiào xuéxí。",
+      "en": "I go to school to study.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.08.1",
+    "hskLevel": 1,
+    "lessonCode": "1.08.1",
+    "pattern": "想 xiǎng to want 我想看书 wǒ xiǎng kànshū I want to read books.",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.08.2",
+    "hskLevel": 1,
+    "lessonCode": "1.08.2",
+    "pattern": "多少 N duōshao N how much N",
+    "example": {
+      "hanzi": "你有多少汉语老师?",
+      "pinyin": "nǐ yǒu duōshao Hànyǔ lǎoshī?",
+      "en": "How many Chinese teachers do you have?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.08.3",
+    "hskLevel": 1,
+    "lessonCode": "1.08.3",
+    "pattern": "个 gè (measure word)五个学生 wǔ gè xuésheng 5 students",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.08.3",
+    "hskLevel": 1,
+    "lessonCode": "1.08.3",
+    "pattern": "口 kǒu (measure word)",
+    "example": {
+      "hanzi": "我家有五口人。",
+      "pinyin": "wǒ jiā yǒu wǔ kǒu rén。",
+      "en": "There are 5 people in our family.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.08.4",
+    "hskLevel": 1,
+    "lessonCode": "1.08.4",
+    "pattern": "元／块 yuán／ kuài (currency) 一元／块 yīyuán／ kuài one yuan",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.09.1",
+    "hskLevel": 1,
+    "lessonCode": "1.09.1",
+    "pattern": "在 zài at 他在椅子下⾯ tā zài yǐzi xiàmian He’s under the chair.",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.09.2",
+    "hskLevel": 1,
+    "lessonCode": "1.09.2",
+    "pattern": "",
+    "example": {
+      "hanzi": "哪儿？",
+      "pinyin": "nǎr？",
+      "en": "where 我的杯子在哪儿?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.09.3",
+    "hskLevel": 1,
+    "lessonCode": "1.09.3",
+    "pattern": "在 PLACE V zài PLACE V V at PLACE",
+    "example": {
+      "hanzi": "我在朋友家喝茶。",
+      "pinyin": "wǒ zài péngyou jiā hē chá。",
+      "en": "I am having tea at my friend’s home.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.09.4",
+    "hskLevel": 1,
+    "lessonCode": "1.09.4",
+    "pattern": "Q 呢 Q ne I wonder",
+    "example": {
+      "hanzi": "他在哪儿呢?",
+      "pinyin": "tā zàinǎr ne?",
+      "en": "Where is he, I wonder?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.09.4",
+    "hskLevel": 1,
+    "lessonCode": "1.09.4",
+    "pattern": "N 呢？ N ne？ where is N",
+    "example": {
+      "hanzi": "我的杯子呢?",
+      "pinyin": "wǒ de bēizi ne?",
+      "en": "Where is my cup?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.10.1",
+    "hskLevel": 1,
+    "lessonCode": "1.10.1",
+    "pattern": "PLACE 有 N PLACE yǒu N there is N at PLACE椅子下⾯有一只小狗 yǐzi xiàmian yǒu yī zhǐ xiǎogǒu There is a dog under the chair.",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.10.1",
+    "hskLevel": 1,
+    "lessonCode": "1.10.1",
+    "pattern": "PLACE 没有 N PLACE méiyǒu N there isn’t N at PLACE",
+    "example": {
+      "hanzi": "这儿没有人。",
+      "pinyin": "zhèr méiyǒu rén。",
+      "en": "There isn’t anyone here.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.10.2",
+    "hskLevel": 1,
+    "lessonCode": "1.10.2",
+    "pattern": "和 hé and 爸爸、妈妈和我 bàba、 māma hé wǒ dad, mom and I",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.10.3",
+    "hskLevel": 1,
+    "lessonCode": "1.10.3",
+    "pattern": "能 néng can",
+    "example": {
+      "hanzi": "我能坐这儿吗?。",
+      "pinyin": "wǒ néng zuò zhèr ma?",
+      "en": "Can I sit here?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.10.4",
+    "hskLevel": 1,
+    "lessonCode": "1.10.4",
+    "pattern": "请 V qǐng V please V",
+    "example": {
+      "hanzi": "请坐。",
+      "pinyin": "qǐng zuò。",
+      "en": "Please sit.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.11.1",
+    "hskLevel": 1,
+    "lessonCode": "1.11.1",
+    "pattern": "# 点 # 分 # diǎn # fēn # hour # minute十一点十分 shí yīdiǎn shífēn 11:10",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.11.1",
+    "hskLevel": 1,
+    "lessonCode": "1.11.1",
+    "pattern": "上午／下午 shàngwǔ／ xiàwǔ AM/PM 下午三点十分 xiàwǔ sān diǎn shífēn 3:10 PM",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.11.2",
+    "hskLevel": 1,
+    "lessonCode": "1.11.2",
+    "pattern": "S TIME V S TIME V (time phrase)",
+    "example": {
+      "hanzi": "妈妈六点做饭。",
+      "pinyin": "māma liù diǎn zuòfàn。",
+      "en": "Mom cooks at six.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.11.2",
+    "hskLevel": 1,
+    "lessonCode": "1.11.2",
+    "pattern": "TIME S V TIME S V (time phrase)",
+    "example": {
+      "hanzi": "七点我吃饭。",
+      "pinyin": "qī diǎn wǒ chīfàn。",
+      "en": "I eat at seven.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.11.3",
+    "hskLevel": 1,
+    "lessonCode": "1.11.3",
+    "pattern": "TIME 前 TIME qián before TIME 星期五前 Xīngqīwǔ qián before Friday",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.11.3",
+    "hskLevel": 1,
+    "lessonCode": "1.11.3",
+    "pattern": "DURATION 前 DURATION qián DURATION ago一个星期前 yī gè xīngqī qián a week ago",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.12.1",
+    "hskLevel": 1,
+    "lessonCode": "1.12.1",
+    "pattern": "N",
+    "example": {
+      "hanzi": "怎么样？",
+      "pinyin": "N zěnmeyàng？",
+      "en": "how is N?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.12.2",
+    "hskLevel": 1,
+    "lessonCode": "1.12.2",
+    "pattern": "(的) ( de) (omission of",
+    "example": {
+      "hanzi": "的) 我身体不太好。",
+      "pinyin": "wǒ shēntǐ bùtàihǎo。",
+      "en": "My health isn’t very good.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.12.3",
+    "hskLevel": 1,
+    "lessonCode": "1.12.3",
+    "pattern": "太 A (了) tài A ( le) too A 天⽓",
+    "example": {
+      "hanzi": "太冷 (了)。",
+      "pinyin": "tiānqì tài lěng ( le)。",
+      "en": "The weather’s too cold.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.12.3",
+    "hskLevel": 1,
+    "lessonCode": "1.12.3",
+    "pattern": "(不) 太 A ( bù) tài A not too A",
+    "example": {
+      "hanzi": "我身体不太好。",
+      "pinyin": "wǒ shēntǐ bùtàihǎo。",
+      "en": "My health is not too good.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.12.4",
+    "hskLevel": 1,
+    "lessonCode": "1.12.4",
+    "pattern": "会 V huì V will V",
+    "example": {
+      "hanzi": "你会回家吗？",
+      "pinyin": "nǐ huì huíjiā ma？",
+      "en": "Will you come home?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.13.1",
+    "hskLevel": 1,
+    "lessonCode": "1.13.1",
+    "pattern": "喂 wèi hello",
+    "example": {
+      "hanzi": "喂，李老师在家吗？",
+      "pinyin": "wèi， lǐ lǎoshī zài jiā ma？",
+      "en": "Hello, is Teacher Li home?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.13.2",
+    "hskLevel": 1,
+    "lessonCode": "1.13.2",
+    "pattern": "在 V (呢) zài V ( ne) V-ing",
+    "example": {
+      "hanzi": "我在睡觉 (呢)。",
+      "pinyin": "wǒ zài shuìjiào ( ne)。",
+      "en": "I’m sleeping.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.13.2",
+    "hskLevel": 1,
+    "lessonCode": "1.13.2",
+    "pattern": "没 在 V (呢) méi zài V ( ne) not V-ing",
+    "example": {
+      "hanzi": "他们没在看电视 (呢)。",
+      "pinyin": "tāmen méi zài kàn diànshì ( ne)。",
+      "en": "They’re not watching TV.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.13.3",
+    "hskLevel": 1,
+    "lessonCode": "1.13.3",
+    "pattern": "1 (yāo) 1 (yāo) (1 in telephony)138-0156-7749 138-0156-7749 1 reads as yāo.",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.13.4",
+    "hskLevel": 1,
+    "lessonCode": "1.13.4",
+    "pattern": "V 吧。 V ba。 feel free to V",
+    "example": {
+      "hanzi": "这儿没有人，坐吧。",
+      "pinyin": "zhèr méiyǒu rén， zuò ba。",
+      "en": "Nobody’s here, (feel free to) sit.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.14.1",
+    "hskLevel": 1,
+    "lessonCode": "1.14.1",
+    "pattern": "V O 了 V O le have V’ed O",
+    "example": {
+      "hanzi": "他去学校了。",
+      "pinyin": "tā qù xuéxiào le。",
+      "en": "He went to learn how to drive.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.14.1",
+    "hskLevel": 1,
+    "lessonCode": "1.14.1",
+    "pattern": "V 了 O V le O have V’ed O",
+    "example": {
+      "hanzi": "我买了不少衣服。",
+      "pinyin": "wǒ mǎi le bùshǎo yīfu。",
+      "en": "I bought a lot of clothes.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.14.1",
+    "hskLevel": 1,
+    "lessonCode": "1.14.1",
+    "pattern": "没 V O méi V O have not V’ed O",
+    "example": {
+      "hanzi": "她没去商店。",
+      "pinyin": "tā méi qù shāngdiàn。",
+      "en": "She didn’t go to the store.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.14.2",
+    "hskLevel": 1,
+    "lessonCode": "1.14.2",
+    "pattern": "TIME 后 TIME hòu after TIME 五点后 wǔ diǎn hòu after 5",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.14.2",
+    "hskLevel": 1,
+    "lessonCode": "1.14.2",
+    "pattern": "DURATION 后 DURATION hòu after DURATION四十分钟后 sìshí fēnzhōng hòu after 40 minutes",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.14.3",
+    "hskLevel": 1,
+    "lessonCode": "1.14.3",
+    "pattern": "……啊 …… ā (exclamation)",
+    "example": {
+      "hanzi": "好啊。是啊。",
+      "pinyin": "hǎo ā。",
+      "en": "shì ā。",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.14.4",
+    "hskLevel": 1,
+    "lessonCode": "1.14.4",
+    "pattern": "都 N dōu N both Ns",
+    "example": {
+      "hanzi": "我们都是中国人。",
+      "pinyin": "wǒmen dōu shì Zhōngguórén。",
+      "en": "We both are Chinese.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.15.1",
+    "hskLevel": 1,
+    "lessonCode": "1.15.1",
+    "pattern": "S 是 MANNER V 的S shì MANNER V de it is MANNER that S V",
+    "example": {
+      "hanzi": "我们是开车来的。",
+      "pinyin": "wǒmen shì kāichē lái de。",
+      "en": "We drove here.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-1-1.15.2",
+    "hskLevel": 1,
+    "lessonCode": "1.15.2",
+    "pattern": "年 nián year 二零一七年 èr líng yī qī nián Year 2017",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.01.1",
+    "hskLevel": 2,
+    "lessonCode": "2.01.1",
+    "pattern": "要 yào want to, will",
+    "example": {
+      "hanzi": "王芳要学英语。",
+      "pinyin": "wáng fāng yào xué Yīngyǔ。",
+      "en": "Wang Fang wants to / will learn English.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.01.2",
+    "hskLevel": 2,
+    "lessonCode": "2.01.2",
+    "pattern": "最 zuì the most",
+    "example": {
+      "hanzi": "它的眼睛最漂亮。",
+      "pinyin": "tā de yǎnjing zuì piàoliang。",
+      "en": "Its eyes are the prettiest.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.01.3",
+    "hskLevel": 2,
+    "lessonCode": "2.01.3",
+    "pattern": "几 jǐ several 几本书 jǐ běn shū several books",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.01.3",
+    "hskLevel": 2,
+    "lessonCode": "2.01.3",
+    "pattern": "十几 shíjǐ (any # from 11 to 19)十几本书 shíjǐ běn shū a dozen or more books",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.01.3",
+    "hskLevel": 2,
+    "lessonCode": "2.01.3",
+    "pattern": "几十 jǐ shí tens of 几十本书 jǐ shí běn shū tens of people",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.01.3",
+    "hskLevel": 2,
+    "lessonCode": "2.01.3",
+    "pattern": "# 几/多 # jǐ/ duō over # 二十几本书/二十多本书 èrshí jǐ běn shū/ èrshíduō běn shū twenty something books",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.01.3",
+    "hskLevel": 2,
+    "lessonCode": "2.01.3",
+    "pattern": "# M 多 月/星期 # M duō yuè/ xīngqī over # of months/ weeks 两个多月，三个多星期 liǎng gè duō yuè， sān gè duō xīngqī over two months, over three weeks",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.02.1",
+    "hskLevel": 2,
+    "lessonCode": "2.02.1",
+    "pattern": "V不V or A不A V bùV or A bùA (questions)",
+    "example": {
+      "hanzi": "我去商店，你去不去？",
+      "pinyin": "wǒ qù shāngdiàn， nǐ qù bù qù？",
+      "en": "I’m going to the shop, are you going?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.02.1",
+    "hskLevel": 2,
+    "lessonCode": "2.02.1",
+    "pattern": "是不是……？ shìbùshì……？ Is it true that…?",
+    "example": {
+      "hanzi": "你是不是喜欢运动？",
+      "pinyin": "nǐ shìbùshì xǐhuan yùndòng？",
+      "en": "Is it true that you like to exercise?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.02.2",
+    "hskLevel": 2,
+    "lessonCode": "2.02.2",
+    "pattern": "每 M N (都) V měi M N ( dōu) V every N V",
+    "example": {
+      "hanzi": "你每个星期六(都)工作吗？",
+      "pinyin": "nǐ měi gè Xīngqīliù( dōu) gōngzuò ma？",
+      "en": "Do you work every Saturday (without exception)?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.02.3",
+    "hskLevel": 2,
+    "lessonCode": "2.02.3",
+    "pattern": "多 A duō A how A 他多⾼？ tā duō gāo？ How tall is he?",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.03.1",
+    "hskLevel": 2,
+    "lessonCode": "2.03.1",
+    "pattern": "的 (N) de (N) (omitting nouns after",
+    "example": {
+      "hanzi": "的) 这个杯子是昨天买的(杯子)。",
+      "pinyin": "zhège bēizi shì zuótiān mǎi de( bēizi)。",
+      "en": "This cup is the one (cup) that was bought yesterday.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.03.2",
+    "hskLevel": 2,
+    "lessonCode": "2.03.2",
+    "pattern": "一下 yīxià once (quickly/easily)",
+    "example": {
+      "hanzi": "你去给老师送一下报纸。",
+      "pinyin": "nǐ qù gěi lǎoshī sòng yīxià bàozhǐ。",
+      "en": "Go and deliver the newspaper to your teacher.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.03.3",
+    "hskLevel": 2,
+    "lessonCode": "2.03.3",
+    "pattern": "真 zhēn very, truly ⽜",
+    "example": {
+      "hanzi": "奶真好喝啊！",
+      "pinyin": "niúnǎi zhēn hǎohē ā！",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.04.1",
+    "hskLevel": 2,
+    "lessonCode": "2.04.1",
+    "pattern": "O 是 S V 的 O shì S V de it’s S who V’ed O",
+    "example": {
+      "hanzi": "这本书是我买的。",
+      "pinyin": "zhè běn shū shì wǒ mǎi de。",
+      "en": "(It’s) I (who) bought the book.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.04.2",
+    "hskLevel": 2,
+    "lessonCode": "2.04.2",
+    "pattern": "……的时候 …… de shíhou the time when …",
+    "example": {
+      "hanzi": "我18岁的时候来过北京。",
+      "pinyin": "wǒ18 suì de shíhou lái guò Běijīng。",
+      "en": "I’ve come to Beijing when I was 18.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.04.3",
+    "hskLevel": 2,
+    "lessonCode": "2.04.3",
+    "pattern": "已经 V/A 了 yǐjīng V/A le already V/A",
+    "example": {
+      "hanzi": "我已经工作两年多了。",
+      "pinyin": "wǒ yǐjīng gōngzuò liǎng nián duō le。",
+      "en": "I already worked for over two years.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.05.1",
+    "hskLevel": 2,
+    "lessonCode": "2.05.1",
+    "pattern": "就 jiù just V then",
+    "example": {
+      "hanzi": "你不想去，就在家休息吧。",
+      "pinyin": "nǐ bùxiǎng qù， jiù zài jiā xiūxi ba。",
+      "en": "If you don't want to go, just rest at home then.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.05.2",
+    "hskLevel": 2,
+    "lessonCode": "2.05.2",
+    "pattern": "还 A hái A somewhat A",
+    "example": {
+      "hanzi": "昨天的考试还好。",
+      "pinyin": "zuótiān de kǎoshì háihǎo。",
+      "en": "Yesterday’s test was so-so (lit.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.05.3",
+    "hskLevel": 2,
+    "lessonCode": "2.05.3",
+    "pattern": "有点儿 A yǒudiǎnr A a bit A 今天天⽓",
+    "example": {
+      "hanzi": "有点儿冷。",
+      "pinyin": "jīntiān tiānqì yǒudiǎnr lěng。",
+      "en": "It's a bit cold today.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.06.1",
+    "hskLevel": 2,
+    "lessonCode": "2.06.1",
+    "pattern": "怎么 zěnme how come 你怎么不⾼兴? nǐ zěnme bù gāoxìng? How come you’re unhappy?",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.06.2",
+    "hskLevel": 2,
+    "lessonCode": "2.06.2",
+    "pattern": "N M M 都 N M M dōu every N 同学个个都很⾼兴。 tóngxué gègè dōu hěn gāoxìng。 Every student is very happy.",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.06.3",
+    "hskLevel": 2,
+    "lessonCode": "2.06.3",
+    "pattern": "因为……所以……yīnwèi…… suǒyǐ…… because… so…",
+    "example": {
+      "hanzi": "因为不好吃，所以我不吃。",
+      "pinyin": "yīnwèi bùhǎo chī， suǒyǐ wǒ bù chī。",
+      "en": "Because it’s not tasty, so I won’t eat it.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.07.1",
+    "hskLevel": 2,
+    "lessonCode": "2.07.1",
+    "pattern": "还 V hái V still V-ing",
+    "example": {
+      "hanzi": "八点了，他还在睡觉。",
+      "pinyin": "bā diǎn le， tā hái zài shuìjiào。",
+      "en": "It’s 8, he’s still sleeping.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.07.1",
+    "hskLevel": 2,
+    "lessonCode": "2.07.1",
+    "pattern": "还没 V hái méi V still haven’t V’ed",
+    "example": {
+      "hanzi": "你怎么还没吃饭？",
+      "pinyin": "nǐ zěnme hái méi chīfàn？",
+      "en": "How come you still haven’t eaten?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.07.2",
+    "hskLevel": 2,
+    "lessonCode": "2.07.2",
+    "pattern": "TIME 就 V TIME jiù V V as early as TIME",
+    "example": {
+      "hanzi": "同学们七点半就来教室了。",
+      "pinyin": "tóngxué men qī diǎn bàn jiù lái jiàoshì le。",
+      "en": "The students got to the classroom as early as 7:30.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.07.3",
+    "hskLevel": 2,
+    "lessonCode": "2.07.3",
+    "pattern": "N1 离 N2 DISTANCEN1 lí N2 DISTANCE N1 is DISTANCE away from N",
+    "example": {
+      "hanzi": "2 学校离机场20多公里。",
+      "pinyin": "xuéxiào lí jīchǎng20 duō gōnglǐ。",
+      "en": "The school is over 20 km away from the airport.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.07.4",
+    "hskLevel": 2,
+    "lessonCode": "2.07.4",
+    "pattern": "……呢! …… ne! (adding emphasis)",
+    "example": {
+      "hanzi": "他还在学习呢！",
+      "pinyin": "tā hái zài xuéxí ne！",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.08.1",
+    "hskLevel": 2,
+    "lessonCode": "2.08.1",
+    "pattern": "……",
+    "example": {
+      "hanzi": "好吗?",
+      "pinyin": "…… hǎo ma?",
+      "en": "…okay?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.08.2",
+    "hskLevel": 2,
+    "lessonCode": "2.08.2",
+    "pattern": "再 V zài V again",
+    "example": {
+      "hanzi": "你再看一下这本书吧。",
+      "pinyin": "nǐ zài kàn yīxià zhè běn shū ba。",
+      "en": "Take another look at this book.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.08.2",
+    "hskLevel": 2,
+    "lessonCode": "2.08.2",
+    "pattern": "再 V zài V then",
+    "example": {
+      "hanzi": "让我想想再告诉你。",
+      "pinyin": "ràng wǒ xiǎng xiǎng zài gàosu nǐ。",
+      "en": "Let me think about it, then I’ll let you know.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.08.2",
+    "hskLevel": 2,
+    "lessonCode": "2.08.2",
+    "pattern": "TIME 再 V TIME zài V V only until TIME",
+    "example": {
+      "hanzi": "我明天再去。",
+      "pinyin": "wǒ míngtiān zài qù。",
+      "en": "I’ll go (only until) tomorrow.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.08.3",
+    "hskLevel": 2,
+    "lessonCode": "2.08.3",
+    "pattern": "请/让/叫 O V qǐng/ ràng/ jiào O V invite/let/ask O to V",
+    "example": {
+      "hanzi": "我请你吃饭。",
+      "pinyin": "wǒ qǐng nǐ chīfàn。",
+      "en": "I’m inviting you to have a meal.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.08.4",
+    "hskLevel": 2,
+    "lessonCode": "2.08.4",
+    "pattern": "V V V V V for a bit",
+    "example": {
+      "hanzi": "你看看这几件衣服。",
+      "pinyin": "nǐ kànkan zhè jǐ jiàn yīfu。",
+      "en": "Take a look at these clothes.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.08.4",
+    "hskLevel": 2,
+    "lessonCode": "2.08.4",
+    "pattern": "V一V V yīV V for a bit",
+    "example": {
+      "hanzi": "你看一看这几件衣服。",
+      "pinyin": "nǐ kànyīkàn zhè jǐ jiàn yīfu。",
+      "en": "Take a look at these clothes.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.09.1",
+    "hskLevel": 2,
+    "lessonCode": "2.09.1",
+    "pattern": "V result V result (result complements)",
+    "example": {
+      "hanzi": "我看到你的女朋友了。",
+      "pinyin": "wǒ kàn dào nǐ de nǚpéngyou le。",
+      "en": "I saw your girlfriend.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.09.1",
+    "hskLevel": 2,
+    "lessonCode": "2.09.1",
+    "pattern": "没 V result méi V result (result complements)",
+    "example": {
+      "hanzi": "我没看到你的女朋友。",
+      "pinyin": "wǒ méi kàn dào nǐ de nǚpéngyou。",
+      "en": "I didn’t see your girlfriend.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.09.2",
+    "hskLevel": 2,
+    "lessonCode": "2.09.2",
+    "pattern": "从 N1 到 N2 cóng N1 dào N2 from N1 to N",
+    "example": {
+      "hanzi": "2 从老人到孩子都喜欢吃苹果。",
+      "pinyin": "cóng lǎorén dào háizi dōu xǐhuan chī píngguǒ。",
+      "en": "From old to young, all like to eat apples.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.09.3",
+    "hskLevel": 2,
+    "lessonCode": "2.09.3",
+    "pattern": "第 # M N dì # M N #-th N",
+    "example": {
+      "hanzi": "第四件事情还没做。",
+      "pinyin": "dì sì jiàn shìqing hái méi zuò。",
+      "en": "We haven't done the fourth thing yet.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.10.1",
+    "hskLevel": 2,
+    "lessonCode": "2.10.1",
+    "pattern": "不要/别 V bùyào/ bié V don’t do V 不要/",
+    "example": {
+      "hanzi": "别玩儿手机！",
+      "pinyin": "bùyào/ bié wánr shǒujī！",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.10.1",
+    "hskLevel": 2,
+    "lessonCode": "2.10.1",
+    "pattern": "不要/别 V 了 bùyào/ bié V le stop doing V 不要/",
+    "example": {
+      "hanzi": "别玩儿手机了！",
+      "pinyin": "bùyào/ bié wánr shǒujī le！",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.10.2",
+    "hskLevel": 2,
+    "lessonCode": "2.10.2",
+    "pattern": "对 N A duì N A Is A for N",
+    "example": {
+      "hanzi": "学汉语对在中国工作有帮助。",
+      "pinyin": "xué Hànyǔ duì zài Zhōngguó gōngzuò yǒubāngzhù。",
+      "en": "Learning Chinese is helpful for working in China.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.11.1",
+    "hskLevel": 2,
+    "lessonCode": "2.11.1",
+    "pattern": "S V 的 N S V de N the N which S V’ed我妈妈做的饭⾮",
+    "example": {
+      "hanzi": "常好吃。",
+      "pinyin": "wǒ māma zuò de fàn fēicháng hǎochī。",
+      "en": "The food that mom makes is very delicious.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.11.2",
+    "hskLevel": 2,
+    "lessonCode": "2.11.2",
+    "pattern": "N1 ⽐ N2 A N1 bǐ N2 A N2 is more A than N1哥哥⽐姐姐⾼。 gēge bǐ jiějie gāo。 My (older) brother is taller than my (older) sister.",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.11.2",
+    "hskLevel": 2,
+    "lessonCode": "2.11.2",
+    "pattern": "N1 没有 N2 A N1 méiyǒu N2 A N2 is not as A than N1 哥哥没有姐姐⾼。 gēge méiyǒu jiějie gāo。 My (older) brother is not as tall as my (older) sister.",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.11.3",
+    "hskLevel": 2,
+    "lessonCode": "2.11.3",
+    "pattern": "可能 kěnéng probably",
+    "example": {
+      "hanzi": "她可能不会唱歌。",
+      "pinyin": "tā kěnéng bùhuì chànggē。",
+      "en": "Maybe she cannot sing.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.12.1",
+    "hskLevel": 2,
+    "lessonCode": "2.12.1",
+    "pattern": "V 得 A V dé A (using adverbs)",
+    "example": {
+      "hanzi": "我跑得很快。",
+      "pinyin": "wǒ pǎo dehěn kuài。",
+      "en": "I run very quickly.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.12.1",
+    "hskLevel": 2,
+    "lessonCode": "2.12.1",
+    "pattern": "V O V 得 A V O V dé A (using adverbs)",
+    "example": {
+      "hanzi": "姐姐唱歌唱得很好。",
+      "pinyin": "jiějie chànggē chàng dehěn hǎo。",
+      "en": "My (older) sister sings brilliantly.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.12.2",
+    "hskLevel": 2,
+    "lessonCode": "2.12.2",
+    "pattern": "V (O V) 得 ⽐ N AV (O V) dé bǐ N A V (O) more A than N他学(汉语学)得⽐",
+    "example": {
+      "hanzi": "我快。",
+      "pinyin": "tā xué( Hànyǔ xué) dé bǐ wǒ kuài。",
+      "en": "He learns (Chinese) more quickly than I do.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.12.2",
+    "hskLevel": 2,
+    "lessonCode": "2.12.2",
+    "pattern": "⽐ N V (O V) 得 Abǐ N V (O V) dé A V (O) more A than N他⽐",
+    "example": {
+      "hanzi": "我学(汉语学)得快。",
+      "pinyin": "tā bǐ wǒ xué( Hànyǔ xué) dé kuài。",
+      "en": "He learns (Chinese) more quickly than I do.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.13.1",
+    "hskLevel": 2,
+    "lessonCode": "2.13.1",
+    "pattern": "V 着 O V zhe O V-ing O 他们穿着⻄服。 tāmen chuānzhuó xīfú。 They are wearing suites.",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.13.1",
+    "hskLevel": 2,
+    "lessonCode": "2.13.1",
+    "pattern": "没 V 着 O méi V zhe O not V-ing O",
+    "example": {
+      "hanzi": "他没拿着铅笔。",
+      "pinyin": "tā méi ná zhe qiānbǐ。",
+      "en": "He’s not holding a pencil.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.13.2",
+    "hskLevel": 2,
+    "lessonCode": "2.13.2",
+    "pattern": "N 不是……吗？ N bùshì…… ma？ is N not…",
+    "example": {
+      "hanzi": "你不是北京人吗？",
+      "pinyin": "nǐ bùshì Běijīngrén ma？",
+      "en": "Aren’t you a Beijinger?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.13.3",
+    "hskLevel": 2,
+    "lessonCode": "2.13.3",
+    "pattern": "往 DIRECTION Vwǎng DIRECTION V V toward DIRECTION从这儿一直往东⾛。 cóng zhèr yīzhí wǎng dōng zǒu。 Walk straight toward the east from here.",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.14.1",
+    "hskLevel": 2,
+    "lessonCode": "2.14.1",
+    "pattern": "V 过 V guò V’ed before",
+    "example": {
+      "hanzi": "我去过中国。",
+      "pinyin": "wǒ qù guò Zhōngguó。",
+      "en": "I've been to China.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.14.1",
+    "hskLevel": 2,
+    "lessonCode": "2.14.1",
+    "pattern": "没有 V 过 méiyǒu V guò haven’t V’ed",
+    "example": {
+      "hanzi": "他们没有来过我家。",
+      "pinyin": "tāmen méiyǒu lái guò wǒ jiā。",
+      "en": "They have never been to my place.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.14.2",
+    "hskLevel": 2,
+    "lessonCode": "2.14.2",
+    "pattern": "虽然……但是 suīrán…… dànshì although…",
+    "example": {
+      "hanzi": "虽然是晴天，但是还是很冷。",
+      "pinyin": "suīrán shì qíngtiān， dànshì háishi hěn lěng。",
+      "en": "Even though it's sunny, it's still cold.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.14.3",
+    "hskLevel": 2,
+    "lessonCode": "2.14.3",
+    "pattern": "V 过 # 次 O V guò # cì O V’ed O # times 他们坐过三次⻜机。 tāmen zuò guò sāncì fēijī。 They have taken a plane three times.",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.14.3",
+    "hskLevel": 2,
+    "lessonCode": "2.14.3",
+    "pattern": "V 过 PLACE # 次 V guò PLACE # cì V’ed to PLACE # times",
+    "example": {
+      "hanzi": "我们来过三次中国。",
+      "pinyin": "wǒmen lái guò sāncì Zhōngguó。",
+      "en": "We have been to China three times.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-2-2.15.1",
+    "hskLevel": 2,
+    "lessonCode": "2.15.1",
+    "pattern": "TIME (就) 要 V 了 TIME ( jiù) yào V le about to V in TIME",
+    "example": {
+      "hanzi": "下个星期我们(就)要考试了。",
+      "pinyin": "xiàgèxīngqī wǒmen( jiù) yào kǎoshì le。",
+      "en": "We are about to have an exam in just a week.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.01.1",
+    "hskLevel": 3,
+    "lessonCode": "3.01.1",
+    "pattern": "V 好 V hǎo done V-ing",
+    "example": {
+      "hanzi": "饭还没做好，请你等一会儿。",
+      "pinyin": "fàn hái méi zuò hǎo， qǐng nǐděng yīhuìr。",
+      "en": "The food is not cooked yet, please wait awhile.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.01.2",
+    "hskLevel": 3,
+    "lessonCode": "3.01.2",
+    "pattern": "一 + M + N + 也／都 + 不 + V yī + M + N + yě／ dōu + bù + V not V even one N",
+    "example": {
+      "hanzi": "我一个苹果也不吃。",
+      "pinyin": "wǒ yī gè píngguǒ yě bù chī。",
+      "en": "I’m not eating any apples.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.01.3",
+    "hskLevel": 3,
+    "lessonCode": "3.01.3",
+    "pattern": "那 nà so then",
+    "example": {
+      "hanzi": "你不去，那我也不去了。",
+      "pinyin": "nǐ bù qù， nà wǒ yě bù qù le。",
+      "en": "[If] you don’t go, then I won’t go either.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.02.1",
+    "hskLevel": 3,
+    "lessonCode": "3.02.1",
+    "pattern": "V1了就 V2 V1 le jiù V2 V2 as soon as V",
+    "example": {
+      "hanzi": "1 爸爸回来了我们就吃饭。",
+      "pinyin": "bàba huílai le wǒmen jiù chīfàn。",
+      "en": "We’ll eat when dad comes back.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.02.2",
+    "hskLevel": 3,
+    "lessonCode": "3.02.2",
+    "pattern": "V 来／去 V lái／ qù (complements of direction)",
+    "example": {
+      "hanzi": "我们在楼上等你呢，你上来吧。",
+      "pinyin": "wǒmen zài lóushàng děng nǐ ne， nǐ shànglái ba。",
+      "en": "We are upstairs waiting, please come up.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.02.2",
+    "hskLevel": 3,
+    "lessonCode": "3.02.2",
+    "pattern": "V somewhere 来／ 去 V somewhere lái／ qù (complements of direction)",
+    "example": {
+      "hanzi": "朋友回家去了。",
+      "pinyin": "péngyou huíjiā qù le。",
+      "en": "[My] friend went back home.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.02.2",
+    "hskLevel": 3,
+    "lessonCode": "3.02.2",
+    "pattern": "V O 来／去 V O lái／ qù (complements of direction)",
+    "example": {
+      "hanzi": "明天要带作业来。",
+      "pinyin": "míngtiān yào dài zuòyè lái。",
+      "en": "You need to bring [your] homework tomorrow.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.02.2",
+    "hskLevel": 3,
+    "lessonCode": "3.02.2",
+    "pattern": "V 来／去 O V lái／ qù O (complements of direction)",
+    "example": {
+      "hanzi": "明天要带来作业。",
+      "pinyin": "míngtiān yào dàilái zuòyè。",
+      "en": "Bring [your] homework tomorrow.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.03.1",
+    "hskLevel": 3,
+    "lessonCode": "3.03.1",
+    "pattern": "N",
+    "example": {
+      "hanzi": "1 还是 N2 ?",
+      "pinyin": "N1 háishi N2 ?",
+      "en": "N1 or N2 ?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.03.1",
+    "hskLevel": 3,
+    "lessonCode": "3.03.1",
+    "pattern": "N1 还是 N2 N1 háishi N2 N1 or N2 (in question- like clauses) 我还没想好去爬⼭",
+    "example": {
+      "hanzi": "还是去看电影。",
+      "pinyin": "wǒ hái méi xiǎng hǎoqù páshān háishi qù kàn diànyǐng。",
+      "en": "I haven't decided whether to go hiking or to go to the movies.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.03.2",
+    "hskLevel": 3,
+    "lessonCode": "3.03.2",
+    "pattern": "PLACE + V + 着 + NPLACE + V + zhe + N There is N V’ed in PLACE.",
+    "example": {
+      "hanzi": "桌子上放着一杯咖啡。",
+      "pinyin": "zhuōzi shàng fàng zhe yī bēi kāfēi。",
+      "en": "There is a cup of coﬀee placed on the table.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.03.2",
+    "hskLevel": 3,
+    "lessonCode": "3.03.2",
+    "pattern": "PLACE + 没 + V + 着 + N PLACE + méi + V + zhe + N There is not N V’ed in PLACE.",
+    "example": {
+      "hanzi": "桌子上没放着咖啡。",
+      "pinyin": "zhuōzi shàng méi fàng zhe kāfēi。",
+      "en": "There was no coﬀee placed on the table.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.03.3",
+    "hskLevel": 3,
+    "lessonCode": "3.03.3",
+    "pattern": "会 + V / A + (的） huì + V / A + ( de） will V, will be A",
+    "example": {
+      "hanzi": "你穿得那么少，会感冒的。",
+      "pinyin": "nǐ chuān dé nàme shǎo， huì gǎnmào de。",
+      "en": "You wear so little, you will catch a cold.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.04.1",
+    "hskLevel": 3,
+    "lessonCode": "3.04.1",
+    "pattern": "⼜……⼜…… yòu…… yòu…… not only… but also…这个⻄⽠⼜大⼜甜。 zhège xīguā yòu dà yòu tián。 This watermelon is big and sweet.",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.04.2",
+    "hskLevel": 3,
+    "lessonCode": "3.04.2",
+    "pattern": "V1 + 着 + V2 V1 + zhe + V2 V1-ing while V2-ing",
+    "example": {
+      "hanzi": "弟弟吃着苹果写作业。",
+      "pinyin": "dìdi chī zhe píngguǒ xiě zuòyè。",
+      "en": "The younger brother is doing homework while eating [an] apple.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.05.1",
+    "hskLevel": 3,
+    "lessonCode": "3.05.1",
+    "pattern": "A 了 A le become A",
+    "example": {
+      "hanzi": "昨天吃了感冒药，现在好一些了。",
+      "pinyin": "zuótiān chī le gǎnmàoyào， xiànzài hǎo yīxiē le。",
+      "en": "I took ﬂu medicine yesterday, and I’m better now.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.05.1",
+    "hskLevel": 3,
+    "lessonCode": "3.05.1",
+    "pattern": "V 了 V le (didn’t V but) now V",
+    "example": {
+      "hanzi": "现在我可以穿漂亮的裙子了。",
+      "pinyin": "xiànzài wǒ kěyǐ chuān piàoliang de qúnzi le。",
+      "en": "Now I can wear a beautiful dress.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.05.2",
+    "hskLevel": 3,
+    "lessonCode": "3.05.2",
+    "pattern": "越来越 + A + (了) yuèláiyuè + A + ( le) more and more A",
+    "example": {
+      "hanzi": "你最近越来越帅了。",
+      "pinyin": "nǐ zuìjìn yuèláiyuè shuài le。",
+      "en": "You’re more and more handsome these days.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.06.1",
+    "hskLevel": 3,
+    "lessonCode": "3.06.1",
+    "pattern": "V + 得 + RESULTV + dé + RESULT can V to RESULT",
+    "example": {
+      "hanzi": "我看得清楚那个汉字。",
+      "pinyin": "wǒ kàn dé qīngchu nàge hànzì。",
+      "en": "I can see the Chinese character clearly.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.06.1",
+    "hskLevel": 3,
+    "lessonCode": "3.06.1",
+    "pattern": "V + 得 + DIRECTION V + dé + DIRECTION can V to DIRECTION楼这么⾼，",
+    "example": {
+      "hanzi": "你上得来吗？",
+      "pinyin": "lóu zhème gāo， nǐ shàng dé lái ma？",
+      "en": "The building is so high, are you able to come up?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.06.1",
+    "hskLevel": 3,
+    "lessonCode": "3.06.1",
+    "pattern": "V + 不 + result V + bù + result cannot V to RESULT",
+    "example": {
+      "hanzi": "我找不到好饭馆。",
+      "pinyin": "wǒ zhǎobudào hǎo fànguǎn。",
+      "en": "I can't seek out a good restaurant.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.06.1",
+    "hskLevel": 3,
+    "lessonCode": "3.06.1",
+    "pattern": "V + 不 + directionV + bù + direction cannot V to DIRECTION 楼太⾼",
+    "example": {
+      "hanzi": "了，我上不去。",
+      "pinyin": "lóu tài gāo le， wǒ shàng bù qù。",
+      "en": "The building is too high, I can't go up.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.06.2",
+    "hskLevel": 3,
+    "lessonCode": "3.06.2",
+    "pattern": "N 呢? N ne? where is N?",
+    "example": {
+      "hanzi": "你的书呢？",
+      "pinyin": "nǐ de shū ne？",
+      "en": "Where is your book?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.06.3",
+    "hskLevel": 3,
+    "lessonCode": "3.06.3",
+    "pattern": "刚 V gāng V just V",
+    "example": {
+      "hanzi": "儿子刚做完作业。",
+      "pinyin": "érzi gāng zuòwán zuòyè。",
+      "en": "The son just ﬁnished his homework.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.06.3",
+    "hskLevel": 3,
+    "lessonCode": "3.06.3",
+    "pattern": "刚才 gāngcái moments ago",
+    "example": {
+      "hanzi": "刚才儿子在做作业。",
+      "pinyin": "gāngcái érzi zài zuò zuòyè。",
+      "en": "My son is doing homework moments ago.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.07.1",
+    "hskLevel": 3,
+    "lessonCode": "3.07.1",
+    "pattern": "V + 了 + DURATION + O V + le + DURATION + O V’ed O for DURATION",
+    "example": {
+      "hanzi": "我们坐了一个小时公共汽车。",
+      "pinyin": "wǒmen zuò le yī gè xiǎoshí gōnggòngqìchē。",
+      "en": "We took a bus for an hour.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.07.1",
+    "hskLevel": 3,
+    "lessonCode": "3.07.1",
+    "pattern": "V + 了 + DURATION + O + 了 V + le + DURATION + O + le have been V-ing O for DURATION",
+    "example": {
+      "hanzi": "我学习了一年汉语了。",
+      "pinyin": "wǒ xuéxí le yī nián Hànyǔ le。",
+      "en": "I have studied Chinese for a year.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.07.2",
+    "hskLevel": 3,
+    "lessonCode": "3.07.2",
+    "pattern": "对 N 感兴趣/有兴趣duì N gǎnxìngqù/ yǒuxìngqù interested in N",
+    "example": {
+      "hanzi": "他们对中国电影感兴趣。",
+      "pinyin": "tāmen duì Zhōngguó diànyǐng gǎnxìngqù。",
+      "en": "They are interested in Chinese movies.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.07.2",
+    "hskLevel": 3,
+    "lessonCode": "3.07.2",
+    "pattern": "对 N 没兴趣 duì N méi xìngqù not interested in N",
+    "example": {
+      "hanzi": "他们对中国电影没兴趣。",
+      "pinyin": "tāmen duì Zhōngguó diànyǐng méi xìngqù。",
+      "en": "They are not interested in Chinese movies.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.07.3",
+    "hskLevel": 3,
+    "lessonCode": "3.07.3",
+    "pattern": "半 bàn half hour",
+    "example": {
+      "hanzi": "现在七点半。",
+      "pinyin": "xiànzài qī diǎn bàn。",
+      "en": "It’s half past seven.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.07.3",
+    "hskLevel": 3,
+    "lessonCode": "3.07.3",
+    "pattern": "一刻 yī kè quarter hour (when telling time)",
+    "example": {
+      "hanzi": "现在七点一刻。",
+      "pinyin": "xiànzài qī diǎn yī kè。",
+      "en": "Now it’s quarter past seven.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.07.3",
+    "hskLevel": 3,
+    "lessonCode": "3.07.3",
+    "pattern": "一刻钟 yī kè zhōng quarter hour (duration)",
+    "example": {
+      "hanzi": "你迟到了一刻钟。",
+      "pinyin": "nǐ chí dàoliǎo yī kè zhōng。",
+      "en": "You are late for 15 minutes.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.07.3",
+    "hskLevel": 3,
+    "lessonCode": "3.07.3",
+    "pattern": "差 (chà) chà (chà) to (when telling time)",
+    "example": {
+      "hanzi": "已经差一刻八点了！",
+      "pinyin": "yǐjīng chà yī kè bā diǎn le！",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.08.1",
+    "hskLevel": 3,
+    "lessonCode": "3.08.1",
+    "pattern": "再 V zài V again (later)",
+    "example": {
+      "hanzi": "我明天还要再去看看。",
+      "pinyin": "wǒ míngtiān hái yào zài qù kànkan。",
+      "en": "I will go see it again tomorrow.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.08.1",
+    "hskLevel": 3,
+    "lessonCode": "3.08.1",
+    "pattern": "⼜ V yòu V (did) again 你今天怎么⼜",
+    "example": {
+      "hanzi": "迟到了?",
+      "pinyin": "nǐ jīntiān zěnme yòu chí dàoliǎo?",
+      "en": "Why are you late again today?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.09.1",
+    "hskLevel": 3,
+    "lessonCode": "3.09.1",
+    "pattern": "越 V1/A1 越 V2/A2 yuè V1/A1 yuè V2/ A2 the more V1/A1 the more V2/A",
+    "example": {
+      "hanzi": "2 我们越聊越开心。",
+      "pinyin": "wǒmen yuè liáo yuè kāixīn。",
+      "en": "The more we chat, the more joyous we are.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.09.2",
+    "hskLevel": 3,
+    "lessonCode": "3.09.2",
+    "pattern": "N1 跟 N2 一样 N1 gēn N2 yīyàng N1 is like N",
+    "example": {
+      "hanzi": "2 你的眼睛跟大熊猫一样。",
+      "pinyin": "nǐ de yǎnjing gēn dàxióngmāo yīyàng。",
+      "en": "Your eyes are like pandas’ [eyes].",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.09.2",
+    "hskLevel": 3,
+    "lessonCode": "3.09.2",
+    "pattern": "N1 跟 N2 一样 A N1 gēn N2 yīyàng A N1 is as A as N2 儿子跟爸爸一样⾼。 érzi gēn bàba yīyàng gāo。 The son is as tall as his father.",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.10.1",
+    "hskLevel": 3,
+    "lessonCode": "3.10.1",
+    "pattern": "没有 N (这么/那么) A méiyǒu N ( zhème/ nàme) A not as A as N",
+    "example": {
+      "hanzi": "我的汉语没有他那么好。",
+      "pinyin": "wǒ de Hànyǔ méiyǒu tā nàme hǎo。",
+      "en": "My Chinese is not as good as his.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.10.1",
+    "hskLevel": 3,
+    "lessonCode": "3.10.1",
+    "pattern": "A 一点儿/一些 A yīdiǎnr/ yīxiē A little more A 大⼭⽐",
+    "example": {
+      "hanzi": "大卫矮一点儿。",
+      "pinyin": "Dàshān bǐ Dàwèi ǎi yīdiǎnr。",
+      "en": "Dashan is a little shorter than David.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.10.1",
+    "hskLevel": 3,
+    "lessonCode": "3.10.1",
+    "pattern": "A 得多/多了 A dé duō/ duō le much more A 今天的作业⽐",
+    "example": {
+      "hanzi": "昨天多得多。",
+      "pinyin": "jīntiān de zuòyè bǐ zuótiān duō dé duō。",
+      "en": "Today's homework is much more than yesterday’s.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.10.2",
+    "hskLevel": 3,
+    "lessonCode": "3.10.2",
+    "pattern": "# #+1 # #+1 # or #+",
+    "example": {
+      "hanzi": "1 我每天学习一两个小时汉语。",
+      "pinyin": "wǒ měitiān xuéxí yī liǎng gè xiǎoshí Hànyǔ。",
+      "en": "I study Chinese for one or two hours a day.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.11.1",
+    "hskLevel": 3,
+    "lessonCode": "3.11.1",
+    "pattern": "把 + Ｏ + Ｖ + 了 bǎ + Ｏ + Ｖ + le V’ed the O",
+    "example": {
+      "hanzi": "我把钱包忘了。",
+      "pinyin": "wǒ bǎ qiánbāo wàng le。",
+      "en": "I forgot my/the wallet.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.11.1",
+    "hskLevel": 3,
+    "lessonCode": "3.11.1",
+    "pattern": "不要/别/没把 + Ｏ + Ｖ + 了 bùyào/ bié/ méi bǎ + Ｏ + Ｖ + le don’t/don’t/haven’t V’ed the O",
+    "example": {
+      "hanzi": "别把手机忘了。",
+      "pinyin": "bié bǎshǒu jī wàng le。",
+      "en": "Don't forget your/the phone.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.11.2",
+    "hskLevel": 3,
+    "lessonCode": "3.11.2",
+    "pattern": "# 左右 # zuǒyòu approximately #",
+    "example": {
+      "hanzi": "周末我一般十点左右起床。",
+      "pinyin": "zhōumò wǒ yībān shí diǎn zuǒyòu qǐchuáng。",
+      "en": "I usually get up at around 10 o'clock on weekends.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.12.1",
+    "hskLevel": 3,
+    "lessonCode": "3.12.1",
+    "pattern": "就 V/A jiù V/A just (better than expected) 坐⻜",
+    "example": {
+      "hanzi": "机一个小时就到了。",
+      "pinyin": "zuòfēijī yī gè xiǎoshí jiù dàoliǎo。",
+      "en": "It takes only an hour to get there by plane.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.12.1",
+    "hskLevel": 3,
+    "lessonCode": "3.12.1",
+    "pattern": "才 V/A cái V/A just (worse than expected)",
+    "example": {
+      "hanzi": "你怎么才来？",
+      "pinyin": "nǐ zěnme cái lái？",
+      "en": "How come you only came just now?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.12.2",
+    "hskLevel": 3,
+    "lessonCode": "3.12.2",
+    "pattern": "把 + O + V + 在/到 + PLACE bǎ + O + V + zài/ dào + PLACE V’d the O to PLACE我把照⽚",
+    "example": {
+      "hanzi": "放在你包里了。",
+      "pinyin": "wǒ bǎ zhàopiàn fàng zài nǐ bāo lǐ le。",
+      "en": "I put the photo in your bag.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.13.2",
+    "hskLevel": 3,
+    "lessonCode": "3.13.2",
+    "pattern": "一边 + V1 + 一边 + V2 yībiān + V1 + yībiān + V2 V1 while V",
+    "example": {
+      "hanzi": "2 他一边唱歌一边跳舞。",
+      "pinyin": "tā yībiān chànggē yībiān tiàowǔ。",
+      "en": "He sang while he danced.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.14.1",
+    "hskLevel": 3,
+    "lessonCode": "3.14.1",
+    "pattern": "把 + O + V + resultbǎ + O + V + result V the O until RESULT我把衣服洗⼲",
+    "example": {
+      "hanzi": "净了。",
+      "pinyin": "wǒ bǎ yīfu xǐ gānjìng le。",
+      "en": "I washed my clothes clean.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.14.1",
+    "hskLevel": 3,
+    "lessonCode": "3.14.1",
+    "pattern": "把 + O + V + direction bǎ + O + V + direction V the O to DIRECTION",
+    "example": {
+      "hanzi": "他把水果拿过来了。",
+      "pinyin": "tā bǎ shuǐguǒ ná guòlái le。",
+      "en": "He took the fruit over.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.15.1",
+    "hskLevel": 3,
+    "lessonCode": "3.15.1",
+    "pattern": "除了 N 以外 chúle N yǐwài except N",
+    "example": {
+      "hanzi": "除了这个汉字以外，别的我都认识。",
+      "pinyin": "chúle zhège hànzì yǐwài， biéde wǒ dōu rènshi。",
+      "en": "Except for this Chinese character, I know everything else.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.15.2",
+    "hskLevel": 3,
+    "lessonCode": "3.15.2",
+    "pattern": "什么 shénme any",
+    "example": {
+      "hanzi": "周末你有什么打算吗?",
+      "pinyin": "zhōumò nǐ yǒu shénme dǎsuàn ma?",
+      "en": "Do you have any plans for the weekend?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.15.3",
+    "hskLevel": 3,
+    "lessonCode": "3.15.3",
+    "pattern": "A 极了 A jíle extremely A 今天天⽓",
+    "example": {
+      "hanzi": "冷极了。",
+      "pinyin": "jīntiān tiānqì lěng jíle。",
+      "en": "The weather is extremely cold today.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.16.1",
+    "hskLevel": 3,
+    "lessonCode": "3.16.1",
+    "pattern": "如果……(的话), 就…… rúguǒ……( dehuà), jiù…… if …, then…",
+    "example": {
+      "hanzi": "如果你太累的话，就休息一会儿。",
+      "pinyin": "rúguǒ nǐ tài lèi dehuà， jiù xiūxi yīhuìr。",
+      "en": "If you are too tired, take a break.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.16.2",
+    "hskLevel": 3,
+    "lessonCode": "3.16.2",
+    "pattern": "A + 得 + CLAUSEA + dé + CLAUSE so A that + CLAUSE",
+    "example": {
+      "hanzi": "儿子累得下了班就睡觉了。",
+      "pinyin": "érzi lèi dé xià le bān jiù shuìjiào le。",
+      "en": "The son was so tired that he went to sleep as soon as he got oﬀ work.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.16.3",
+    "hskLevel": 3,
+    "lessonCode": "3.16.3",
+    "pattern": "A + A + 的 A + A + de A (with characteristics) 她⿐子小小的，头发⿊⿊的。 tā bízi xiǎoxiǎo de， tóufa hēi hēi de。 Her nose is teeny tiny and her hair is black.",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.17.1",
+    "hskLevel": 3,
+    "lessonCode": "3.17.1",
+    "pattern": "V + V V + V V for a bit",
+    "example": {
+      "hanzi": "我带你去医院检查检查吧。",
+      "pinyin": "wǒ dài nǐ qù yīyuàn jiǎnchá jiǎnchá ba。",
+      "en": "Let me take you to the hospital for to check up a bit.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.17.2",
+    "hskLevel": 3,
+    "lessonCode": "3.17.2",
+    "pattern": "Q + 都 Q + dōu Q-ever",
+    "example": {
+      "hanzi": "小刚什么都喜欢吃。",
+      "pinyin": "xiǎo gāng shénme dōu xǐhuan chī。",
+      "en": "Xiao Gang likes to eat anything (lit.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.18.1",
+    "hskLevel": 3,
+    "lessonCode": "3.18.1",
+    "pattern": "只要……就…… zhǐyào…… jiù…… as long as",
+    "example": {
+      "hanzi": "只要我有时间，就一定跟你去旅游。",
+      "pinyin": "zhǐyào wǒ yǒu shíjiān， jiù yīdìng gēn nǐ qù lǚyóu。",
+      "en": "As long as I have time, I will deﬁnitely travel with you.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.18.2",
+    "hskLevel": 3,
+    "lessonCode": "3.18.2",
+    "pattern": "关于 guānyú about",
+    "example": {
+      "hanzi": "关于这件事，我们还没有决定呢。",
+      "pinyin": "guānyú zhè jiàn shì， wǒmen hái méiyǒu juédìng ne。",
+      "en": "We have not decided on this matter yet.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.19.1",
+    "hskLevel": 3,
+    "lessonCode": "3.19.1",
+    "pattern": "V + 出来 V + chūlái V and produce an outcome",
+    "example": {
+      "hanzi": "这个字你能写出来吗?",
+      "pinyin": "zhège zì nǐ néng xiě chūlái ma?",
+      "en": "Can you write (out) this word?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.19.1",
+    "hskLevel": 3,
+    "lessonCode": "3.19.1",
+    "pattern": "V + 出来 V + chūlái V and recognize",
+    "example": {
+      "hanzi": "你听出来了吗？",
+      "pinyin": "这是谁的声⾳？",
+      "en": "nǐ tīng chūlái le ma？",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.19.1",
+    "hskLevel": 3,
+    "lessonCode": "3.19.1",
+    "pattern": "V + 下来 V + xiàlai V down",
+    "example": {
+      "hanzi": "我真希望时间能慢下来。",
+      "pinyin": "wǒ zhēn xīwàng shíjiān néng màn xiàlai。",
+      "en": "I really hope that time can slow down.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.19.1",
+    "hskLevel": 3,
+    "lessonCode": "3.19.1",
+    "pattern": "想起来 xiǎngqilai to recall",
+    "example": {
+      "hanzi": "我想不起来他的名字了。",
+      "pinyin": "wǒ xiǎng bù qilai tā de míngzi le。",
+      "en": "I can't think of (lit.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.19.1",
+    "hskLevel": 3,
+    "lessonCode": "3.19.1",
+    "pattern": "看起来/看上去 kànqǐlái/ kànshangqu to seem 他看上去/",
+    "example": {
+      "hanzi": "看起来像40多岁。",
+      "pinyin": "tā kànshangqu/ kànqǐlái xiàng40 duō suì。",
+      "en": "He looks like he is in his 40s.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.19.2",
+    "hskLevel": 3,
+    "lessonCode": "3.19.2",
+    "pattern": "使/叫/让 + O + A/Vshǐ/ jiào/ ràng + O + A/V make O A/V 读书使/叫/",
+    "example": {
+      "hanzi": "让我快乐。",
+      "pinyin": "dúshū shǐ/ jiào/ ràng wǒ kuàilè。",
+      "en": "Reading makes me happy.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.20.1",
+    "hskLevel": 3,
+    "lessonCode": "3.20.1",
+    "pattern": "O + 被/叫/让 + S + V O + bèi/ jiào/ ràng + S + V O is V’ed by S 我的照相机被/叫/让谁拿⾛了? wǒ de zhàoxiàngjī bèi/ jiào/ ràng shéi názǒu le? My camera was taken by who?",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-3-3.20.1",
+    "hskLevel": 3,
+    "lessonCode": "3.20.1",
+    "pattern": "O + 不/没 + 被/叫/让 + S + V O + bù/ méi + bèi/ jiào/ ràng + S + V O is not V’ed by S",
+    "example": {
+      "hanzi": "问题还没有被解决呢。",
+      "pinyin": "wèntí hái méiyǒu bèi jiějué ne。",
+      "en": "The problem has not been solved yet.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-3.20.2",
+    "hskLevel": 4,
+    "lessonCode": "3.20.2",
+    "pattern": "只有……才…… zhǐyǒu…… cái…… only if",
+    "example": {
+      "hanzi": "只有写完作业，才能看电视。",
+      "pinyin": "zhǐyǒu xiěwán zuòyè， cáinéng kàn diànshì。",
+      "en": "You can watch TV only if you ﬁnish your homework.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.01.2",
+    "hskLevel": 4,
+    "lessonCode": "4.01.2",
+    "pattern": "从来不 V cóngláibù V never V",
+    "example": {
+      "hanzi": "我中午从来不睡觉。",
+      "pinyin": "wǒ zhōngwǔ cóngláibù shuìjiào。",
+      "en": "I never sleep at noon.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.01.2",
+    "hskLevel": 4,
+    "lessonCode": "4.01.2",
+    "pattern": "从来没 V/A 过 cóngláiméi V/A guò never have V’ed, never have been A 他爸爸妈妈从来没这么⾼",
+    "example": {
+      "hanzi": "兴过。",
+      "pinyin": "tā bàba māma cóngláiméi zhème gāoxìng guò。",
+      "en": "His father and mother have never been so happy.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.01.3",
+    "hskLevel": 4,
+    "lessonCode": "4.01.3",
+    "pattern": "刚/刚刚 V gāng/ gānggang V just V’ed",
+    "example": {
+      "hanzi": "我上个月刚结婚。",
+      "pinyin": "wǒ shànggèyuè gāng jiéhūn。",
+      "en": "I just got married last month.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.01.3",
+    "hskLevel": 4,
+    "lessonCode": "4.01.3",
+    "pattern": "刚 + V + DURATIONgāng + V + DURATION have V’ed for just DURATION",
+    "example": {
+      "hanzi": "他刚来一个月。",
+      "pinyin": "tā gāng lái yī gè yuè。",
+      "en": "He’s been [lit.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.01.3",
+    "hskLevel": 4,
+    "lessonCode": "4.01.3",
+    "pattern": "刚才 gāngcái moments ago",
+    "example": {
+      "hanzi": "刚才我收到了一封电子邮件。",
+      "pinyin": "gāngcái wǒ shōu dàoliǎo yī fēng diànzǐyóujiàn。",
+      "en": "I just received an email.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.01.5",
+    "hskLevel": 4,
+    "lessonCode": "4.01.5",
+    "pattern": "(在) N 上 ( zài) N shàng with regard to N",
+    "example": {
+      "hanzi": "在爱好上，我更像我妈妈。",
+      "pinyin": "zài àihào shàng， wǒ gèng xiàng wǒ māma。",
+      "en": "In terms of hobbies, I am more like my mother.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.02.1",
+    "hskLevel": 4,
+    "lessonCode": "4.02.1",
+    "pattern": "正好 zhènghǎo just right",
+    "example": {
+      "hanzi": "衣服大小正好。",
+      "pinyin": "yīfu dàxiǎo zhènghǎo。",
+      "en": "The clothes are just the right size.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.02.1",
+    "hskLevel": 4,
+    "lessonCode": "4.02.1",
+    "pattern": "V 得正好 V dé zhènghǎo V’ed at just the right time",
+    "example": {
+      "hanzi": "你来得正好。",
+      "pinyin": "nǐ láide zhènghǎo。",
+      "en": "You came at just the right time.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.02.2",
+    "hskLevel": 4,
+    "lessonCode": "4.02.2",
+    "pattern": "N & N 差不多 N & N chàbuduō N & N are about the same 这辆车的颜⾊和那辆车的颜⾊",
+    "example": {
+      "hanzi": "差不 多。",
+      "pinyin": "zhè liàng chē de yánsè hé nà liàng chē de yánsè chàbuduō。",
+      "en": "The color of this car is similar to the color of that car.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.02.2",
+    "hskLevel": 4,
+    "lessonCode": "4.02.2",
+    "pattern": "差不多 # chàbuduō # about #",
+    "example": {
+      "hanzi": "这台电脑差不多5000块。",
+      "pinyin": "zhè tái diànnǎo chàbuduō5000 kuài。",
+      "en": "This computer is about 5,000 yuan.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.02.2",
+    "hskLevel": 4,
+    "lessonCode": "4.02.2",
+    "pattern": "差不多 A chàbuduō A about A 女儿个子跟我差不多一样⾼。 nǚ'ér gèzi gēn wǒ chàbuduō yīyàng gāo。 My daughter is about as tall as me.",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.02.2",
+    "hskLevel": 4,
+    "lessonCode": "4.02.2",
+    "pattern": "差不多 V chàbuduō V about V’ed 工作差不多⼲",
+    "example": {
+      "hanzi": "完了。",
+      "pinyin": "gōngzuò chàbuduō gàn wánle。",
+      "en": "Work is about ﬁnished.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.02.2",
+    "hskLevel": 4,
+    "lessonCode": "4.02.2",
+    "pattern": "几乎 # jīhū # almost #",
+    "example": {
+      "hanzi": "这台电脑几乎5000块。",
+      "pinyin": "zhè tái diànnǎo jīhū5000 kuài。",
+      "en": "This computer is almost 5,000 yuan.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.02.2",
+    "hskLevel": 4,
+    "lessonCode": "4.02.2",
+    "pattern": "几乎 A jīhū A almost",
+    "example": {
+      "hanzi": "得失几乎相当。",
+      "pinyin": "déshī jīhū xiāngdāng。",
+      "en": "The loss and the gain are almost the same.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.02.2",
+    "hskLevel": 4,
+    "lessonCode": "4.02.2",
+    "pattern": "几乎 V jīhū V almost",
+    "example": {
+      "hanzi": "这件事我几乎忘了告诉你了。",
+      "pinyin": "zhè jiàn shì wǒ jīhū wàng le gàosu nǐ le。",
+      "en": "I almost forgot to tell you about this.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.02.3",
+    "hskLevel": 4,
+    "lessonCode": "4.02.3",
+    "pattern": "尽管 jǐnguǎn although",
+    "example": {
+      "hanzi": "尽管今天很冷，可是他穿的衣服很 少。",
+      "pinyin": "jǐnguǎn jīntiān hěn lěng， kěshì tā chuān de yīfu hěn shǎo。",
+      "en": "Although it is very cold today, he wears very little clothes.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.03.1",
+    "hskLevel": 4,
+    "lessonCode": "4.03.1",
+    "pattern": "挺 A 的 tǐng A de quite A",
+    "example": {
+      "hanzi": "我挺喜欢这个地方的。",
+      "pinyin": "wǒ tǐng xǐhuan zhège dìfang de。",
+      "en": "I quite like this place.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.03.2",
+    "hskLevel": 4,
+    "lessonCode": "4.03.2",
+    "pattern": "本来 V/A běnlái V/A originally V/A",
+    "example": {
+      "hanzi": "她本来想学新闻，但是现在学习法 律。",
+      "pinyin": "tā běnlái xiǎng xué xīnwén， dànshì xiànzài xuéxí fǎlǜ。",
+      "en": "She originally wanted to learn the news, but now she is studying law.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.03.2",
+    "hskLevel": 4,
+    "lessonCode": "4.03.2",
+    "pattern": "本来就 V/A běnlái jiù V/A V/A in the ﬁrst place",
+    "example": {
+      "hanzi": "学生本来就不应该上课迟到。",
+      "pinyin": "xuésheng běnlái jiù bù yīnggāi shàngkè chídào。",
+      "en": "Students should not be late for class in the ﬁrst place.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.03.3",
+    "hskLevel": 4,
+    "lessonCode": "4.03.3",
+    "pattern": "另/另外/另外的 + # + N lìng/ lìngwài/ lìngwài de + # + N another # N 他拿出另/另外/",
+    "example": {
+      "hanzi": "另外的一本书。",
+      "pinyin": "tā náchū lìng/ lìngwài/ lìngwài de yī běn shū。",
+      "en": "He took out another book.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.03.3",
+    "hskLevel": 4,
+    "lessonCode": "4.03.3",
+    "pattern": "另外的/其他的/别的 N lìngwài de/ qítā de/ biéde N other N 不要看这本书，请看另外的/其他的/",
+    "example": {
+      "hanzi": "别的书。",
+      "pinyin": "bùyào kàn zhè běn shū， qǐngkàn lìngwài de/ qítā de/ biéde shū。",
+      "en": "Don't read this book, please read other books.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.03.3",
+    "hskLevel": 4,
+    "lessonCode": "4.03.3",
+    "pattern": "另/另外 V lìng/ lìngwài V V another 他另/",
+    "example": {
+      "hanzi": "另外给了我三十元。",
+      "pinyin": "tā lìng/ lìngwài gěi le wǒ sānshí yuán。",
+      "en": "He gave me another 30 yuan.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.03.3",
+    "hskLevel": 4,
+    "lessonCode": "4.03.3",
+    "pattern": "另外，…… lìngwài，…… In addition, …",
+    "example": {
+      "hanzi": "多吃水果。另外，还要记得多喝水。",
+      "pinyin": "duō chī shuǐguǒ。",
+      "en": "lìngwài， hái yào jìde duō hē shuǐ。",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.04.1",
+    "hskLevel": 4,
+    "lessonCode": "4.04.1",
+    "pattern": "以为 yǐwéi to believe falsely我以为东⻄",
+    "example": {
+      "hanzi": "是给我的，其实是给爸爸 的。",
+      "pinyin": "wǒ yǐwéi dōngxi shì gěi wǒ de， qíshí shì gěi bàba de。",
+      "en": "I thought the thing was for me, but actually it was for my father.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.04.2",
+    "hskLevel": 4,
+    "lessonCode": "4.04.2",
+    "pattern": "原来/本来 yuánlái/ běnlái originally 原来/",
+    "example": {
+      "hanzi": "本来需要12个小时。",
+      "pinyin": "yuánlái/ běnlái xūyào12 gè xiǎoshí。",
+      "en": "It originally required 12 hours.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.04.2",
+    "hskLevel": 4,
+    "lessonCode": "4.04.2",
+    "pattern": "本来就 V/A běnlái jiù V/A (see 4.03.2) - - - 4 4.04.3Lesson并不/并没 V/A bìngbù/ bìng méi V/ A (emphasize the negative) 大家说外⾯",
+    "example": {
+      "hanzi": "很冷，但我并不觉得冷。",
+      "pinyin": "dàjiā shuō wàimiàn hěn lěng， dàn wǒ bìngbù juéde lěng。",
+      "en": "Everyone said that it was cold outside, but I (rather) didn’t feel cold.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.04.4",
+    "hskLevel": 4,
+    "lessonCode": "4.04.4",
+    "pattern": "按照 N ànzhào N according to N",
+    "example": {
+      "hanzi": "我们还是按照原来的计划进行。",
+      "pinyin": "wǒmen háishi ànzhào yuánlái de jìhuà jìnxíng。",
+      "en": "We are still proceeding according to the original plan.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.04.5",
+    "hskLevel": 4,
+    "lessonCode": "4.04.5",
+    "pattern": "甚⾄ V/A shènzhì V/A even V/A 他工作很努⼒，甚⾄",
+    "example": {
+      "hanzi": "忘了吃饭。",
+      "pinyin": "tā gōngzuò hěn nǔlì， shènzhì wàng le chīfàn。",
+      "en": "He worked hard and even forgot to eat.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.05.1",
+    "hskLevel": 4,
+    "lessonCode": "4.05.1",
+    "pattern": "肯定 V/A kěndìng V/A certainly V/A",
+    "example": {
+      "hanzi": "运动对身体健康肯定有好处。",
+      "pinyin": "yùndòng duì shēntǐ jiànkāng kěndìng yǒu hǎochu。",
+      "en": "Exercise is deﬁnitely good for your health.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.05.1",
+    "hskLevel": 4,
+    "lessonCode": "4.05.1",
+    "pattern": "肯定 kěndìng certain",
+    "example": {
+      "hanzi": "我能肯定，张远一定会来。",
+      "pinyin": "wǒ néng kěndìng， zhāng yuǎn yīdìng huì lái。",
+      "en": "I can be sure that Zhang Yuan will deﬁnitely come.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.05.1",
+    "hskLevel": 4,
+    "lessonCode": "4.05.1",
+    "pattern": "肯定的 kěndìng de aﬃrmative, positive",
+    "example": {
+      "hanzi": "他的回答是肯定的。",
+      "pinyin": "tā de huídá shì kěndìng de。",
+      "en": "His answer is yes (in the aﬃrmative).",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.05.3",
+    "hskLevel": 4,
+    "lessonCode": "4.05.3",
+    "pattern": "实际的 shíjì de real 实际的东⻄跟⼴",
+    "example": {
+      "hanzi": "告上的不一样。",
+      "pinyin": "shíjì de dōngxi gēn guǎnggào shàng de bùyīyàng。",
+      "en": "The actual thing is diﬀerent from the one on the advertisement.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.05.3",
+    "hskLevel": 4,
+    "lessonCode": "4.05.3",
+    "pattern": "实际 shíjì reality ⼴",
+    "example": {
+      "hanzi": "告跟实际不一样。",
+      "pinyin": "guǎnggào gēn shíjì bùyīyàng。",
+      "en": "Advertising is not the same as the actual [thing].",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.05.3",
+    "hskLevel": 4,
+    "lessonCode": "4.05.3",
+    "pattern": "实际上 shíjìshàng in reality ⼴",
+    "example": {
+      "hanzi": "告说得好，实际上不一定好。",
+      "pinyin": "guǎnggào shuō dé hǎo， shíjìshàng bùyīdìng hǎo。",
+      "en": "The advertisement is well said, but it is not necessarily good in reality.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.05.4",
+    "hskLevel": 4,
+    "lessonCode": "4.05.4",
+    "pattern": "对……来说 duì…… láishuō for, as for",
+    "example": {
+      "hanzi": "对我来说，学习机会更重要。",
+      "pinyin": "duìwǒláishuō， xuéxí jīhuì gèng zhòngyào。",
+      "en": "For me, learning opportunities are more important.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.05.5",
+    "hskLevel": 4,
+    "lessonCode": "4.05.5",
+    "pattern": "特别 tèbié very much, extremely您女儿⻓",
+    "example": {
+      "hanzi": "得特别像您。",
+      "pinyin": "nín nǚ'ér zhǎngde tèbié xiàng nín。",
+      "en": "Your daughter looks especially like you.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.05.5",
+    "hskLevel": 4,
+    "lessonCode": "4.05.5",
+    "pattern": "特别/尤其 tèbié/ yóuqí especially, particularly 您女儿⻓得真像您，特别是/",
+    "example": {
+      "hanzi": "尤其眼 睛。",
+      "pinyin": "nín nǚ'ér zhǎngde zhēn xiàng nín， tèbié shì/ yóuqí yǎnjing。",
+      "en": "Your daughter looks like you, especially her eyes.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.05.5",
+    "hskLevel": 4,
+    "lessonCode": "4.05.5",
+    "pattern": "特别的 tèbié de special",
+    "example": {
+      "hanzi": "我有一个特别的要求。",
+      "pinyin": "wǒ yǒu yī gè tèbié de yāoqiú。",
+      "en": "I have a special request.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.06.2",
+    "hskLevel": 4,
+    "lessonCode": "4.06.2",
+    "pattern": "# 倍 # bèi # times",
+    "example": {
+      "hanzi": "二的五倍是十。",
+      "pinyin": "èr de wǔ bèi shì shí。",
+      "en": "2, multiplied 5 times, is 10.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.06.3",
+    "hskLevel": 4,
+    "lessonCode": "4.06.3",
+    "pattern": "值/值得 zhí/ zhíde is worth it 别总是为一点儿小事生⽓，不值/",
+    "example": {
+      "hanzi": "值 得。",
+      "pinyin": "bié zǒngshì wéi yīdiǎnr xiǎoshì shēngqì， bùzhí/ zhíde。",
+      "en": "Don't always be angry with a little thing, it’s not worth it.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.06.3",
+    "hskLevel": 4,
+    "lessonCode": "4.06.3",
+    "pattern": "值 $ zhí $ is worth $",
+    "example": {
+      "hanzi": "这个手表值五十块。",
+      "pinyin": "zhège shǒubiǎo zhí wǔshí kuài。",
+      "en": "This watch is worth ﬁfty yuan.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.07.2",
+    "hskLevel": 4,
+    "lessonCode": "4.07.2",
+    "pattern": "来不及 láibují be too late",
+    "example": {
+      "hanzi": "等你身体出现问题了，后悔就来不及 了。",
+      "pinyin": "děng nǐ shēntǐ chūxiàn wèntí le， hòuhuǐ jiù láibují le。",
+      "en": "When you have a problem with your health, it’ll be too late to regret it.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.07.3",
+    "hskLevel": 4,
+    "lessonCode": "4.07.3",
+    "pattern": "V + V + O V + V + O VO for a bit (reduplication)",
+    "example": {
+      "hanzi": "咱们午饭后就去附近的公园散散步 吧。",
+      "pinyin": "zánmen wǔfàn hòu jiù qù fùjìn de gōngyuán sànsànbù ba。",
+      "en": "Let's go for a walk in the nearby park after lunch.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.07.5",
+    "hskLevel": 4,
+    "lessonCode": "4.07.5",
+    "pattern": "既..... ⼜/也/还……jì..... yòu/ yě/ hái…… not only… but also…散步既可以活动身体，⼜",
+    "example": {
+      "hanzi": "可以减肥。",
+      "pinyin": "sànbù jì kěyǐ huódòng shēntǐ， yòu kěyǐ jiǎnféi。",
+      "en": "Walking can [allow you to] both move the body and lose weight.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.08.1",
+    "hskLevel": 4,
+    "lessonCode": "4.08.1",
+    "pattern": "使 O A/V shǐ O A/V make O A/V",
+    "example": {
+      "hanzi": "怎么样才能使她喜欢我呢？",
+      "pinyin": "zěnmeyàng cáinéng shǐ tā xǐhuan wǒ ne？",
+      "en": "How can I make her like me?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.08.4",
+    "hskLevel": 4,
+    "lessonCode": "4.08.4",
+    "pattern": "因此 yīncǐ therefore",
+    "example": {
+      "hanzi": "我认识他很多年，因此，很了解他的 性格。",
+      "pinyin": "wǒ rènshi tā hěn duō nián， yīncǐ， hěn liǎojiě tā de xìnggé。",
+      "en": "I have known him for many years, so I know his character very well.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.09.2",
+    "hskLevel": 4,
+    "lessonCode": "4.09.2",
+    "pattern": "通过 tōngguò through 任何成功都要通过努⼒",
+    "example": {
+      "hanzi": "才能得到。",
+      "pinyin": "rènhé chénggōng dōu yào tōngguò nǔlì cáinéng dédào。",
+      "en": "Any success must be achieved through hard work.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.09.2",
+    "hskLevel": 4,
+    "lessonCode": "4.09.2",
+    "pattern": "经过 jīngguò after having gone through",
+    "example": {
+      "hanzi": "经过一次次失败之后，他终于成功 了。",
+      "pinyin": "jīngguò yīcì cì shībài zhīhòu， tā zhōngyú chénggōng le。",
+      "en": "Having gone through many failures, he ﬁnally succeeded.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.09.2",
+    "hskLevel": 4,
+    "lessonCode": "4.09.2",
+    "pattern": "通过 tōngguò pass through",
+    "example": {
+      "hanzi": "这条街只能步行通过。",
+      "pinyin": "zhè tiáo jiē zhǐnéng bùxíng tōngguò。",
+      "en": "You can only go through this street on foot.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.09.2",
+    "hskLevel": 4,
+    "lessonCode": "4.09.2",
+    "pattern": "经过 jīngguò the whole story",
+    "example": {
+      "hanzi": "小王把事情的经过告诉我了。",
+      "pinyin": "xiǎo wáng bǎ shìqing de jīngguò gàosu wǒ le。",
+      "en": "Xiao Wang told me the whole story of [how] the event [happened].",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.09.4",
+    "hskLevel": 4,
+    "lessonCode": "4.09.4",
+    "pattern": "结果 jiéguǒ result",
+    "example": {
+      "hanzi": "请把调查结果交上来。",
+      "pinyin": "qǐng bǎ diàochájiéguǒ jiāo shànglái。",
+      "en": "Please submit the results of the investigation.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.09.5",
+    "hskLevel": 4,
+    "lessonCode": "4.09.5",
+    "pattern": "上 # shàng # over #",
+    "example": {
+      "hanzi": "这个城市的地铁已经有上百年的历史 了。",
+      "pinyin": "zhège chéngshì de dìtiě yǐjīng yǒu shàng bǎinián de lìshǐ le。",
+      "en": "The city's subway has been around for over a hundred years.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.10.4",
+    "hskLevel": 4,
+    "lessonCode": "4.10.4",
+    "pattern": "由于…… yóuyú…… because … 由于我们的共同努⼒，",
+    "example": {
+      "hanzi": "任务提前完成 了。",
+      "pinyin": "yóuyú wǒmen de gòngtóngnǔlì， rènwu tíqián wánchéng le。",
+      "en": "Owing to our joint eﬀorts, the task was fulﬁlled ahead of schedule.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.12.4",
+    "hskLevel": 4,
+    "lessonCode": "4.12.4",
+    "pattern": "M + M + (N) + 都 M + M + (N) + dōu every N",
+    "example": {
+      "hanzi": "件件小事都应该被看成是一次学习的 机会。",
+      "pinyin": "jiàn jiàn xiǎoshì dōu yīnggāi bèi kànchéng shì yīcì xuéxí de jīhuì。",
+      "en": "Each small thing should (all) be seen as an opportunity to learn.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.13.1",
+    "hskLevel": 4,
+    "lessonCode": "4.13.1",
+    "pattern": "大概/也许 V/A dàgài/ yěxǔ V/A probably/perhaps V/ A 我想校⻓大概/",
+    "example": {
+      "hanzi": "也许会同意。",
+      "pinyin": "wǒ xiǎng xiàozhǎng dàgài/ yěxǔ huì tóngyì。",
+      "en": "I think the principal probably will agree.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.13.1",
+    "hskLevel": 4,
+    "lessonCode": "4.13.1",
+    "pattern": "大概的 N dàgài de N approximate N",
+    "example": {
+      "hanzi": "请给我一个大概的数字。",
+      "pinyin": "qǐng gěi wǒ yī gè dàgài de shùzì。",
+      "en": "Please give me an approximate number.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.13.3",
+    "hskLevel": 4,
+    "lessonCode": "4.13.3",
+    "pattern": "由 S V yóu S V V’ed by S",
+    "example": {
+      "hanzi": "按照规定，这件事情应该由王大夫负 责。",
+      "pinyin": "ànzhào guīdìng， zhè jiàn shìqing yīnggāi yóu wáng dàifu fùzé。",
+      "en": "According to regulations, this matter should be handled by Dr.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.13.4",
+    "hskLevel": 4,
+    "lessonCode": "4.13.4",
+    "pattern": "进行 jìnxíng to proceed",
+    "example": {
+      "hanzi": "10点30分会议继续进行。",
+      "pinyin": "10 diǎn30 fēn huìyì jìxù jìnxíng。",
+      "en": "The meeting will continue to proceed at half past 10.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.13.4",
+    "hskLevel": 4,
+    "lessonCode": "4.13.4",
+    "pattern": "进行 O jìnxíng O to carry out O 进行观察 jìnxíng guānchá carry out an observation",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.13.5",
+    "hskLevel": 4,
+    "lessonCode": "4.13.5",
+    "pattern": "随着 N suízhe N with N (as N happens)",
+    "example": {
+      "hanzi": "随着社会的发展，京剧也在改变。",
+      "pinyin": "suízhe shèhuì de fāzhǎn， Jīngjù yě zài gǎibiàn。",
+      "en": "With the development of society, Peking Opera is also changing.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.14.1",
+    "hskLevel": 4,
+    "lessonCode": "4.14.1",
+    "pattern": "够 gòu suﬃcient",
+    "example": {
+      "hanzi": "钱不够。",
+      "pinyin": "qián bùgòu。",
+      "en": "The money is not enough.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.14.1",
+    "hskLevel": 4,
+    "lessonCode": "4.14.1",
+    "pattern": "够 A gòu A (good) enough",
+    "example": {
+      "hanzi": "不用装这些，箱子已经够重的了！",
+      "pinyin": "bùyòng zhuāng zhèxiē， xiāngzi yǐjīng gòu zhòng de le！",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.14.2",
+    "hskLevel": 4,
+    "lessonCode": "4.14.2",
+    "pattern": "以 N yǐ N with N (speed, standard)",
+    "example": {
+      "hanzi": "经理您放心，我一定以最快的速度完 成。",
+      "pinyin": "jīnglǐ nín fàngxīn， wǒ yīdìng yǐ zuì kuài de sùdù wánchéng。",
+      "en": "Manager, you can rest assured that I will ﬁnish at the fastest speed.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.14.2",
+    "hskLevel": 4,
+    "lessonCode": "4.14.2",
+    "pattern": "以 N1 为 N2 yǐ N1 wéi N2 consider N1 as N",
+    "example": {
+      "hanzi": "2 我们应该以历史为镜子。",
+      "pinyin": "wǒmen yīnggāi yǐ lìshǐ wéi jìngzi。",
+      "en": "We should use history as a mirror.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.14.2",
+    "hskLevel": 4,
+    "lessonCode": "4.14.2",
+    "pattern": "以 yǐ in order to",
+    "example": {
+      "hanzi": "她送来了一份礼物以表示感谢。",
+      "pinyin": "tā sòng lái le yī fèn lǐwù yǐ biǎoshì gǎnxiè。",
+      "en": "She sent a gift to express her gratitude.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.14.3",
+    "hskLevel": 4,
+    "lessonCode": "4.14.3",
+    "pattern": "既然 jìrán now that",
+    "example": {
+      "hanzi": "你既然不愿意打球，为什么还要打？",
+      "pinyin": "nǐ jìrán bù yuànyì dǎqiú， wèishénme hái yào dǎ？",
+      "en": "Since you don't want to play, why [bother] playing?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.15.1",
+    "hskLevel": 4,
+    "lessonCode": "4.15.1",
+    "pattern": "V 起来 V qilai V up",
+    "example": {
+      "hanzi": "你这样躺着看书对眼晴不好，快坐起 来！",
+      "pinyin": "nǐ zhèyàng tǎng zhe kànshū duìyǎn qíng bùhǎo， kuài zuò qilai！",
+      "en": "If you lie down and read a book, it is not good for your eyes.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.15.1",
+    "hskLevel": 4,
+    "lessonCode": "4.15.1",
+    "pattern": "想起来 xiǎngqilai remember, call to mind",
+    "example": {
+      "hanzi": "现在我全都想起来了。",
+      "pinyin": "xiànzài wǒ quándōu xiǎngqilai le。",
+      "en": "Now I recall (lit.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.15.2",
+    "hskLevel": 4,
+    "lessonCode": "4.15.2",
+    "pattern": "弄 A O nòng A O cause O to be A",
+    "example": {
+      "hanzi": "搬的时候要小心点儿，别弄坏沙发 了。",
+      "pinyin": "bān de shíhou yào xiǎoxīn diǎnr， bié nònghuài shāfā le。",
+      "en": "Be careful when moving, don't break the sofa.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.15.3",
+    "hskLevel": 4,
+    "lessonCode": "4.15.3",
+    "pattern": "一定要/得 V/A yīdìngyào/ dé V/A must V, must be A⽐",
+    "example": {
+      "hanzi": "赛前一定要把动作练好。",
+      "pinyin": "bǐsài qián yīdìngyào bǎ dòngzuò liàn hǎo。",
+      "en": "You must practice your moves before the game.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.15.3",
+    "hskLevel": 4,
+    "lessonCode": "4.15.3",
+    "pattern": "不一定 bùyīdìng not necessarily 个子⾼不一定⼒⽓大。 gèzi gāo bùyīdìng lìqi dà。 If someone is tall he/she is not necessarily strong. 4 4.15.3Lesson一定的 yīdìng de some, a certain如果有一定的语⾔",
+    "example": {
+      "hanzi": "基础，那么出国学 习外语是最好的选择。",
+      "pinyin": "rúguǒ yǒu yīdìng de yǔyán jīchǔ， nàme chūguó xuéxí wàiyǔ shì zuìhǎo de xuǎnzé。",
+      "en": "If you have a certain language foundation, then studying a foreign language abroad is the best choice.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.15.5",
+    "hskLevel": 4,
+    "lessonCode": "4.15.5",
+    "pattern": "# 左右 # zuǒyòu around # ⽹",
+    "example": {
+      "hanzi": "上买的那本书估计三天左右就能 到。",
+      "pinyin": "wǎngshàng mǎi de nà běn shū gūjì sān tiān zuǒyòu jiù néng dào。",
+      "en": "The book bought online is estimated to be available in about three days.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.16.1",
+    "hskLevel": 4,
+    "lessonCode": "4.16.1",
+    "pattern": "可 V/A 了 kě V/A le really A/V 今天天⽓",
+    "example": {
+      "hanzi": "可热了。",
+      "pinyin": "jīntiān tiānqì kě rè le。",
+      "en": "The weather is really hot today.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.16.2",
+    "hskLevel": 4,
+    "lessonCode": "4.16.2",
+    "pattern": "怕/恐怕 V pà/ kǒngpà V probably I’m afraid他离开这里怕/",
+    "example": {
+      "hanzi": "恐怕有二十天了。",
+      "pinyin": "tā líkāi zhèlǐ pà/ kǒngpà yǒu èrshí tiān le。",
+      "en": "He left here for probably 20 days (I’m afraid).",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.16.3",
+    "hskLevel": 4,
+    "lessonCode": "4.16.3",
+    "pattern": "到底 Q dàodǐ Q in the world",
+    "example": {
+      "hanzi": "到底你怎么打算的呀？",
+      "pinyin": "dàodǐ nǐ zěnme dǎsuàn de ya？",
+      "en": "What in the world are you planning?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.16.4",
+    "hskLevel": 4,
+    "lessonCode": "4.16.4",
+    "pattern": "拿……来说 ná…… láishuō take… for example",
+    "example": {
+      "hanzi": "拿我来说，我已经学了十年汉语了。",
+      "pinyin": "ná wǒ láishuō， wǒ yǐjīng xué le shí nián Hànyǔ le。",
+      "en": "Take me, for example, I’ve been learning Chinese for 10 years.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.16.5",
+    "hskLevel": 4,
+    "lessonCode": "4.16.5",
+    "pattern": "敢 V gǎn V to dare to V",
+    "example": {
+      "hanzi": "谁也不敢说他的坏话。",
+      "pinyin": "shéi yě bù gǎn shuō tā de huàihuà。",
+      "en": "No one dares to say bad things about her.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.17.1",
+    "hskLevel": 4,
+    "lessonCode": "4.17.1",
+    "pattern": "倒 dǎo to pour",
+    "example": {
+      "hanzi": "我给你倒杯水吧。",
+      "pinyin": "wǒ gěi nǐ dǎo bēi shuǐ ba。",
+      "en": "I will pour you a glass of water.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.17.1",
+    "hskLevel": 4,
+    "lessonCode": "4.17.1",
+    "pattern": "倒 dǎo to reverse “",
+    "example": {
+      "hanzi": "我爱你”，倒过来就是“你爱我”。",
+      "pinyin": "“ wǒ ài nǐ”， dǎo guòlái jiùshì“ nǐ ài wǒ”。",
+      "en": "“I love you” said in reverse is “you love me.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.17.1",
+    "hskLevel": 4,
+    "lessonCode": "4.17.1",
+    "pattern": "S 倒 V S dǎo V although S V",
+    "example": {
+      "hanzi": "你说得倒是容易，做起来可就难了！",
+      "pinyin": "nǐ shuō dé dàoshi róngyì， zuò qilai kějiù nán le！",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.17.2",
+    "hskLevel": 4,
+    "lessonCode": "4.17.2",
+    "pattern": "⼲ (gān) gàn (gān) dry 把头发擦⼲。 bǎ tóufa cāgān。 Wipe your hair dry.",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.17.2",
+    "hskLevel": 4,
+    "lessonCode": "4.17.2",
+    "pattern": "⼲ (gàn) gàn (gàn) to do 你在⼲",
+    "example": {
+      "hanzi": "什么呢？",
+      "pinyin": "nǐ zài gànshénme ne？",
+      "en": "What are you doing?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.17.3",
+    "hskLevel": 4,
+    "lessonCode": "4.17.3",
+    "pattern": "# 趟 # tàng # times (of trips)",
+    "example": {
+      "hanzi": "回来的路上我顺便去了趟银行。",
+      "pinyin": "huílai de lùshang wǒ shùnbiàn qù le tàng yínháng。",
+      "en": "On the way back, I made a visit to the bank along the way.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.17.3",
+    "hskLevel": 4,
+    "lessonCode": "4.17.3",
+    "pattern": "# 次 # cì No. # (bus/train route)",
+    "example": {
+      "hanzi": "502次公交车很快就要到了。",
+      "pinyin": "502 cì gōngjiāochē hěn kuài jiùyào dàoliǎo。",
+      "en": "Bus No.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.17.4",
+    "hskLevel": 4,
+    "lessonCode": "4.17.4",
+    "pattern": "为了 N 而 V wèile N ér V V for N 植物会为了阳光、空⽓",
+    "example": {
+      "hanzi": "和水而竞争。",
+      "pinyin": "zhíwù huì wèile yángguāng、 kōngqì hé shuǐ ér jìngzhēng。",
+      "en": "Plants compete for sunlight, air, and water.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.18.2",
+    "hskLevel": 4,
+    "lessonCode": "4.18.2",
+    "pattern": "受不了 shòubùliǎo tolerate",
+    "example": {
+      "hanzi": "我真的受不了你了，你到底还要逛多 久？",
+      "pinyin": "wǒ zhēn de shòubùliǎo nǐ le， nǐ dàodǐ hái yào guàng duōjiǔ？",
+      "en": "I really can't tolerate you, how long do you have to keep shopping?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.18.3",
+    "hskLevel": 4,
+    "lessonCode": "4.18.3",
+    "pattern": "接着 V jiēzhe V continue to V",
+    "example": {
+      "hanzi": "你看完这本书以后先不要还，我接着 看。",
+      "pinyin": "nǐ kàn wán zhè běn shū yǐhòu xiān bùyào hái， wǒ jiēzhe kàn。",
+      "en": "Don't pay back after reading this book, I will continue to watch.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.18.5",
+    "hskLevel": 4,
+    "lessonCode": "4.18.5",
+    "pattern": "把 N1 叫作 N2 bǎ N1 jiàozuò N2 call N1 N2 中国人把⻩河叫作“⺟",
+    "example": {
+      "hanzi": "亲河” 。",
+      "pinyin": "Zhōngguórén bǎ Huáng Hé jiàozuò“ mǔqīn hé” 。",
+      "en": "The Chinese call the Yellow River \"Mother River.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.19.2",
+    "hskLevel": 4,
+    "lessonCode": "4.19.2",
+    "pattern": "V 上 V shàng get to V 看来今天吃不上⽺⾁",
+    "example": {
+      "hanzi": "饺子了。",
+      "pinyin": "kànlai jīntiān chībushàng yángròu jiǎozi le。",
+      "en": "It seems that I don’t get to eat lamb dumplings today.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.19.4",
+    "hskLevel": 4,
+    "lessonCode": "4.19.4",
+    "pattern": "总的来说 zǒngdeláishuō overall",
+    "example": {
+      "hanzi": "这个公司总的来说还不错。",
+      "pinyin": "zhège gōngsī zǒngdeláishuō hái bùcuò。",
+      "en": "Overall, this company is good.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.19.5",
+    "hskLevel": 4,
+    "lessonCode": "4.19.5",
+    "pattern": "在于 zàiyú is all about",
+    "example": {
+      "hanzi": "人们常说“生命在于运动”。",
+      "pinyin": "rénmen cháng shuō“ shēngmìngzàiyúyùndòng”。",
+      "en": "People often say that \"life is all about moving/exercising.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.20.1",
+    "hskLevel": 4,
+    "lessonCode": "4.20.1",
+    "pattern": "V1 着 V1 着 V2了 V1 zhe V1 zhe V2 le V2’ed while V1-ing",
+    "example": {
+      "hanzi": "她讲着讲着就笑了。",
+      "pinyin": "tā jiǎng zhe jiǎng zhe jiù xiào le。",
+      "en": "As she was speaking, she started to laugh.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.20.2",
+    "hskLevel": 4,
+    "lessonCode": "4.20.2",
+    "pattern": "一……就…… yī…… jiù…… as soon as … then …",
+    "example": {
+      "hanzi": "她一回家就看电视。",
+      "pinyin": "tā yī huíjiā jiù kàn diànshì。",
+      "en": "As soon as she gets home, (then) she watches TV.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.20.2",
+    "hskLevel": 4,
+    "lessonCode": "4.20.2",
+    "pattern": "一……就…… yī…… jiù……",
+    "example": {
+      "hanzi": "每次只要 儿子小时候一说话就脸红。",
+      "pinyin": "érzi xiǎoshíhou yī shuōhuà jiù liǎnhóng。",
+      "en": "When [my] son was a child, as soon as he speaks, (then) he blushes.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.20.3",
+    "hskLevel": 4,
+    "lessonCode": "4.20.3",
+    "pattern": "究竟 Q jiūjìng Q Q exactly 究竟哪个季节去旅游⽐",
+    "example": {
+      "hanzi": "较好呢？",
+      "pinyin": "jiūjìng nǎge jìjié qù lǚyóu bǐjiào hǎo ne？",
+      "en": "Which season exactly is better to travel?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.20.4",
+    "hskLevel": 4,
+    "lessonCode": "4.20.4",
+    "pattern": "V 起来 V qilai to start to V 小王⼜",
+    "example": {
+      "hanzi": "唱起来了。",
+      "pinyin": "xiǎo wáng yòu chàng qilai le。",
+      "en": "Xiao Wang started singing again.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-4-4.20.4",
+    "hskLevel": 4,
+    "lessonCode": "4.20.4",
+    "pattern": "V 起来 V qilai seems like, sounds like",
+    "example": {
+      "hanzi": "上海话听起来就像外语一样。",
+      "pinyin": "Shànghǎihuà tīngqilai jiù xiàng wàiyǔ yīyàng。",
+      "en": "The Shanghai dialect sounds like a foreign language.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.01.1",
+    "hskLevel": 5,
+    "lessonCode": "5.01.1",
+    "pattern": "如何 rúhé how is “",
+    "example": {
+      "hanzi": "80后”们月收入情况如何？",
+      "pinyin": "“80 hòu” men yuèshōurù qíngkuàng rúhé？",
+      "en": "How is the monthly income situation with those born in the 80s?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.01.1",
+    "hskLevel": 5,
+    "lessonCode": "5.01.1",
+    "pattern": "怎么，…… zěnme，…… (expression of surprise)",
+    "example": {
+      "hanzi": "怎么，你不认识我了？！",
+      "pinyin": "zěnme， nǐ bù rènshi wǒ le？",
+      "en": "What, you don't know me anymore?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.01.2",
+    "hskLevel": 5,
+    "lessonCode": "5.01.2",
+    "pattern": "靠 kào to lean",
+    "example": {
+      "hanzi": "王老师喜欢靠着桌子讲课。",
+      "pinyin": "wáng lǎoshī xǐhuan kào zhe zhuōzi jiǎngkè。",
+      "en": "Teacher Wang likes to give her lecture while leaning on the table.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.01.2",
+    "hskLevel": 5,
+    "lessonCode": "5.01.2",
+    "pattern": "靠 kào beside",
+    "example": {
+      "hanzi": "我的座位是17号，是靠窗的座位。",
+      "pinyin": "wǒ de zuòwèi shì17 hào， shì kàochuāng de zuòwèi。",
+      "en": "My seat is No.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.03.3",
+    "hskLevel": 5,
+    "lessonCode": "5.03.3",
+    "pattern": "勿 wù do not ⾮",
+    "example": {
+      "hanzi": "工作人员，请勿入内。",
+      "pinyin": "fēi gōngzuòrényuán， qǐng wù rù nèi。",
+      "en": "If you’re not a staﬀ member, please do not enter.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.03.4",
+    "hskLevel": 5,
+    "lessonCode": "5.03.4",
+    "pattern": "时刻 shíkè moment",
+    "example": {
+      "hanzi": "在最后时刻，他为本队踢进了关键一 球。",
+      "pinyin": "zài zuìhòu shíkè， tā wéi běn duì tī jìn le guānjiàn yī qiú。",
+      "en": "At the last moment, he scored the key goal for the team.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.04.2",
+    "hskLevel": 5,
+    "lessonCode": "5.04.2",
+    "pattern": "顶 dǐng (measure word for hats)",
+    "example": {
+      "hanzi": "我这顶新帽子怎么样？",
+      "pinyin": "wǒ zhè dǐng xīn màozi zěnmeyàng？",
+      "en": "How [what do you think of] this new hat of mine?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.04.2",
+    "hskLevel": 5,
+    "lessonCode": "5.04.2",
+    "pattern": "顶 dǐng the top of",
+    "example": {
+      "hanzi": "请把手举过头顶。",
+      "pinyin": "qǐng bǎshǒu jǔ guòtóu dǐng。",
+      "en": "Please raise your hand over (the top of) your head.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.04.2",
+    "hskLevel": 5,
+    "lessonCode": "5.04.2",
+    "pattern": "顶 dǐng to lift 他能用头顶起20⽄重的东⻄。 tā néng yòng tóudǐng qǐ20 jīn zhòng de dōngxi。 He can use his head to lift 20 pounds. 5 5.04.2Lesson顶着 dǐng zhe against 天⽓⾮常寒冷，子路顶着大雪往前 ⾛。 tiānqì fēicháng hánlěng， Zǐ Lù dǐng zhe Dàxuě wǎngqián zǒu。 The weather is very cold, and Zilu was trudging ahead against heavy snow. 5 5.04.3Lesson……得很/得不行/得 不得了 …… dehěn/ dé bùxíng/ dé bùdéliǎo very/so/extremely这个地方这么热闹，孩子们⾼兴得 很/得不行/",
+    "example": {
+      "hanzi": "得不得了。",
+      "pinyin": "zhège dìfang zhème rènao， háizimen gāoxìng dehěn/ dé bùxíng/ dé bùdéliǎo。",
+      "en": "The place is so lively, the children are very/so/extremely happy.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.05.2",
+    "hskLevel": 5,
+    "lessonCode": "5.05.2",
+    "pattern": "V 于 N V yú N V in N 这家公司成⽴",
+    "example": {
+      "hanzi": "于1997年。",
+      "pinyin": "zhè jiā gōngsī chénglì yú1997 nián。",
+      "en": "This company was founded in 1997.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.05.2",
+    "hskLevel": 5,
+    "lessonCode": "5.05.2",
+    "pattern": "V 于 N V yú N V from N",
+    "example": {
+      "hanzi": "他出身于知识分子家庭。",
+      "pinyin": "tā chūshēn yú zhīshifènzǐ jiātíng。",
+      "en": "He came from an intellectual family.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.05.2",
+    "hskLevel": 5,
+    "lessonCode": "5.05.2",
+    "pattern": "A 于 N A yú N A to N",
+    "example": {
+      "hanzi": "运动有助于健康。",
+      "pinyin": "yùndòng yǒuzhùyú jiànkāng。",
+      "en": "Exercise is beneﬁcial to health.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.05.2",
+    "hskLevel": 5,
+    "lessonCode": "5.05.2",
+    "pattern": "A 于 N A yú N A from/than N",
+    "example": {
+      "hanzi": "水生动物不同于陆地动物。",
+      "pinyin": "shuǐshēng dòngwù bùtóng yú lùdì dòngwù。",
+      "en": "Aquatic creatures are diﬀerent from terrestrial ones.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.05.3",
+    "hskLevel": 5,
+    "lessonCode": "5.05.3",
+    "pattern": "V 为 (wéi) N V wéi (wéi) N V into N 压⼒也可以变为动⼒。 yālì yě kěyǐ biànwéi dònglì。 Stress can also be turned into strength. 5 5.05.3LessonV 为 (wéi) N V wéi (wéi) N V as N",
+    "example": {
+      "hanzi": "在他看来，没有工作的生活就不能称 其为生活。",
+      "pinyin": "zài tā kànlai， méiyǒu gōngzuò de shēnghuó jiù bùnéng chēng qí wéi shēnghuó。",
+      "en": "In his view, life without work cannot be called (as) life.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.05.4",
+    "hskLevel": 5,
+    "lessonCode": "5.05.4",
+    "pattern": "V 起来 V qilai V up",
+    "example": {
+      "hanzi": "地下水积蓄起来，越积越多。",
+      "pinyin": "dìxiàshuǐ jīxù qilai， yuè jī yuè duō。",
+      "en": "The groundwater is store (up) and accumulates.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.06.1",
+    "hskLevel": 5,
+    "lessonCode": "5.06.1",
+    "pattern": "替 tì on behalf of 李阳要去留学了，我们都替他⾼兴。lǐ yáng yào qù liúxué le， wǒmen dōu tì tā gāoxìng。 Li Yang is going to study abroad, and we are all happy for him. 5 5.06.2Lesson说不定 shuōbudìng uncertain",
+    "example": {
+      "hanzi": "这事儿经理已经同意了，只是出发的 时间还说不定。",
+      "pinyin": "zhè shìr jīnglǐ yǐjīng tóngyì le， zhǐshì chūfā de shíjiān hái shuōbudìng。",
+      "en": "The manager has already agreed, but the time of departure is still uncertain.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.06.3",
+    "hskLevel": 5,
+    "lessonCode": "5.06.3",
+    "pattern": "N 似的 N shìde like N",
+    "example": {
+      "hanzi": "我不敢相信这是真的，好像做梦似 的。",
+      "pinyin": "wǒ bù gǎn xiāngxìn zhè shì zhēn de， hǎoxiàng zuòmèng shìde。",
+      "en": "I can't believe this is true, it seems like a dream.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.07.1",
+    "hskLevel": 5,
+    "lessonCode": "5.07.1",
+    "pattern": "瞎 xiā thoughtlessly",
+    "example": {
+      "hanzi": "他会想办法的，你就别替他瞎担心 了。",
+      "pinyin": "tā huì xiǎng bànfǎ de， nǐ jiù bié tì tā xiā dānxīn le。",
+      "en": "He will ﬁnd a way, you don't (thoughtlessly) worry about him.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.07.2",
+    "hskLevel": 5,
+    "lessonCode": "5.07.2",
+    "pattern": "分别 fēnbié diﬀerence",
+    "example": {
+      "hanzi": "我不知道这两种做法有什么分别。",
+      "pinyin": "wǒ bù zhīdào zhè liǎng zhǒng zuòfǎ yǒu shénme fēnbié。",
+      "en": "I don't know the diﬀerence between the two approaches.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.07.3",
+    "hskLevel": 5,
+    "lessonCode": "5.07.3",
+    "pattern": "根 gēn (measure word)",
+    "example": {
+      "hanzi": "摸到尾巴的盲人说大象像一根绳子。",
+      "pinyin": "mō dào wěiba de mángrén shuō dàxiàng xiàng yī gēn shéngzi。",
+      "en": "The blind man who touched the tail said that the elephant is like a rope.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.07.3",
+    "hskLevel": 5,
+    "lessonCode": "5.07.3",
+    "pattern": "根 gēn root 这棵树的根⼜粗⼜⻓。 zhè kē shù de gēn yòu cū yòu cháng。 The root of this tree is thick and long. 5 5.07.4Lesson便 biàn then",
+    "example": {
+      "hanzi": "楼上新买了一架钢琴，我们家便多了 一些不安静。",
+      "pinyin": "lóushàng xīn mǎi le yī jià gāngqín， wǒmen jiā biàn duō le yīxiē bù ānjìng。",
+      "en": "A new piano was bought upstairs, and then there were more noise (lit.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.08.2",
+    "hskLevel": 5,
+    "lessonCode": "5.08.2",
+    "pattern": "V 来 V 去 V lái V qù V around 小狗追着⾃⼰",
+    "example": {
+      "hanzi": "的尾巴， 在草地上跑 来跑去。",
+      "pinyin": "xiǎogǒu zhuī zhe zìjǐ de wěiba， zài cǎo dìshang pǎo lái pǎo qù。",
+      "en": "The dog chased his tail and ran around on the grass.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.08.3",
+    "hskLevel": 5,
+    "lessonCode": "5.08.3",
+    "pattern": "要不/不然/要不然 yàobù/ bùrán/ yàobùrán why not try 今天太晚了，要不/不然/要不然你明 天再⾛吧。 jīntiān tài wǎn le， yàobù/ bùrán/ yàobùrán nǐ míngtiān zài zǒu ba。 It’s too late today, why don’t (you) leave tomorrow instead? LessonStructure Pinyin English EquivalentExample Example Pinyin Example TranslationHSKCode",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.08.4",
+    "hskLevel": 5,
+    "lessonCode": "5.08.4",
+    "pattern": "彼此 V bǐcǐ V each other",
+    "example": {
+      "hanzi": "好朋友应该彼此帮助。",
+      "pinyin": "hǎopéngyou yīnggāi bǐcǐ bāngzhù。",
+      "en": "Good friends should help each other.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.08.4",
+    "hskLevel": 5,
+    "lessonCode": "5.08.4",
+    "pattern": "彼此 bǐcǐ (pronoun for 2 people)",
+    "example": {
+      "hanzi": "我们彼此的爱好相同。",
+      "pinyin": "wǒmen bǐcǐ de àihào xiāngtóng。",
+      "en": "We (us two) have the same hobbies.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.09.1",
+    "hskLevel": 5,
+    "lessonCode": "5.09.1",
+    "pattern": "V 了/掉 算了 V le/ diào suànle might as well V",
+    "example": {
+      "hanzi": "不就是一个空瓶子吗？扔掉算了。",
+      "pinyin": "bù jiùshì yī gè kōng píngzi ma？",
+      "en": "rēngdiào suànle。",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.11.1",
+    "hskLevel": 5,
+    "lessonCode": "5.11.1",
+    "pattern": "V 过来 V guòlái V and recover",
+    "example": {
+      "hanzi": "过了半天，脑子才清醒过来。",
+      "pinyin": "guò le bàntiān， nǎozi cái qīngxǐng guòlái。",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.11.1",
+    "hskLevel": 5,
+    "lessonCode": "5.11.1",
+    "pattern": "V 得过来 / V 不过来V dé guòlái / V bùguò lái can ﬁnish V / cannot ﬁnish V",
+    "example": {
+      "hanzi": "天上的星星那么多，谁数得过来呀？",
+      "pinyin": "tiānshàng de xīngxing nàme duō， shéi shǔ dé guòlái ya？",
+      "en": "There are so many stars in the sky, who can count them (out)?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.11.2",
+    "hskLevel": 5,
+    "lessonCode": "5.11.2",
+    "pattern": "所 suǒ (measure word for institutions) 他来⾃",
+    "example": {
+      "hanzi": "北京的一所大学。",
+      "pinyin": "tā láizì Běijīng de yī suǒ dàxué。",
+      "en": "He is from a university in Beijing.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.11.2",
+    "hskLevel": 5,
+    "lessonCode": "5.11.2",
+    "pattern": "⽆所 V wú suǒ V have nothing to V你要是坚持真理就可以⽆",
+    "example": {
+      "hanzi": "所畏惧。",
+      "pinyin": "nǐ yàoshi jiānchí zhēnlǐ jiù kěyǐ wú suǒ wèijù。",
+      "en": "If you stick to the truth, you've nothing to fear.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.11.4",
+    "hskLevel": 5,
+    "lessonCode": "5.11.4",
+    "pattern": "数 (shǔ) shǔ (shǔ) to count",
+    "example": {
+      "hanzi": "我大概数了一下，车上有32个学生。",
+      "pinyin": "wǒ dàgài shǔ le yīxià， chē shàng yǒu32 gè xuésheng。",
+      "en": "I roughly counted it, there are 32 students in the vehicle.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.12.2",
+    "hskLevel": 5,
+    "lessonCode": "5.12.2",
+    "pattern": "程度 chéngdù degree",
+    "example": {
+      "hanzi": "问题已经发展到了十分严重的程度。",
+      "pinyin": "wèntí yǐjīng fāzhǎn dàoliǎo shífēn yánzhòng de chéngdù。",
+      "en": "The problem has grown to a very serious degree.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.13.3",
+    "hskLevel": 5,
+    "lessonCode": "5.13.3",
+    "pattern": "多亏 duōkuī thanks to",
+    "example": {
+      "hanzi": "多亏了他这句话，人们如梦初醒。",
+      "pinyin": "duōkuī le tā zhè jù huà， rénmen rú mèng chū xǐng。",
+      "en": "Thanks to his words, people wake up like a dream.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.14.1",
+    "hskLevel": 5,
+    "lessonCode": "5.14.1",
+    "pattern": "所谓 suǒwèi so-called",
+    "example": {
+      "hanzi": "他所谓的“新闻”， 其实我们早就知道 了！",
+      "pinyin": "tā suǒwèi de“ xīnwén”， qíshí wǒmen zǎojiù zhīdàole！",
+      "en": "His so-called \"news\", in fact, we already know! 5 5.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.14.2",
+    "hskLevel": 5,
+    "lessonCode": "5.14.2",
+    "pattern": "# 则 # zé (measure word for stories) 今天的报纸上有一则⾮",
+    "example": {
+      "hanzi": "常重要的新 闻。",
+      "pinyin": "jīntiān de bàozhǐ shàng yǒu yīzé fēicháng zhòngyào de xīnwén。",
+      "en": "There is a very important news in today's newspaper.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.14.3",
+    "hskLevel": 5,
+    "lessonCode": "5.14.3",
+    "pattern": "为 S 所 V wéi S suǒ V is V’ed by S 有了科学，大⾃",
+    "example": {
+      "hanzi": "然就可以更好地为人 所用。",
+      "pinyin": "yǒule kēxué， dàzìrán jiù kěyǐ gèng hǎo dì wéirén suǒ yòng。",
+      "en": "With science, nature can be better used by mankind.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.14.4",
+    "hskLevel": 5,
+    "lessonCode": "5.14.4",
+    "pattern": "V 起 V qǐ V up",
+    "example": {
+      "hanzi": "拉起手，我们就是好朋友。",
+      "pinyin": "lā qǐ shǒu， wǒmen jiùshì hǎopéngyou。",
+      "en": "Joining (lit.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.16.1",
+    "hskLevel": 5,
+    "lessonCode": "5.16.1",
+    "pattern": "即 jí that is “",
+    "example": {
+      "hanzi": "旦”是象形字，即太阳从地平线上升 起。",
+      "pinyin": "“ dàn” shì xiàngxíngzì， jí tàiyang cóng dì píng xiànshàng shēngqǐ。",
+      "en": "“旦” is a pictograph, that is, the sun rising from the horizon.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.16.3",
+    "hskLevel": 5,
+    "lessonCode": "5.16.3",
+    "pattern": "⾮ fēi to insist on 他⾮",
+    "example": {
+      "hanzi": "要离婚，我们谁拦也拦不住。",
+      "pinyin": "tā fēiyào líhūn， wǒmen shéi lán yě lán bùzhù。",
+      "en": "He insists on divorcing, and we can’t stop it.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.16.3",
+    "hskLevel": 5,
+    "lessonCode": "5.16.3",
+    "pattern": "并⾮ bìngfēi not 成功有时候并⾮",
+    "example": {
+      "hanzi": "想象中那么难。",
+      "pinyin": "chénggōng yǒushíhou bìngfēi xiǎngxiàng zhōng nàme nán。",
+      "en": "Success is sometimes not as diﬃcult as it might seem.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.17.1",
+    "hskLevel": 5,
+    "lessonCode": "5.17.1",
+    "pattern": "以 yǐ (see 4.14.2 “以”) - - - LessonStructure Pinyin English EquivalentExample Example Pinyin Example TranslationHSKCode",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.17.2",
+    "hskLevel": 5,
+    "lessonCode": "5.17.2",
+    "pattern": "平常 píngcháng ordinary",
+    "example": {
+      "hanzi": "对小王来说，今天是一个不平常的日 子。",
+      "pinyin": "duì xiǎo wáng láishuō， jīntiān shì yī gè bùpíngcháng de rìzi。",
+      "en": "For Xiao Wang, today is an extraordinary day.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.17.2",
+    "hskLevel": 5,
+    "lessonCode": "5.17.2",
+    "pattern": "平常 píngcháng usually",
+    "example": {
+      "hanzi": "他平常总是来得很早，今天却迟到 了。",
+      "pinyin": "tā píngcháng zǒngshì lái dehěn zǎo， jīntiān què chí dàoliǎo。",
+      "en": "He usually comes very early, but he is late today.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.18.2",
+    "hskLevel": 5,
+    "lessonCode": "5.18.2",
+    "pattern": "其余 qíyú the rest",
+    "example": {
+      "hanzi": "怎么只有你们两个人？其余的同学 呢？",
+      "pinyin": "zěnme zhǐyǒu nǐmen liǎng gèrén？",
+      "en": "qíyú de tóngxué ne？",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.18.3",
+    "hskLevel": 5,
+    "lessonCode": "5.18.3",
+    "pattern": "(由此) 可见 ( yóucǐ) kějiàn This shows that由此可见，成功是需要努⼒的。yóucǐkějiàn， chénggōng shì xūyào nǔlì de。 This shows that success requires hard work.",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.19.1",
+    "hskLevel": 5,
+    "lessonCode": "5.19.1",
+    "pattern": "N 般 N bān like N",
+    "example": {
+      "hanzi": "她的脸上露出了阳光般的笑容。",
+      "pinyin": "tā de liǎn shàng lùchū le yángguāng bān de xiàoróng。",
+      "en": "Her face showed a sunny (lit.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.21.1",
+    "hskLevel": 5,
+    "lessonCode": "5.21.1",
+    "pattern": "硬 V yìng V to insist on V-ing",
+    "example": {
+      "hanzi": "我不让他去，他硬要去。",
+      "pinyin": "wǒ bù ràng tā qù， tā yìngyào qù。",
+      "en": "I won’t let him go, he just insists on going.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.21.2",
+    "hskLevel": 5,
+    "lessonCode": "5.21.2",
+    "pattern": "偶然的 ǒurán de accidental (opportunity)",
+    "example": {
+      "hanzi": "那是一次偶然的相遇。",
+      "pinyin": "nàshi yīcì ǒurán de xiāngyù。",
+      "en": "It was an accidental encounter.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.22.2",
+    "hskLevel": 5,
+    "lessonCode": "5.22.2",
+    "pattern": "难免 nánmiǎn inevitable",
+    "example": {
+      "hanzi": "刚开始工作，这样的错误是难免的。",
+      "pinyin": "gāng kāishǐ gōngzuò， zhèyàng de cuòwù shì nánmiǎn de。",
+      "en": "At the beginning of work, such mistakes are inevitable.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.22.3",
+    "hskLevel": 5,
+    "lessonCode": "5.22.3",
+    "pattern": "⾃从 TIME zìcóng TIME since TIME ⾃",
+    "example": {
+      "hanzi": "从我到北京以后，身体越来越好 了。",
+      "pinyin": "zìcóng wǒ dào Běijīng yǐhòu， shēntǐ yuèláiyuè hǎole。",
+      "en": "Since I arrived in Beijing, my body has gotten better and better.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.23.1",
+    "hskLevel": 5,
+    "lessonCode": "5.23.1",
+    "pattern": "一致 yīzhì in agreement",
+    "example": {
+      "hanzi": "他们的意见不一致。",
+      "pinyin": "tāmen de yìjiàn bù yīzhì。",
+      "en": "Their opinions do not agree.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.23.2",
+    "hskLevel": 5,
+    "lessonCode": "5.23.2",
+    "pattern": "name 某/某某 name mǒu/ mǒumǒu placeholder for a name 公司业务员李某/",
+    "example": {
+      "hanzi": "李某某闻之大喜。",
+      "pinyin": "gōngsī yèwùyuán lǐ mǒu/ lǐ mǒumǒu wén zhī dàxǐ。",
+      "en": "Company salesman Li (So-and-so) heard the big joy.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.23.3",
+    "hskLevel": 5,
+    "lessonCode": "5.23.3",
+    "pattern": "幸亏…… xìngkuī…… thankfully…",
+    "example": {
+      "hanzi": "幸亏你提醒了我，我今天就去报名。",
+      "pinyin": "xìngkuī nǐ tíxǐng le wǒ， wǒ jīntiān jiù qù bàomíng。",
+      "en": "Thankfully you reminded me.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.24.1",
+    "hskLevel": 5,
+    "lessonCode": "5.24.1",
+    "pattern": "行动 xíngdòng activity, action 我们应该勇敢⾯",
+    "example": {
+      "hanzi": "对困难，迅速采取行 动。",
+      "pinyin": "wǒmen yīnggāi yǒnggǎn miànduì kùnnan， xùnsù cǎiqǔxíngdòng。",
+      "en": "We should meet diﬃculties with courage and act quickly.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.24.1",
+    "hskLevel": 5,
+    "lessonCode": "5.24.1",
+    "pattern": "行动 xíngdòng act 有些⻦",
+    "example": {
+      "hanzi": "类喜欢单独行动。",
+      "pinyin": "yǒuxiē niǎolèi xǐhuan dāndú xíngdòng。",
+      "en": "Some birds like to act alone.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.24.2",
+    "hskLevel": 5,
+    "lessonCode": "5.24.2",
+    "pattern": "义务 yìwù compulsory 我们每个学期都要⾄",
+    "example": {
+      "hanzi": "少参加三次义务 劳动。",
+      "pinyin": "wǒmen měi gè xuéqī dōu yào zhìshǎo cānjiā sāncì yìwù láodòng。",
+      "en": "We must participate in at least three compulsory labor per semester.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.25.1",
+    "hskLevel": 5,
+    "lessonCode": "5.25.1",
+    "pattern": "朝 cháo toward 我仿佛看到胜利正朝我们⾛来。 wǒ fǎngfú kàn dào shènglì zhèng cháo wǒmen zǒu lái。 I seem to see victory coming towards us. 5 5.25.1Lesson朝 cháo to face toward 我们学校的正门坐⻄",
+    "example": {
+      "hanzi": "朝东。",
+      "pinyin": "wǒmen xuéxiào de zhèngmén zuò xī cháo dōng。",
+      "en": "The main entrance of our school is situated in the west and oriented toward the east.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.25.2",
+    "hskLevel": 5,
+    "lessonCode": "5.25.2",
+    "pattern": "简直 jiǎnzhí practically, in essence 船⻓",
+    "example": {
+      "hanzi": "简直是疯了！",
+      "pinyin": "chuánzhǎng jiǎnzhí shì fēng le！",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.26.1",
+    "hskLevel": 5,
+    "lessonCode": "5.26.1",
+    "pattern": "来 lái over 他几乎每天都能钓到5⽄来重的大 ⻥。 tā jīhū měitiān dōu néng diào dào5 jīn lái zhòng de dà yú。 He can catch over 5 pounds (weight) of ﬁsh almost every day. 5 5.26.1Lesson一来(是)……二来(是) …… yīlái( shì)…… èrlái( shì)…… First… secondly…",
+    "example": {
+      "hanzi": "我到这里看看大家，一(来)是给大家 送水果，二(来)是看看大家过节还有 什么难处。",
+      "pinyin": "wǒ dào zhèlǐ kànkan dàjiā， yī( lái) shì gěi dàjiā sòng shuǐguǒ， èr( lái) shì kànkan dàjiā guòjié háiyǒu shénme nánchu。",
+      "en": "I am here to see everyone, one [reason] is to bring fruit to everyone, another [reason] is to see if anyone has any diﬃculties over the holidays.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.26.2",
+    "hskLevel": 5,
+    "lessonCode": "5.26.2",
+    "pattern": "⾄于 zhìyú go so far as 他不⾄",
+    "example": {
+      "hanzi": "于撒谎。",
+      "pinyin": "tā bùzhìyú sāhuǎng。",
+      "en": "He won’t go so far as to tell a lie.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.26.3",
+    "hskLevel": 5,
+    "lessonCode": "5.26.3",
+    "pattern": "总算 zǒngsuàn ﬁnally 经过沟通，大导演总算搞明⽩了。jīngguò gōutōng， dà dǎoyǎn zǒngsuàn gǎo míngbai le。 After communicating, the principal director has ﬁnally ﬁgured it out. 5 5.26.3Lesson总算 zǒngsuàn ﬁnally",
+    "example": {
+      "hanzi": "虽然这家宾馆不太好，但总算有个睡 觉的地方了。",
+      "pinyin": "suīrán zhè jiā bīnguǎn bùtàihǎo， dàn zǒngsuàn yǒu gè shuìjiào de dìfang le。",
+      "en": "Although this hotel is not very good, there is ﬁnally a place to sleep.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.27.2",
+    "hskLevel": 5,
+    "lessonCode": "5.27.2",
+    "pattern": "舍得 shěde willing (to to let go)",
+    "example": {
+      "hanzi": "把你最喜欢的玩具送给小朋友，你舍 得吗？",
+      "pinyin": "bǎ nǐ zuì xǐhuan de wánjù sònggěi xiǎopéngyǒu， nǐ shěde ma？",
+      "en": "Give your favorite toys to children, are you willing (to let go)?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.27.2",
+    "hskLevel": 5,
+    "lessonCode": "5.27.2",
+    "pattern": "舍不得 shěbude unwilling (to to let go)",
+    "example": {
+      "hanzi": "有些人舍不得把钱花在有意思的事情 上。",
+      "pinyin": "yǒuxiērén shěbude bǎ qián huā zài yǒuyìsi de shìqing shàng。",
+      "en": "Some people are reluctant to spend money on fun things.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.28.2",
+    "hskLevel": 5,
+    "lessonCode": "5.28.2",
+    "pattern": "假设…… jiǎshè…… suppose …",
+    "example": {
+      "hanzi": "假设你的钱用完了呢？你该怎么办 呢？",
+      "pinyin": "jiǎshè nǐ de qián yòng wánle ne？",
+      "en": "nǐ gāi zěnmebàn ne？",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.28.2",
+    "hskLevel": 5,
+    "lessonCode": "5.28.2",
+    "pattern": "假设 jiǎshè supposition",
+    "example": {
+      "hanzi": "您当年的假设已经被证明是对的。",
+      "pinyin": "nín dāngnián de jiǎshè yǐjīng bèi zhèngmíng shì duì de。",
+      "en": "Your assumptions for the year have been proven to be correct.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.28.3",
+    "hskLevel": 5,
+    "lessonCode": "5.28.3",
+    "pattern": "堆 duī a pile, a heap 工⼚",
+    "example": {
+      "hanzi": "旁边有一个建筑材料堆。",
+      "pinyin": "gōngchǎng pángbiān yǒu yī gè jiànzhù cáiliào duī。",
+      "en": "There is a pile of building materials next to the factory.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.28.3",
+    "hskLevel": 5,
+    "lessonCode": "5.28.3",
+    "pattern": "堆 duī to pile, to heap",
+    "example": {
+      "hanzi": "这些零件怎么都堆在这儿啊？",
+      "pinyin": "zhèxiē língjiàn zěnme dōu duī zài zhèr ā？",
+      "en": "How are these parts piled up here?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.29.1",
+    "hskLevel": 5,
+    "lessonCode": "5.29.1",
+    "pattern": "不如 N A bùrú N A not as A as N 三家的营业额加起来还不如他一家 ⾼。 sān jiāde yíngyè'é jiā qilai háibùrú tā yījiā gāo。 The turnover of the three companies is not as high as his family.",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.29.1",
+    "hskLevel": 5,
+    "lessonCode": "5.29.1",
+    "pattern": "(与其)……不如……( yǔqí)…… bùrú…… rather than… it’s better to 与其待在家里，不如去外边⾛⾛。yǔqí dài zài jiālǐ， bùrú qù wàibian zǒu zǒu。 Instead of staying at home, it is better to go outside. 5 5.29.2Lesson⼲脆 V gāncuì V simply, quick and dirty 许多亲朋好友建议他⼲",
+    "example": {
+      "hanzi": "脆把另三家书 店挤垮。",
+      "pinyin": "xǔduō qīnpénghǎoyǒu jiànyì tā gāncuì bǎ lìng sān jiā shūdiàn jǐkuǎ。",
+      "en": "Many relatives and friends suggested that he simply “squeeze out” the other three bookstores, [quick and dirty].",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.29.2",
+    "hskLevel": 5,
+    "lessonCode": "5.29.2",
+    "pattern": "⼲脆 gāncuì decisive 我求他帮忙，他答应得很⼲脆。 wǒ qiú tā bāngmáng， tā dāying dehěn gāncuì。 I asked him for help, and he readily agreed. 5 5.29.3Lesson万一 wànyī in the unlikely case where",
+    "example": {
+      "hanzi": "如果鸡蛋都放在一个篮子里，万一不 小心就有可能全部打碎。",
+      "pinyin": "rúguǒ jīdàn dōu fàng zài yī gè lánzi lǐ， wànyī bù xiǎoxīn jiù yǒukěnéng quánbù dǎsuì。",
+      "en": "If all [your] eggs are placed in one basket, should an accident happen they would all be crushed.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.29.3",
+    "hskLevel": 5,
+    "lessonCode": "5.29.3",
+    "pattern": "万一 wànyī unlikely case, mishap",
+    "example": {
+      "hanzi": "不怕一万，就怕万一。",
+      "pinyin": "bùpà yī wàn， jiù pà wànyī。",
+      "en": "We’re not afraid of the usual, just the unexpected mishap.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.30.1",
+    "hskLevel": 5,
+    "lessonCode": "5.30.1",
+    "pattern": "⽆意 wúyì no intention to 他⽆",
+    "example": {
+      "hanzi": "意伤害任何人。",
+      "pinyin": "tā wúyì shānghài rènhé rén。",
+      "en": "He has no intention to hurt anyone.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.30.2",
+    "hskLevel": 5,
+    "lessonCode": "5.30.2",
+    "pattern": "有利 yǒulì to be beneﬁcial适度的压⼒",
+    "example": {
+      "hanzi": "有利于我们保持良好的状 态。",
+      "pinyin": "shìdù de yālì yǒulì yú wǒmen bǎochí liánghǎo de zhuàngtài。",
+      "en": "Moderate pressure helps us stay in good shape.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.30.3",
+    "hskLevel": 5,
+    "lessonCode": "5.30.3",
+    "pattern": "的确 díquè indeed",
+    "example": {
+      "hanzi": "他的确是我所教过的学生中最聪明 的。",
+      "pinyin": "tā díquè shì wǒ suǒ jiāo guò de xuésheng zhōng zuì cōngming de。",
+      "en": "He is indeed the smartest of the students I have taught.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.31.1",
+    "hskLevel": 5,
+    "lessonCode": "5.31.1",
+    "pattern": "嗯 èn Yep A：",
+    "example": {
+      "hanzi": "吃了吗？B：嗯，吃了。",
+      "pinyin": "A： chī le ma？",
+      "en": "B： èn， chī le。",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.31.1",
+    "hskLevel": 5,
+    "lessonCode": "5.31.1",
+    "pattern": "嗯？ èn？ Huh?",
+    "example": {
+      "hanzi": "嗯？难道是我记错了？",
+      "pinyin": "èn？",
+      "en": "nándào shì wǒ jì cuò le？",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.31.1",
+    "hskLevel": 5,
+    "lessonCode": "5.31.1",
+    "pattern": "嗯！ èn！ Man…! 嗯！你怎么还没⾛啊？ èn！ nǐ zěnme hái méi zǒu ā？ (Man…) Why haven't you left yet?",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.31.2",
+    "hskLevel": 5,
+    "lessonCode": "5.31.2",
+    "pattern": "轻易地 V qīngyì dì V easily",
+    "example": {
+      "hanzi": "他学什么都可以很轻易地记住。",
+      "pinyin": "tā xué shénme dōu kěyǐ hěn qīngyì dì jìzhu。",
+      "en": "What he can learn can be easily remembered.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.31.2",
+    "hskLevel": 5,
+    "lessonCode": "5.31.2",
+    "pattern": "轻易 V qīngyì V frivolously",
+    "example": {
+      "hanzi": "他从不轻易决定，决定了就不轻易转 变。",
+      "pinyin": "tā cóngbù qīngyì juédìng， juédìng le jiù bù qīngyì zhuǎnbiàn。",
+      "en": "He never decided easily, and he decided not to change easily.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.32.1",
+    "hskLevel": 5,
+    "lessonCode": "5.32.1",
+    "pattern": "密切 mìqiè closely",
+    "example": {
+      "hanzi": "污染和我们的日常生活密切相关。",
+      "pinyin": "wūrǎn hé wǒmen de rìcháng shēnghuó mìqièxiāngguān。",
+      "en": "Pollution is closely related to our daily lives.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.32.1",
+    "hskLevel": 5,
+    "lessonCode": "5.32.1",
+    "pattern": "密切 mìqiè close (in relationship)从此，两人来往⽐",
+    "example": {
+      "hanzi": "先前密切了。",
+      "pinyin": "cóngcǐ， liǎng rén láiwǎng bǐ xiānqián mìqiè le。",
+      "en": "Since then, the two have been closer than [ever] before.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.34.2",
+    "hskLevel": 5,
+    "lessonCode": "5.34.2",
+    "pattern": "V 过 V guò V away",
+    "example": {
+      "hanzi": "他转过身，一句话也不说。",
+      "pinyin": "tā zhuàn guò shēn， yījùhuà yě bù shuō。",
+      "en": "He turned (his body) away, and didn’t say a word.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.35.1",
+    "hskLevel": 5,
+    "lessonCode": "5.35.1",
+    "pattern": "赶快 gǎnkuài quickly, urgently",
+    "example": {
+      "hanzi": "我下个月要搬家， 得赶快找房子。",
+      "pinyin": "wǒ xiàgèyuè yào bānjiā， dé gǎnkuài zhǎo fángzi。",
+      "en": "I have to move next month, I have to ﬁnd housing quickly.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.35.2",
+    "hskLevel": 5,
+    "lessonCode": "5.35.2",
+    "pattern": "⽚ piàn a piece of 天上飘着一⽚云。 tiānshàng piāo zhe yīpiàn yún。 There is a cloud in the sky.",
+    "example": {
+      "hanzi": "",
+      "pinyin": "",
+      "en": "",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.35.2",
+    "hskLevel": 5,
+    "lessonCode": "5.35.2",
+    "pattern": "⽚ piàn a wave of 同学们听了，发出一⽚",
+    "example": {
+      "hanzi": "热烈的欢呼 声。",
+      "pinyin": "tóngxué men tīng le， fāchū yīpiàn rèliè de huānhū shēng。",
+      "en": "The students listened and gave a (wave of) warm cheer.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.35.3",
+    "hskLevel": 5,
+    "lessonCode": "5.35.3",
+    "pattern": "根本 + negativegēnběn + negative at all 我发现⾃⼰",
+    "example": {
+      "hanzi": "根本读不懂考试题。",
+      "pinyin": "wǒ fāxiàn zìjǐ gēnběn dú bù dǒng kǎoshì tí。",
+      "en": "I found myself unable to read the exam questions at all.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.35.3",
+    "hskLevel": 5,
+    "lessonCode": "5.35.3",
+    "pattern": "根本 gēnběn root cause, fundamental",
+    "example": {
+      "hanzi": "教育是国家的根本。",
+      "pinyin": "jiàoyù shì guójiā de gēnběn。",
+      "en": "Education is the foundation of the country.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.35.3",
+    "hskLevel": 5,
+    "lessonCode": "5.35.3",
+    "pattern": "根本 肯定 gēnběn kěndìng completely",
+    "example": {
+      "hanzi": "事情已经根本解决了。",
+      "pinyin": "shìqing yǐjīng gēnběn jiějué le。",
+      "en": "Things have been completely (lit.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.35.3",
+    "hskLevel": 5,
+    "lessonCode": "5.35.3",
+    "pattern": "根本(就)是 gēnběn( jiù) shì simply",
+    "example": {
+      "hanzi": "他根本就是在故意找我们的麻烦。",
+      "pinyin": "tā gēnběn jiùshì zài gùyì zhǎo wǒmen de máfan。",
+      "en": "He is simply trying to make trouble for us.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.36.1",
+    "hskLevel": 5,
+    "lessonCode": "5.36.1",
+    "pattern": "(除⾮)……才……( chúfēi)…… cái…… unless (除⾮)",
+    "example": {
+      "hanzi": "你答应我的条件，我才告诉 你。",
+      "pinyin": "( chúfēi) nǐ dāying wǒ de tiáojiàn， wǒ cái gàosu nǐ。",
+      "en": "(Unless) you promise me, I won’t tell you.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.36.1",
+    "hskLevel": 5,
+    "lessonCode": "5.36.1",
+    "pattern": "除⾮ chúfēi except 这种机器，除⾮",
+    "example": {
+      "hanzi": "李阳，没人修得好。",
+      "pinyin": "zhèzhǒng jīqì， chúfēi lǐ yáng， méi rén xiū dé hǎo。",
+      "en": "This kind of machine, except Li Yang, no one can ﬁx.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-5-5.36.3",
+    "hskLevel": 5,
+    "lessonCode": "5.36.3",
+    "pattern": "反正 fǎnzhèng anyway",
+    "example": {
+      "hanzi": "不管你们谁去，反正我不会去。",
+      "pinyin": "bùguǎn nǐmen shéi qù， fǎnzhèng wǒ bùhuì qù。",
+      "en": "I don’t care if any of you go.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-6-6.01.2",
+    "hskLevel": 6,
+    "lessonCode": "6.01.2",
+    "pattern": "别提多……了 bié tíduō…… le indescribably",
+    "example": {
+      "hanzi": "这个人办事，别提多负责了。",
+      "pinyin": "zhège rén bànshì， bié tíduō fùzé le。",
+      "en": "This person does things, don't mention more responsibility.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-6-6.01.3",
+    "hskLevel": 6,
+    "lessonCode": "6.01.3",
+    "pattern": "具有语体差别的同义 词 jùyǒu yǔ tǐ chà biéde tóngyìcí synonyms that diﬀer by style 他便/就回答说/道：“将/",
+    "example": {
+      "hanzi": "把这只戒指 拿去吧。",
+      "pinyin": "” tā biàn/ jiù huídá shuō/ dào：“ jiāng/ bǎ zhè zhǐ jièzhi ná qù ba。",
+      "en": "” Then he just said, “Take this ring.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-6-6.03.1",
+    "hskLevel": 6,
+    "lessonCode": "6.03.1",
+    "pattern": "翻 (#) 番 fān (#) fān multiply # times和五年前⽐，",
+    "example": {
+      "hanzi": "多数人的工资已经翻番 了。",
+      "pinyin": "hé wǔ niánqián bǐ， duōshù rén de gōngzī yǐjīng fānfān le。",
+      "en": "Compared to ﬁve years ago, most people’s wages have doubled.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-6-6.03.2",
+    "hskLevel": 6,
+    "lessonCode": "6.03.2",
+    "pattern": "过于 guòyú too",
+    "example": {
+      "hanzi": "他出来得过于匆忙，居然忘了带手 机。",
+      "pinyin": "tā chūlái dé guòyú cōngmáng， jūrán wàng le dài shǒujī。",
+      "en": "He came out too hurriedly and forgot to bring his mobile phone.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-6-6.03.3",
+    "hskLevel": 6,
+    "lessonCode": "6.03.3",
+    "pattern": "着呢 zhene state + emphasis",
+    "example": {
+      "hanzi": "这儿坐吧，这个位空着呢。",
+      "pinyin": "zhèr zuò ba， zhège wèi kōng zhene。",
+      "en": "Sit here, this seat is vacant (which you perhaps didn’t know).",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-6-6.06.1",
+    "hskLevel": 6,
+    "lessonCode": "6.06.1",
+    "pattern": "唯独 wéidú only",
+    "example": {
+      "hanzi": "那次旅行大家都去了，唯独你没有去 成。",
+      "pinyin": "nà cì lǚxíng dàjiā dōu qù le， wéidú nǐ méiyǒu qù chéng。",
+      "en": "Everyone went on that trip, only you didn't go.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-6-6.06.3",
+    "hskLevel": 6,
+    "lessonCode": "6.06.3",
+    "pattern": "大不了的 dàbùliǎo de big deal",
+    "example": {
+      "hanzi": "接个吻有什么大不了的？",
+      "pinyin": "jiē gè wěn yǒu shénme dàbùliǎo de？",
+      "en": "What's the big deal with a kiss?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-6-6.07.1",
+    "hskLevel": 6,
+    "lessonCode": "6.07.1",
+    "pattern": "A 于 V A yú V A to V",
+    "example": {
+      "hanzi": "做决定，需要勇于承担责任。",
+      "pinyin": "zuò juédìng， xūyào yǒngyú chéngdān zérèn。",
+      "en": "To make a decision, you need to be courageous to take responsibility.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-6-6.07.2",
+    "hskLevel": 6,
+    "lessonCode": "6.07.2",
+    "pattern": "致使 zhìshǐ to cause",
+    "example": {
+      "hanzi": "他的粗心致使试验失败。",
+      "pinyin": "tā de cūxīn zhìshǐ shìyàn shībài。",
+      "en": "His carelessness caused the test to fail.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-6-6.07.3",
+    "hskLevel": 6,
+    "lessonCode": "6.07.3",
+    "pattern": "并⾮ bìngfēi not (with emphasis, see “并”4.04.3) 类似小王这样的年轻人并⾮",
+    "example": {
+      "hanzi": "少数。",
+      "pinyin": "lèisì xiǎo wáng zhèyàng de niánqīngrén bìngfēi shǎoshù。",
+      "en": "Young people like Xiao Wang are not a minority.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-6-6.08.2",
+    "hskLevel": 6,
+    "lessonCode": "6.08.2",
+    "pattern": "有关 N yǒuguān N about N",
+    "example": {
+      "hanzi": "他查阅了大量有关服饰问题的资料。",
+      "pinyin": "tā cháyuè le dàliàng yǒuguān fúshì wèntí de zīliào。",
+      "en": "He consulted a lot of information about clothing issues.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-6-6.08.3",
+    "hskLevel": 6,
+    "lessonCode": "6.08.3",
+    "pattern": "不瞒你说 bù mán nǐ shuō actually",
+    "example": {
+      "hanzi": "不瞒你说，对这个问题，我是这样想 的。",
+      "pinyin": "bù mán nǐ shuō， duì zhège wèntí， wǒ shì zhèyàng xiǎng de。",
+      "en": "To tell you the truth, regarding this question, this is what I think.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-6-6.08.3",
+    "hskLevel": 6,
+    "lessonCode": "6.08.3",
+    "pattern": "说真的/说实在的 shuō zhēn de/ shuō shízài de indeed, truthfully",
+    "example": {
+      "hanzi": "说真的，这次真是孩子给我上了一 课。",
+      "pinyin": "shuō zhēn de， zhè cì zhēnshi háizi gěi wǒ shàng le yī kè。",
+      "en": "Seriously, this time the child really gave me a lesson.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-6-6.09.1",
+    "hskLevel": 6,
+    "lessonCode": "6.09.1",
+    "pattern": "通红、雪⽩ tōnghóng、 xuěbái very red, very white",
+    "example": {
+      "hanzi": "我脸憋得通红。",
+      "pinyin": "wǒ liǎn biē dé tōnghóng。",
+      "en": "My face is red from suﬀocation.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-6-6.09.2",
+    "hskLevel": 6,
+    "lessonCode": "6.09.2",
+    "pattern": "说 V/A 就 V/A shuō V/A jiù V/A V without thinking, be A without thinking 挺好的工作，怎么说不⼲就不⼲了？tǐnghǎo de gōngzuò， zěnme shuō bù gàn jiù bù gàn le？ Very good job, how come you quit just like that (without thinking)? 6 6.09.3LessonV/A 得要命 V/A dé yàomìng V so much one could die, so A one could die",
+    "example": {
+      "hanzi": "五个小时没碰手机，我空虚得要命。",
+      "pinyin": "wǔ gè xiǎoshí méi pèng shǒujī， wǒ kōngxū dé yàomìng。",
+      "en": "I didn't touch my cell phone for ﬁve hours, and I feel so empty [from not having anythnig to do] I could die.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-6-6.10.3",
+    "hskLevel": 6,
+    "lessonCode": "6.10.3",
+    "pattern": "所在 suǒzài place 他选择了⻛景秀美、⽓",
+    "example": {
+      "hanzi": "候宜人的所 在。",
+      "pinyin": "tā xuǎnzé le fēngjǐng xiùměi、 qìhòu yírén de suǒzài。",
+      "en": "He chose a place with beautiful scenery and a pleasant climate.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-6-6.11.1",
+    "hskLevel": 6,
+    "lessonCode": "6.11.1",
+    "pattern": "统统 tǒngtǒng all 影院、酒吧，统统与他⽆缘。 yǐngyuàn、 jiǔbā， tǒngtǒng yǔ tā wúyuán。 Theaters and bars (all) have nothing to do with him. 6 6.11.2Lesson以 A 为 B yǐ A wéi B regard A as B ⾼",
+    "example": {
+      "hanzi": "级阶段的汉语学习应以阅读吸收为 主，语法学习为辅。",
+      "pinyin": "gāojí jiēduàn de Hànyǔ xuéxí yīng yǐ yuèdú xīshōu wéizhǔ， yǔfǎ xuéxí wéi fǔ。",
+      "en": "At the advanced stage of Chinese learning, [we] should consider reading and input should as the primary, [and] consider grammar learning as secondary.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-6-6.12.2",
+    "hskLevel": 6,
+    "lessonCode": "6.12.2",
+    "pattern": "务必 wùbì must ⻜机起⻜",
+    "example": {
+      "hanzi": "前务必系好安全带。",
+      "pinyin": "fēijī qǐfēi qián wùbì xì hǎo ānquándài。",
+      "en": "you must fasten your seatbelt before the plane takes oﬀ.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-6-6.14.2",
+    "hskLevel": 6,
+    "lessonCode": "6.14.2",
+    "pattern": "难以 V nányǐ V hard to",
+    "example": {
+      "hanzi": "他能否成功尚难以预料。",
+      "pinyin": "tā néngfǒu chénggōng shàng nányǐ yùliào。",
+      "en": "It’s still hard to predict whether he will be successful.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-6-6.15.2",
+    "hskLevel": 6,
+    "lessonCode": "6.15.2",
+    "pattern": "不禁 V bùjīn V can’t help but to V",
+    "example": {
+      "hanzi": "听到这个消息，大家不禁兴奋起来。",
+      "pinyin": "tīngdào zhège xiāoxi， dàjiā bùjīn xīngfèn qilai。",
+      "en": "When you heard the news, everyone couldn't help but get excited.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-6-6.18.1",
+    "hskLevel": 6,
+    "lessonCode": "6.18.1",
+    "pattern": "随即 suíjí as soon as",
+    "example": {
+      "hanzi": "耶稣受了洗，随即从水里上来。",
+      "pinyin": "Yēsū shòu le xǐ， suíjí cóng Shuǐlǐ shànglái。",
+      "en": "As soon as Jesus was baptized, he went up out of the water.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-6-6.20.2",
+    "hskLevel": 6,
+    "lessonCode": "6.20.2",
+    "pattern": "大 TIME dà TIME (emphasize on TIME)那辆汽车大⽩天被人偷⾛了。 nà liàng qìchē dàbáitiān bèi rén tōu zǒu le。 The car was stolen in broad daylight. 6 6.20.3Lesson(与其) V 倒不如 V ( yǔqí) V dǎo bùrú V rather than V, it’s better to V (",
+    "example": {
+      "hanzi": "与其)说这是一本像册，倒不如说这 是他大半生的历史。",
+      "pinyin": "( yǔqí) shuō zhè shì yī běn xiàng cè， dǎo bùrú shuō zhè shì tā dàbàn shēng de lìshǐ。",
+      "en": "This is not so much a photo album as the history of most of his life.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-6-6.22.1",
+    "hskLevel": 6,
+    "lessonCode": "6.22.1",
+    "pattern": "动不动就 V dòngbudòng jiù V on a whim 他最近工作忙、压⼒大，动不动就着 急、发脾⽓。 tā zuìjìn gōngzuò máng、 yālì dà， dòngbudòng jiù zháojí、 fāpíqì。 He's been busy and stressed recently. He gets angry on a whim. 6 6.22.2Lesson甲⼄丙丁 jiǎyǐ bǐng dīng A, B, C, D (series)甲、⼄、",
+    "example": {
+      "hanzi": "丙、丁是一个序列，相当于 英文的A、B、C、D。",
+      "pinyin": "jiǎ、 yǐ、 bǐng、 dīng shì yī gè xùliè， xiāngdāngyú Yīngwén deA、 B、C、D。",
+      "en": "A, B, C and D are sequences equivalent to A, B, C and D in English.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-6-6.23.2",
+    "hskLevel": 6,
+    "lessonCode": "6.23.2",
+    "pattern": "大大/远远 V dàdà/ yuǎnyuǎn V V by far 你的能⼒大大/",
+    "example": {
+      "hanzi": "远远超出了我们的想 象。",
+      "pinyin": "nǐ de nénglì dàdà/ yuǎnyuǎn chāochū le wǒmen de xiǎngxiàng。",
+      "en": "Your abilities exceeded our imagination by far.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-6-6.24.1",
+    "hskLevel": 6,
+    "lessonCode": "6.24.1",
+    "pattern": "紧缩句 jǐnsuō jù (omitting “if” words)",
+    "example": {
+      "hanzi": "站住！(要是) 不站住，我就开枪了。",
+      "pinyin": "zhànzhù！",
+      "en": "( yàoshi) bù zhànzhù， wǒ jiù kāiqiāng le。",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-6-6.28.1",
+    "hskLevel": 6,
+    "lessonCode": "6.28.1",
+    "pattern": "一个 N yī gè N with a…",
+    "example": {
+      "hanzi": "他手没抓住栏杆，一个跟头栽了下 来。",
+      "pinyin": "tā shǒu méi zhuāzhù lángān， yī gè gēntou zāi le xiàlai。",
+      "en": "He missed the railing and fell with a ﬂip.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-6-6.28.2",
+    "hskLevel": 6,
+    "lessonCode": "6.28.2",
+    "pattern": "向来 V/A xiànglái V/A always have (been) V/A",
+    "example": {
+      "hanzi": "他们向来忠厚、老实，为人诚恳。",
+      "pinyin": "tāmen xiànglái zhōnghòu、 lǎoshi， wéirén chéngkěn。",
+      "en": "They have always been loyal, honest and sincere.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-6-6.30.2",
+    "hskLevel": 6,
+    "lessonCode": "6.30.2",
+    "pattern": "多多少少 duōduōshǎoshǎo more or less",
+    "example": {
+      "hanzi": "他的话多多少少有些真实。",
+      "pinyin": "tā dehuà duōduōshǎoshǎo yǒuxiē zhēnshí。",
+      "en": "What he said was more or less truthful.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-6-6.34.2",
+    "hskLevel": 6,
+    "lessonCode": "6.34.2",
+    "pattern": "当年、当时、当代dāngnián、 dāngshí、 dāngdài at that time",
+    "example": {
+      "hanzi": "他已不是当年的他了。",
+      "pinyin": "tā yǐ bùshì dāngnián de tā le。",
+      "en": "He is not the same man as he used to be (back in those days).",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-6-6.38.2",
+    "hskLevel": 6,
+    "lessonCode": "6.38.2",
+    "pattern": "依据 yījù basis",
+    "example": {
+      "hanzi": "你们这样做有法律依据吗?",
+      "pinyin": "nǐmen zhèyàng zuò yǒu fǎlǜ yījù ma?",
+      "en": "Do you have any legal basis for doing so?",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-6-6.40.1",
+    "hskLevel": 6,
+    "lessonCode": "6.40.1",
+    "pattern": "(把)……放在眼里 ( bǎ)…… fàngzàiyǎnlǐ take … seriously",
+    "example": {
+      "hanzi": "这点困难她根本不放在眼里。",
+      "pinyin": "zhè diǎn kùnnan tā gēnběn bù fàngzàiyǎnlǐ。",
+      "en": "[As for] this (little bit of) diﬃculty, she didn't take it seriously at all.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  },
+  {
+    "id": "hsk-6-6.40.2",
+    "hskLevel": 6,
+    "lessonCode": "6.40.2",
+    "pattern": "不⽆ bùwú not without 她说工资低，这也不⽆",
+    "example": {
+      "hanzi": "道理。",
+      "pinyin": "tā shuō gōngzī dī， zhè yě bùwú dàoli。",
+      "en": "She says that her salary is low.",
+      "ar": ""
+    },
+    "source": "HSK 1-6 Grammar.pdf"
+  }
+]

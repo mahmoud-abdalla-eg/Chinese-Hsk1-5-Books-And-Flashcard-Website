@@ -18,8 +18,8 @@ export default async function LevelFlashcardsPage({ params }) {
           HSK {level} flashcards
         </h1>
         <p className="mt-4 max-w-3xl text-lg font-semibold leading-8 text-slate-600 dark:text-slate-300">
-          {words.length} local-source cards with Mandarin, pinyin, English,
-          Arabic status, audio status, and spaced repetition controls.
+          Practice {words.length} words with Mandarin, pinyin, English, example
+          sentences, and simple review controls.
         </p>
       </Surface>
       <Card className="p-4 sm:p-6">

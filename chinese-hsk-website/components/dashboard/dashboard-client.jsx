@@ -24,7 +24,7 @@ export default function DashboardClient({ summaries }) {
       <Surface className="grid gap-8 p-7 lg:grid-cols-[1fr_360px] lg:items-center lg:p-10">
         <div>
           <Pill>Local progress</Pill>
-          <h1 className="mt-5 text-5xl font-black tracking-[-0.05em] text-slate-950 dark:text-white sm:text-7xl">
+          <h1 className="mt-5 text-5xl font-black tracking-tight text-slate-950 dark:text-white sm:text-7xl">
             Your Mandarin cockpit.
           </h1>
           <p className="mt-4 max-w-3xl text-lg font-semibold leading-8 text-slate-600 dark:text-slate-300">
@@ -33,7 +33,7 @@ export default function DashboardClient({ summaries }) {
             activity in localStorage first.
           </p>
         </div>
-        <Card className="bg-slate-950 text-white dark:bg-white dark:text-slate-950">
+        <Card className="bg-slate-950 text-white dark:bg-slate-900 dark:text-white">
           <div className="text-6xl font-black">{percent}%</div>
           <p className="mt-1 font-bold opacity-75">overall course progress</p>
           <div className="mt-5">

@@ -20,8 +20,8 @@ export default async function LevelConversationsPage({ params }) {
           HSK {level} conversations
         </h1>
         <p className="mt-4 max-w-3xl text-lg font-semibold leading-8 text-slate-600 dark:text-slate-300">
-          {conversations.length} unit conversation scaffolds are ready for
-          authoring, coverage checks, translations, grammar notes, and audio.
+          Practice {conversations.length} unit lessons with target vocabulary,
+          simple dialogue, and listening support as content becomes available.
         </p>
       </Surface>
       <div className="grid gap-6">

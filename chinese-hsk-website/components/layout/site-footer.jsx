@@ -7,9 +7,8 @@ export default function SiteFooter() {
         <div>
           <div className="text-3xl font-black">Mandarin Flow HSK</div>
           <p className="mt-4 max-w-md text-sm font-semibold leading-7 text-amber-100/70">
-            A conversation-based HSK 3.0 learning system built around local
-            source data, transparent validation, and study modes that can grow
-            into production audio and pronunciation assessment.
+            A conversation-based HSK 3.0 learning space for vocabulary, grammar,
+            flashcards, listening, pronunciation, and steady daily progress.
           </p>
         </div>
         <div>
@@ -20,15 +19,15 @@ export default function SiteFooter() {
             <Link href="/hsk/1">HSK 1</Link>
             <Link href="/flashcards">Flashcards</Link>
             <Link href="/conversations">Conversations</Link>
+            <Link href="/grammar">Grammar</Link>
           </div>
         </div>
         <div>
           <h3 className="font-black uppercase tracking-[0.18em] text-amber-300">
-            System
+            Progress
           </h3>
           <div className="mt-4 grid gap-3 text-sm font-bold text-amber-100/75">
             <Link href="/dashboard">Dashboard</Link>
-            <Link href="/admin/data-check">Data check</Link>
             <span>Local-first progress</span>
           </div>
         </div>

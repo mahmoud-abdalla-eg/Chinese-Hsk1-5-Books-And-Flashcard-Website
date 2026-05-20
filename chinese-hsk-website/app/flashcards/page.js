@@ -19,12 +19,11 @@ export default function FlashcardsPage() {
             Easy review choices.
           </p>
         </div>
-        <Card className="bg-slate-950 text-white dark:bg-white dark:text-slate-950">
+        <Card className="bg-slate-950 text-white dark:bg-slate-900/80 dark:text-white">
           <div className="text-6xl font-black">5</div>
           <p className="mt-1 font-bold opacity-75">HSK decks</p>
           <p className="mt-4 text-sm opacity-70">
-            All cards are generated from local JSON vocabulary, never hardcoded
-            in React components.
+            Pick a level and review words in quick, focused sessions.
           </p>
         </Card>
       </Surface>
@@ -32,7 +31,7 @@ export default function FlashcardsPage() {
         <SectionHeading
           eyebrow="Pick a deck"
           title="Study by level"
-          text="Each deck mirrors the vocabulary source data and can be expanded with audio, examples, favorites, and review history."
+          text="Choose a deck, test yourself, and save difficult words for another round."
         />
         <div className="grid gap-5 md:grid-cols-2 xl:grid-cols-5">
           {summaries.map((summary) => {
@@ -52,7 +51,7 @@ export default function FlashcardsPage() {
                 <span className="mt-3 block text-sm font-bold text-slate-500">
                   {summary.wordCount} cards
                 </span>
-                <span className="mt-8 inline-flex rounded-full bg-slate-950 px-4 py-2 text-sm font-black text-white dark:bg-white dark:text-slate-950">
+                <span className="mt-8 inline-flex rounded-full bg-slate-950 px-4 py-2 text-sm font-black text-white dark:bg-slate-900/80 dark:text-white">
                   Open deck
                 </span>
               </Link>

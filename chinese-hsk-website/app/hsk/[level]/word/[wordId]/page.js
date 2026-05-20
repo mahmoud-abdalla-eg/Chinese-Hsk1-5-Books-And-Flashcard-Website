@@ -6,6 +6,7 @@ export default async function WordPage({ params }) {
   const { level, wordId } = await params;
   const word = getWord(level, wordId);
   if (!word) return <Card>Word not found.</Card>;
+  const examples = word.examples?.length ? word.examples : [word.example];
   return (
     <div className="grid gap-8 pb-8 lg:grid-cols-[0.88fr_1.12fr]">
       <Surface className="relative overflow-hidden text-center lg:sticky lg:top-28 lg:self-start">
@@ -28,7 +29,7 @@ export default async function WordPage({ params }) {
             className="mt-2 text-xl font-bold text-slate-500 dark:text-slate-400"
             dir="rtl"
           >
-            {word.meaning.ar || "Arabic translation pending"}
+            {word.meaning.ar || "Arabic coming soon"}
           </p>
           <div className="mt-6 flex flex-wrap justify-center gap-2">
             {word.tags.length
@@ -41,7 +42,7 @@ export default async function WordPage({ params }) {
                   </span>
                 ))
               : <span className="rounded-full bg-slate-950/[0.06] px-3 py-1 text-xs font-black uppercase tracking-[0.14em] text-slate-600 dark:bg-white/[0.08] dark:text-slate-300">
-                  tag pending
+                  core word
                 </span>}
           </div>
         </div>
@@ -50,30 +51,44 @@ export default async function WordPage({ params }) {
         <Card>
           <Pill tone="slate">{word.partOfSpeech}</Pill>
           <h2 className="mt-4 text-3xl font-black text-slate-950 dark:text-white">
-            Example sentence
+            Example sentences
           </h2>
-          <p className="mt-3 text-3xl font-black text-slate-950 dark:text-white">
-            {word.example.hanzi || "Example sentence pending review"}
-          </p>
-          <p className="mt-2 text-amber-700 dark:text-amber-300">
-            {word.example.pinyin || "Pinyin pending"}
-          </p>
-          <p className="mt-2 text-slate-600 dark:text-slate-300">
-            {word.example.en || "English translation pending"}
-          </p>
-          <p className="mt-2 text-slate-500 dark:text-slate-400" dir="rtl">
-            {word.example.ar || "Arabic translation pending"}
-          </p>
+          <div className="mt-4 space-y-4">
+            {examples.map((example, index) => (
+              <div
+                key={`${example.hanzi || "example"}-${index}`}
+                className="rounded-[1.5rem] border border-slate-950/10 bg-slate-950/[0.04] p-4 dark:border-white/10 dark:bg-white/[0.04]"
+              >
+                <p className="text-xs font-black uppercase tracking-[0.16em] text-slate-400">
+                  Example {index + 1}
+                </p>
+                <p className="mt-2 text-3xl font-black text-slate-950 dark:text-white">
+                  {example.hanzi || "Practice sentence coming soon"}
+                </p>
+                <p className="mt-2 text-amber-700 dark:text-amber-300">
+                  {example.pinyin || "Pinyin coming soon"}
+                </p>
+                <p className="mt-2 text-slate-600 dark:text-slate-300">
+                  {example.en || "English coming soon"}
+                </p>
+                <p
+                  className="mt-2 text-slate-500 dark:text-slate-400"
+                  dir="rtl"
+                >
+                  {example.ar || "Arabic coming soon"}
+                </p>
+              </div>
+            ))}
+          </div>
         </Card>
         <Card>
           <h2 className="text-3xl font-black text-slate-950 dark:text-white">
             Listen, record, and save
           </h2>
           <p className="mt-2 text-sm font-semibold leading-7 text-slate-600 dark:text-slate-300">
-            Native audio buttons become active when real files exist. The
-            recorder stores a local playback clip and uses browser speech
-            recognition for an estimated Mandarin score when Azure keys are not
-            configured.
+            Listen when audio is available, then record yourself and compare
+            your pronunciation. Save words as learned or add them to favorites
+            for quick review.
           </p>
           <div className="mt-5">
             <WordStudyPanel word={word} />

@@ -13,12 +13,13 @@ export const dictionary = {
   home: { en: "Home", zh: "首页", ar: "الرئيسية" },
   flashcards: { en: "Flashcards", zh: "抽认卡", ar: "البطاقات" },
   conversations: { en: "Conversations", zh: "会话", ar: "المحادثات" },
+  grammar: { en: "Grammar", zh: "语法", ar: "القواعد" },
   dashboard: { en: "Dashboard", zh: "学习面板", ar: "لوحة التقدم" },
   startLearning: { en: "Start learning", zh: "开始学习", ar: "ابدأ التعلم" },
   dataWarning: {
-    en: "Data warnings are visible because missing translations or audio are not invented.",
-    zh: "数据警告可见，因为不会编造缺失的翻译或音频。",
-    ar: "تظهر تنبيهات البيانات لأن الترجمات أو الصوت المفقود لا يتم اختلاقه.",
+    en: "Some lessons are still growing. New translations, examples, and audio will appear as they are added.",
+    zh: "部分课程还在完善中。新的翻译、例句和音频会逐步加入。",
+    ar: "بعض الدروس ما زالت تتطور. ستظهر الترجمات والأمثلة والصوت عند إضافتها.",
   },
 };
 

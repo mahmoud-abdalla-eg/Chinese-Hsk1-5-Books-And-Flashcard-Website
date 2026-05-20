@@ -9,14 +9,12 @@ import {
 } from "@/components/ui/card";
 import { levelThemes, studyModes } from "@/lib/data/design";
 import { getHskWords, getUnitsForLevel } from "@/lib/data/hsk";
-import { validateLevel } from "@/lib/validation/hsk-validation";
 
 export default async function HskLevelPage({ params }) {
   const { level } = await params;
   const numericLevel = Number(level);
   const words = getHskWords(level);
   const units = getUnitsForLevel(level);
-  const validation = validateLevel(numericLevel);
   const theme = levelThemes[numericLevel];
   const firstWords = words.slice(0, 9);
   return (
@@ -34,8 +32,8 @@ export default async function HskLevelPage({ params }) {
             </h1>
             <p className="mt-4 max-w-3xl text-lg font-semibold leading-8 text-slate-600 dark:text-slate-300">
               {theme.tone} This level is divided into focused units with
-              vocabulary pages, flashcards, conversation scaffolds, listening,
-              shadowing, and local progress tracking.
+              vocabulary pages, flashcards, conversation practice, listening,
+              grammar, and local progress tracking.
             </p>
             <div className="mt-6 flex flex-wrap gap-3">
               <Link
@@ -52,11 +50,9 @@ export default async function HskLevelPage({ params }) {
               </Link>
             </div>
           </div>
-          <Card className="bg-slate-950 text-white dark:bg-white dark:text-slate-950">
+          <Card className="bg-slate-950 text-white dark:bg-slate-900/80 dark:text-white">
             <div className="text-6xl font-black">{words.length}</div>
-            <p className="mt-1 font-bold opacity-75">
-              words loaded from source data
-            </p>
+            <p className="mt-1 font-bold opacity-75">words to learn</p>
             <div className="mt-6 grid grid-cols-2 gap-3 text-sm">
               <div className="rounded-2xl bg-white/10 p-3 dark:bg-slate-950/10">
                 <strong className="block text-2xl">{units.length}</strong>
@@ -64,9 +60,9 @@ export default async function HskLevelPage({ params }) {
               </div>
               <div className="rounded-2xl bg-white/10 p-3 dark:bg-slate-950/10">
                 <strong className="block text-2xl">
-                  {validation.missingFields.length}
+                  {Math.min(3, units.length)}
                 </strong>
-                data warnings
+                ways to practice
               </div>
             </div>
             <div className="mt-5">
@@ -87,7 +83,7 @@ export default async function HskLevelPage({ params }) {
                 <Link
                   key={unit.id}
                   href={`/hsk/${level}/unit/${unit.id}`}
-                  className="flex items-center justify-between rounded-2xl bg-slate-950/[0.04] px-4 py-3 text-sm font-black text-slate-700 transition hover:bg-slate-950 hover:text-white dark:bg-white/[0.06] dark:text-slate-200 dark:hover:bg-white dark:hover:text-slate-950"
+                  className="flex items-center justify-between rounded-2xl bg-slate-950/[0.04] px-4 py-3 text-sm font-black text-slate-700 transition hover:bg-slate-950 hover:text-white dark:bg-white/[0.06] dark:text-slate-200 dark:hover:bg-amber-200 dark:hover:text-slate-950"
                 >
                   <span>Unit {unit.id}</span>
                   <span>
@@ -133,10 +129,10 @@ export default async function HskLevelPage({ params }) {
                 </h2>
               </div>
               <Link
-                href="/admin/data-check"
+                href={`/flashcards/hsk/${level}`}
                 className="text-sm font-black text-amber-700 dark:text-amber-300"
               >
-                Check data status
+                Practice these words
               </Link>
             </div>
             <div className="mt-5 grid gap-3 sm:grid-cols-3">
@@ -144,7 +140,7 @@ export default async function HskLevelPage({ params }) {
                 <Link
                   key={word.id}
                   href={`/hsk/${level}/word/${word.id}`}
-                  className="rounded-2xl bg-slate-950/[0.04] p-4 transition hover:bg-slate-950 hover:text-white dark:bg-white/[0.06] dark:hover:bg-white dark:hover:text-slate-950"
+                  className="rounded-2xl bg-slate-950/[0.04] p-4 transition hover:bg-slate-950 hover:text-white dark:bg-white/[0.06] dark:hover:bg-amber-200 dark:hover:text-slate-950"
                 >
                   <span className="hanzi-display block text-3xl font-black">
                     {word.hanzi}

@@ -21,21 +21,21 @@ export default function UnitCard({ unit }) {
             Words {unit.start}-{unit.end}
           </h3>
           <p className="mt-2 text-sm font-semibold leading-6 text-slate-600 dark:text-slate-300">
-            Vocabulary list, flashcards, conversation scaffold, listening,
-            shadowing, and progress tracking in one focused study room.
+            Study the words, review flashcards, practice conversation,
+            listening, shadowing, and track your progress in one focused room.
           </p>
         </div>
         <ProgressBar value={0} />
         <div className="flex flex-wrap gap-3">
           <Link
             href={`/hsk/${unit.level}/unit/${unit.id}`}
-            className="rounded-full bg-slate-950 px-4 py-2 text-sm font-black text-white dark:bg-white dark:text-slate-950"
+            className="rounded-full bg-amber-200 px-4 py-2 text-sm font-black text-slate-950"
           >
             Open unit
           </Link>
           <Link
             href={`/flashcards/hsk/${unit.level}?unit=${unit.id}`}
-            className="rounded-full border border-slate-200 bg-white/60 px-4 py-2 text-sm font-black text-slate-800 dark:border-slate-700 dark:bg-white/5 dark:text-slate-100"
+            className="rounded-full border border-slate-200 bg-white px-4 py-2 text-sm font-black text-slate-800"
           >
             Flashcards
           </Link>

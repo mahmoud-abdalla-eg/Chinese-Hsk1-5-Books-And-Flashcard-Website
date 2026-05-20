@@ -1,7 +1,7 @@
 export function Card({ className = "", children }) {
   return (
     <section
-      className={`rounded-[2rem] border border-white/70 bg-white/78 p-6 shadow-[0_24px_80px_rgba(43,35,22,0.08)] backdrop-blur-xl dark:border-white/10 dark:bg-slate-900/72 dark:shadow-black/30 ${className}`}
+      className={`rounded-2xl border border-slate-200 bg-white p-6 shadow-sm ${className}`}
     >
       {children}
     </section>
@@ -11,7 +11,7 @@ export function Card({ className = "", children }) {
 export function Surface({ className = "", children }) {
   return (
     <div
-      className={`rounded-[2.5rem] border border-slate-950/10 bg-[#fffaf1]/80 p-6 shadow-[0_30px_120px_rgba(67,48,25,0.12)] backdrop-blur dark:border-white/10 dark:bg-slate-950/60 ${className}`}
+      className={`rounded-3xl border border-slate-200 bg-white p-6 shadow-sm ${className}`}
     >
       {children}
     </div>
@@ -21,11 +21,11 @@ export function Surface({ className = "", children }) {
 export function Pill({ children, tone = "amber" }) {
   const tones = {
     amber:
-      "bg-amber-100 text-amber-900 ring-amber-200 dark:bg-amber-300/15 dark:text-amber-200 dark:ring-amber-300/20",
-    blue: "bg-sky-100 text-sky-900 ring-sky-200 dark:bg-sky-300/15 dark:text-sky-200 dark:ring-sky-300/20",
+      "bg-amber-100 text-amber-950 ring-amber-200 dark:bg-amber-300/15 dark:text-amber-200 dark:ring-amber-300/20",
+    blue: "bg-sky-100 text-sky-950 ring-sky-200 dark:bg-sky-300/15 dark:text-sky-200 dark:ring-sky-300/20",
     green:
-      "bg-emerald-100 text-emerald-900 ring-emerald-200 dark:bg-emerald-300/15 dark:text-emerald-200 dark:ring-emerald-300/20",
-    rose: "bg-rose-100 text-rose-900 ring-rose-200 dark:bg-rose-300/15 dark:text-rose-200 dark:ring-rose-300/20",
+      "bg-emerald-100 text-emerald-950 ring-emerald-200 dark:bg-emerald-300/15 dark:text-emerald-200 dark:ring-emerald-300/20",
+    rose: "bg-rose-100 text-rose-950 ring-rose-200 dark:bg-rose-300/15 dark:text-rose-200 dark:ring-rose-300/20",
     slate:
       "bg-slate-100 text-slate-700 ring-slate-200 dark:bg-slate-800 dark:text-slate-200 dark:ring-slate-700",
   };
@@ -41,9 +41,9 @@ export function Pill({ children, tone = "amber" }) {
 export function ProgressBar({ value = 0 }) {
   const safe = Math.max(0, Math.min(100, Number(value) || 0));
   return (
-    <div className="h-3 overflow-hidden rounded-full bg-slate-200/80 ring-1 ring-slate-950/5 dark:bg-slate-800 dark:ring-white/10">
+    <div className="h-3 overflow-hidden rounded-full bg-slate-200 ring-1 ring-slate-200">
       <div
-        className="h-full rounded-full bg-gradient-to-r from-amber-500 via-teal-500 to-sky-500"
+        className="h-full rounded-full bg-teal-600"
         style={{ width: `${safe}%` }}
       />
     </div>

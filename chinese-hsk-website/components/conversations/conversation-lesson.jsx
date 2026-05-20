@@ -12,7 +12,9 @@ export default function ConversationLesson({ conversation, words = [] }) {
           <Pill
             tone={conversation.status === "needs-authoring" ? "amber" : "green"}
           >
-            {conversation.status || "ready"}
+            {conversation.status === "needs-authoring"
+              ? "Coming soon"
+              : "Ready"}
           </Pill>
           <h2 className="mt-3 text-3xl font-black text-slate-950 dark:text-white">
             {conversation.title?.en}
@@ -22,7 +24,7 @@ export default function ConversationLesson({ conversation, words = [] }) {
             <span dir="rtl">{conversation.title?.ar}</span>
           </p>
         </div>
-        <div className="rounded-3xl bg-slate-950 p-4 text-center text-white dark:bg-white dark:text-slate-950">
+        <div className="rounded-3xl bg-slate-950 p-4 text-center text-white dark:bg-slate-800 dark:text-white">
           <strong className="block text-3xl font-black">
             {targetWords.length}
           </strong>
@@ -56,17 +58,15 @@ export default function ConversationLesson({ conversation, words = [] }) {
       ) : (
         <div className="grid gap-4 rounded-[2rem] border border-dashed border-amber-300 bg-amber-50 p-5 text-amber-950 dark:border-amber-800 dark:bg-amber-950/30 dark:text-amber-100 md:grid-cols-[1fr_260px]">
           <div>
-            <strong className="text-lg">Conversation text pending.</strong>
+            <strong className="text-lg">Dialogue coming soon.</strong>
             <p className="mt-2 text-sm font-semibold leading-7">
-              This is a reviewed-authoring scaffold, not fake lesson content.
-              Add natural Chinese lines, pinyin, English, Arabic, grammar notes,
-              cultural notes, questions, and real audio paths before marking it
-              complete.
+              This lesson is being prepared. You can still preview the target
+              vocabulary below and review those words with flashcards.
             </p>
           </div>
           <div className="rounded-3xl bg-white/65 p-4 text-sm font-bold text-amber-900 dark:bg-white/10 dark:text-amber-100">
-            Coverage currently reports these words as uncovered until dialogue
-            lines are authored.
+            Use the target words as a warm-up before practicing the full
+            dialogue.
           </div>
         </div>
       )}

@@ -6,6 +6,7 @@ const navItems = [
   { href: "/", label: "home" },
   { href: "/flashcards", label: "flashcards" },
   { href: "/conversations", label: "conversations" },
+  { href: "/grammar", label: "grammar" },
   { href: "/dashboard", label: "dashboard" },
 ];
 
@@ -32,23 +33,17 @@ export default function SiteHeader() {
             <Link
               key={item.href}
               href={item.href}
-              className="rounded-full px-4 py-2 transition hover:bg-slate-950 hover:text-white dark:hover:bg-white dark:hover:text-slate-950"
+              className="rounded-full px-4 py-2 transition hover:bg-slate-950 hover:text-white dark:hover:bg-amber-200 dark:hover:text-slate-950"
             >
               <Localized k={item.label} />
             </Link>
           ))}
         </nav>
         <div className="flex items-center gap-2">
-          <Link
-            href="/admin/data-check"
-            className="hidden rounded-full border border-amber-300/70 bg-amber-100/70 px-4 py-2 text-xs font-black uppercase tracking-[0.16em] text-amber-950 shadow-sm dark:border-amber-300/20 dark:bg-amber-300/10 dark:text-amber-200 lg:inline-flex"
-          >
-            Data check
-          </Link>
           <LanguageSwitcher />
         </div>
       </div>
-      <nav className="grid grid-cols-4 border-t border-slate-950/5 bg-white/55 text-center text-xs font-black text-slate-700 dark:border-white/10 dark:bg-slate-950/60 dark:text-slate-200 md:hidden">
+      <nav className="grid grid-cols-5 border-t border-slate-950/5 bg-white/55 text-center text-xs font-black text-slate-700 dark:border-white/10 dark:bg-slate-950/60 dark:text-slate-200 md:hidden">
         {navItems.map((item) => (
           <Link key={item.href} href={item.href} className="px-2 py-3">
             <Localized k={item.label} />

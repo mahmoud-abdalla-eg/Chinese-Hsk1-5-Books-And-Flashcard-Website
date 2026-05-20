@@ -44,7 +44,7 @@ export default async function UnitPage({ params }) {
             <div className="mt-5 grid grid-cols-2 gap-3 text-sm">
               <a
                 href="#vocabulary"
-                className="rounded-2xl bg-slate-950 px-4 py-3 text-center font-black text-white dark:bg-white dark:text-slate-950"
+                className="rounded-2xl bg-slate-950 px-4 py-3 text-center font-black text-white dark:bg-slate-900/80 dark:text-white"
               >
                 Vocabulary
               </a>

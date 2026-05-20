@@ -12,7 +12,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en" className="h-full scroll-smooth">
-      <body className="min-h-full text-slate-900 antialiased dark:text-slate-100">
+      <body className="min-h-full bg-[#f7f8fb] text-slate-900 antialiased">
         <LanguageProvider>
           <div className="min-h-screen overflow-hidden">
             <SiteHeader />

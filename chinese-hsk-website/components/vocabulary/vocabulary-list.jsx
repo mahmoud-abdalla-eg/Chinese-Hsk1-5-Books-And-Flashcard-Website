@@ -30,10 +30,10 @@ export default function VocabularyList({ words, level }) {
             </span>
           </Link>
           <span className="text-sm font-semibold leading-6 text-slate-600 dark:text-slate-300">
-            {word.meaning.en || "Missing English meaning"}
+            {word.meaning.en || "English coming soon"}
             <br />
             <span className="text-slate-400" dir="rtl">
-              {word.meaning.ar || "Arabic pending"}
+              {word.meaning.ar || "Arabic coming soon"}
             </span>
           </span>
           <AudioButton src={word.audio.word} />

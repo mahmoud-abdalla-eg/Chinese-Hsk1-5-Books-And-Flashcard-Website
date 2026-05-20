@@ -13,7 +13,7 @@
     },
     "partOfSpeech": "unknown",
     "example": {
-      "hanzi": "",
+      "hanzi": "这儿的环境多么好啊！",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -22,7 +22,28 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "这儿的环境多么好啊！",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      },
+      {
+        "hanzi": "你们家住在哪儿啊？",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      },
+      {
+        "hanzi": "好的，我现在就去。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": ["hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"]
   },
   {
     "id": "aihao",
@@ -36,9 +57,9 @@
       "en": "hobby",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "noun",
     "example": {
-      "hanzi": "",
+      "hanzi": "我最大的爱好就是打篮球。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -47,7 +68,22 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我最大的爱好就是打篮球。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      },
+      {
+        "hanzi": "我从小就爱好音乐。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": ["hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"]
   },
   {
     "id": "baise",
@@ -86,9 +122,9 @@
       "en": "class",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "noun",
     "example": {
-      "hanzi": "",
+      "hanzi": "我在三年级二班。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -97,7 +133,16 @@
       "word": null,
       "example": null
     },
-    "tags": ["school"]
+    "tags": ["school"],
+    "examples": [
+      {
+        "hanzi": "我在三年级二班。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": ["hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"]
   },
   {
     "id": "bang",
@@ -136,9 +181,9 @@
       "en": "help",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "verb",
     "example": {
-      "hanzi": "",
+      "hanzi": "因为有你帮忙，这件事情处理得很好。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -147,7 +192,16 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "因为有你帮忙，这件事情处理得很好。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": ["hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"]
   },
   {
     "id": "bao",
@@ -161,9 +215,9 @@
       "en": "bag",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "noun",
     "example": {
-      "hanzi": "",
+      "hanzi": "我的包忘在房间里了。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -172,7 +226,16 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我的包忘在房间里了。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": ["hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"]
   },
   {
     "id": "benzi",
@@ -211,9 +274,9 @@
       "en": "compare; than",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "preposition",
     "example": {
-      "hanzi": "",
+      "hanzi": "我的孩子比我高。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -222,7 +285,19 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我的孩子比我高。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "bi-2",
@@ -261,9 +336,9 @@
       "en": "don't",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "adverb",
     "example": {
-      "hanzi": "",
+      "hanzi": "太晚了，别看电视了。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -272,7 +347,19 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "太晚了，别看电视了。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "bu-hao-yisi",
@@ -288,7 +375,7 @@
     },
     "partOfSpeech": "unknown",
     "example": {
-      "hanzi": "",
+      "hanzi": "大家都看着他，他有点儿不好意思了。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -297,7 +384,16 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "大家都看着他，他有点儿不好意思了。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": ["hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"]
   },
   {
     "id": "bu-cuo",
@@ -336,9 +432,9 @@
       "en": "long",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "adjective",
     "example": {
-      "hanzi": "",
+      "hanzi": "姐姐的腿长，跑得快。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -347,7 +443,25 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "姐姐的腿长，跑得快。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      },
+      {
+        "hanzi": "姐姐的头发又黑又长。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "chezhan",
@@ -386,9 +500,9 @@
       "en": "go out; come out",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "verb",
     "example": {
-      "hanzi": "",
+      "hanzi": "我已经走出火车站了。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -397,7 +511,31 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我已经走出火车站了。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      },
+      {
+        "hanzi": "你帮我看看，这台电脑出什么问题了？",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      },
+      {
+        "hanzi": "我从他的脸上，没看出他难过来。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "chuang",
@@ -561,9 +699,9 @@
       "en": "time; instance",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "measure word",
     "example": {
-      "hanzi": "",
+      "hanzi": "我去过一次北京。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -572,7 +710,19 @@
       "word": null,
       "example": null
     },
-    "tags": ["time"]
+    "tags": ["time"],
+    "examples": [
+      {
+        "hanzi": "我去过一次北京。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "cong",
@@ -586,9 +736,9 @@
       "en": "from",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "preposition",
     "example": {
-      "hanzi": "",
+      "hanzi": "我家到公司，开车要 20 分钟。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -597,7 +747,19 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我家到公司，开车要 20 分钟。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "cong-xiao",
@@ -636,9 +798,9 @@
       "en": "wrong",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "adjective",
     "example": {
-      "hanzi": "",
+      "hanzi": "对不起，我错了。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -647,7 +809,19 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "对不起，我错了。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "da",
@@ -788,7 +962,7 @@
     },
     "partOfSpeech": "verb",
     "example": {
-      "hanzi": "",
+      "hanzi": "你走得太快了。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -797,7 +971,25 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "你走得太快了。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      },
+      {
+        "hanzi": "这次考试，我得了 100 分。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "di",
@@ -811,9 +1003,9 @@
       "en": "ground; floor",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "structural auxiliary",
     "example": {
-      "hanzi": "",
+      "hanzi": "天慢慢地黑了。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -822,7 +1014,16 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "天慢慢地黑了。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": ["hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"]
   },
   {
     "id": "deng",
@@ -836,9 +1037,9 @@
       "en": "wait",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "verb",
     "example": {
-      "hanzi": "",
+      "hanzi": "你还要再等我 10 分钟。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -847,7 +1048,25 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "你还要再等我 10 分钟。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      },
+      {
+        "hanzi": "济等。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "ditie",
@@ -861,9 +1080,9 @@
       "en": "subway",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "noun",
     "example": {
-      "hanzi": "",
+      "hanzi": "我们先坐三站地铁，再走一会儿就到了。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -872,7 +1091,16 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我们先坐三站地铁，再走一会儿就到了。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": ["hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"]
   },
   {
     "id": "dong",
@@ -913,7 +1141,7 @@
     },
     "partOfSpeech": "verb",
     "example": {
-      "hanzi": "",
+      "hanzi": "你的意思我懂了。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -922,7 +1150,19 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "你的意思我懂了。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "fanguan",
@@ -986,9 +1226,9 @@
       "en": "tall; high",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "adjective",
     "example": {
-      "hanzi": "",
+      "hanzi": "我比爸爸还高。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -997,7 +1237,19 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我比爸爸还高。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "gaosu",
@@ -1011,9 +1263,9 @@
       "en": "tell; inform",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "verb",
     "example": {
-      "hanzi": "",
+      "hanzi": "你能告诉我学校怎么走吗？",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -1022,7 +1274,19 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "你能告诉我学校怎么走吗？",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "gao-zhong",
@@ -1061,9 +1325,9 @@
       "en": "with; follow",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "verb",
     "example": {
-      "hanzi": "",
+      "hanzi": "散步的时候，小狗一直跟在我身后。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -1072,7 +1336,22 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "散步的时候，小狗一直跟在我身后。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      },
+      {
+        "hanzi": "姐姐跟妈妈一起去公园了。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": ["hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"]
   },
   {
     "id": "ge-zi",
@@ -1086,9 +1365,9 @@
       "en": "height",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "noun",
     "example": {
-      "hanzi": "",
+      "hanzi": "哥哥比我个子高。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -1097,7 +1376,16 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "哥哥比我个子高。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": ["hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"]
   },
   {
     "id": "gong-jiao-che",
@@ -1138,7 +1426,7 @@
     },
     "partOfSpeech": "verb",
     "example": {
-      "hanzi": "",
+      "hanzi": "我没看过这本书。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -1147,7 +1435,31 @@
       "word": null,
       "example": null
     },
-    "tags": ["time"]
+    "tags": ["time"],
+    "examples": [
+      {
+        "hanzi": "我没看过这本书。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      },
+      {
+        "hanzi": "今天我过生日，朋友们都来了。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      },
+      {
+        "hanzi": "时间过得真快，要过春节了。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "guolai",
@@ -1211,9 +1523,9 @@
       "en": "past",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "noun",
     "example": {
-      "hanzi": "",
+      "hanzi": "奶奶经常给我讲过去的事情。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -1222,7 +1534,16 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "奶奶经常给我讲过去的事情。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": ["hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"]
   },
   {
     "id": "haishi",
@@ -1236,9 +1557,9 @@
       "en": "or; still",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "adverb",
     "example": {
-      "hanzi": "",
+      "hanzi": "我还是在北京，没去其他地方。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -1247,7 +1568,28 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我还是在北京，没去其他地方。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      },
+      {
+        "hanzi": "你还是吃点儿水果吧，别喝啤酒了。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      },
+      {
+        "hanzi": "你是开车去还是坐公共汽车去？",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": ["hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"]
   },
   {
     "id": "hei-se",
@@ -1336,9 +1678,9 @@
       "en": "behind",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "noun",
     "example": {
-      "hanzi": "",
+      "hanzi": "商店在学校后面。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -1347,7 +1689,26 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "商店在学校后面。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      },
+      {
+        "hanzi": "关于这个问题，后面我还会详细说。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 1\\hsk-1-word-list-(my-hsk.com).pdf",
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "hua",
@@ -1363,7 +1724,7 @@
     },
     "partOfSpeech": "verb",
     "example": {
-      "hanzi": "",
+      "hanzi": "我从小就喜欢画画儿。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -1372,7 +1733,22 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我从小就喜欢画画儿。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      },
+      {
+        "hanzi": "他的画儿很受大家欢迎。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": ["hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"]
   },
   {
     "id": "hua-2",
@@ -1386,9 +1762,9 @@
       "en": "flower",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "verb",
     "example": {
-      "hanzi": "",
+      "hanzi": "今天我花了不少钱。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -1397,7 +1773,22 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "今天我花了不少钱。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      },
+      {
+        "hanzi": "今天是妈妈的生日，我们送一些花给她吧。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": ["hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"]
   },
   {
     "id": "huai",
@@ -1411,9 +1802,9 @@
       "en": "bad; broken",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "adjective",
     "example": {
-      "hanzi": "",
+      "hanzi": "面包很新鲜，没有坏。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -1422,7 +1813,22 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "面包很新鲜，没有坏。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      },
+      {
+        "hanzi": "了，我忘记带护照了。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": ["hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"]
   },
   {
     "id": "hui-lai",
@@ -1511,9 +1917,9 @@
       "en": "teach",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "verb",
     "example": {
-      "hanzi": "",
+      "hanzi": "李老师教我们数学。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -1522,7 +1928,16 @@
       "word": null,
       "example": null
     },
-    "tags": ["food"]
+    "tags": ["food"],
+    "examples": [
+      {
+        "hanzi": "李老师教我们数学。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": ["hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"]
   },
   {
     "id": "jiaoshi",
@@ -1536,9 +1951,9 @@
       "en": "classroom",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "noun",
     "example": {
-      "hanzi": "",
+      "hanzi": "请大家都到教室去上课。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -1547,7 +1962,19 @@
       "word": null,
       "example": null
     },
-    "tags": ["school"]
+    "tags": ["school"],
+    "examples": [
+      {
+        "hanzi": "请大家都到教室去上课。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "jichang",
@@ -1561,9 +1988,9 @@
       "en": "airport",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "noun",
     "example": {
-      "hanzi": "",
+      "hanzi": "我在机场工作了三年了。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -1572,7 +1999,19 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我在机场工作了三年了。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "jide",
@@ -1588,7 +2027,7 @@
     },
     "partOfSpeech": "verb",
     "example": {
-      "hanzi": "",
+      "hanzi": "我不记得他住在哪儿了。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -1597,7 +2036,16 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我不记得他住在哪儿了。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": ["hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"]
   },
   {
     "id": "jieshao",
@@ -1611,9 +2059,9 @@
       "en": "introduce",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "verb",
     "example": {
-      "hanzi": "",
+      "hanzi": "我来介绍一下我的朋友。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -1622,7 +2070,25 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我来介绍一下我的朋友。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      },
+      {
+        "hanzi": "我在报纸上看到了这个电影的介绍。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "jin",
@@ -1636,9 +2102,9 @@
       "en": "enter",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "verb",
     "example": {
-      "hanzi": "",
+      "hanzi": "我马上要进机场了。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -1647,7 +2113,19 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我马上要进机场了。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "jin-2",
@@ -1661,9 +2139,9 @@
       "en": "close, near",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "adjective",
     "example": {
-      "hanzi": "",
+      "hanzi": "我们家离公司很近。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -1672,7 +2150,25 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我们家离公司很近。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      },
+      {
+        "hanzi": "我跟小王的关系很近。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "jingchang",
@@ -1686,9 +2182,9 @@
       "en": "frequently, often",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "adverb",
     "example": {
-      "hanzi": "",
+      "hanzi": "我经常在学校遇到他。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -1697,7 +2193,16 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我经常在学校遇到他。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": ["hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"]
   },
   {
     "id": "jinlai",
@@ -1786,9 +2291,9 @@
       "en": "just; then",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "adverb",
     "example": {
-      "hanzi": "",
+      "hanzi": "我就知道他会来的。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -1797,7 +2302,25 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我就知道他会来的。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      },
+      {
+        "hanzi": "我一到家就给他打电话。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "jiu-dian",
@@ -1836,9 +2359,9 @@
       "en": "coffee",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "noun",
     "example": {
-      "hanzi": "",
+      "hanzi": "您想喝咖啡，还是茶？",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -1847,7 +2370,19 @@
       "word": null,
       "example": null
     },
-    "tags": ["food"]
+    "tags": ["food"],
+    "examples": [
+      {
+        "hanzi": "您想喝咖啡，还是茶？",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "kaishi",
@@ -1861,9 +2396,9 @@
       "en": "start",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "verb",
     "example": {
-      "hanzi": "",
+      "hanzi": "我们从第十课开始学习。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -1872,7 +2407,25 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我们从第十课开始学习。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      },
+      {
+        "hanzi": "学汉字）开始可能会觉得有点难。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "kai-xue",
@@ -1936,9 +2489,9 @@
       "en": "exam",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "noun",
     "example": {
-      "hanzi": "",
+      "hanzi": "为了准备考试，他每天都学习到很晚。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -1947,7 +2500,19 @@
       "word": null,
       "example": null
     },
-    "tags": ["school"]
+    "tags": ["school"],
+    "examples": [
+      {
+        "hanzi": "为了准备考试，他每天都学习到很晚。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "keneng",
@@ -1961,9 +2526,9 @@
       "en": "possibly",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "auxiliary verb",
     "example": {
-      "hanzi": "",
+      "hanzi": "我可能不能去上班了。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -1972,7 +2537,25 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我可能不能去上班了。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      },
+      {
+        "hanzi": "这件事，完全是可能的。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "kuai",
@@ -1986,9 +2569,9 @@
       "en": "fast; quick",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "adjective",
     "example": {
-      "hanzi": "",
+      "hanzi": "他跑得真快。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -1997,7 +2580,19 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "他跑得真快。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "kuaile",
@@ -2011,9 +2606,9 @@
       "en": "happy",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "adjective",
     "example": {
-      "hanzi": "",
+      "hanzi": "祝你生日快乐！",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -2022,7 +2617,25 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "祝你生日快乐！",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      },
+      {
+        "hanzi": "女儿给我的生活带来很多快乐。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "kuaiyao",
@@ -2061,9 +2674,9 @@
       "en": "pants",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "noun",
     "example": {
-      "hanzi": "",
+      "hanzi": "这条裤子有点儿短。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -2072,7 +2685,16 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "这条裤子有点儿短。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": ["hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"]
   },
   {
     "id": "lanqiu",
@@ -2111,9 +2733,9 @@
       "en": "tired",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "adjective",
     "example": {
-      "hanzi": "",
+      "hanzi": "我累了，想休息。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -2122,7 +2744,19 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我累了，想休息。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "li",
@@ -2136,9 +2770,9 @@
       "en": "distance/from",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "preposition",
     "example": {
-      "hanzi": "",
+      "hanzi": "我家离学校很近。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -2147,7 +2781,19 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我家离学校很近。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "limian",
@@ -2186,9 +2832,9 @@
       "en": "building; floor",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "noun",
     "example": {
-      "hanzi": "",
+      "hanzi": "我在你家楼下等你。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -2197,7 +2843,16 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我在你家楼下等你。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": ["hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"]
   },
   {
     "id": "lu",
@@ -2211,9 +2866,9 @@
       "en": "road",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "noun",
     "example": {
-      "hanzi": "",
+      "hanzi": "我每天走路去上学。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -2222,7 +2877,25 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我每天走路去上学。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      },
+      {
+        "hanzi": "我们可以坐 10路公共汽车去。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "lu-cha",
@@ -2311,9 +2984,9 @@
       "en": "travel",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "verb",
     "example": {
-      "hanzi": "",
+      "hanzi": "我们开车去旅游。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -2322,7 +2995,19 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我们开车去旅游。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "man",
@@ -2336,9 +3021,9 @@
       "en": "slow",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "adjective",
     "example": {
-      "hanzi": "",
+      "hanzi": "我们走得很慢。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -2347,7 +3032,19 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我们走得很慢。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "mei",
@@ -2361,9 +3058,9 @@
       "en": "every",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "pronoun",
     "example": {
-      "hanzi": "",
+      "hanzi": "你每天都看报纸吗？",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -2372,7 +3069,19 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "你每天都看报纸吗？",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "mei-yi-si",
@@ -2411,9 +3120,9 @@
       "en": "door",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "noun",
     "example": {
-      "hanzi": "",
+      "hanzi": "我在门外等你。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -2422,7 +3131,25 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我在门外等你。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      },
+      {
+        "hanzi": "今年我有五门课。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "menkou",
@@ -2538,7 +3265,7 @@
     },
     "partOfSpeech": "verb",
     "example": {
-      "hanzi": "",
+      "hanzi": "你手里拿的是什么？",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -2547,7 +3274,16 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "你手里拿的是什么？",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": ["hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"]
   },
   {
     "id": "nai-cha",
@@ -2586,9 +3322,9 @@
       "en": "grandmother (paternal)",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "noun",
     "example": {
-      "hanzi": "",
+      "hanzi": "我奶奶住在北京。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -2597,7 +3333,16 @@
       "word": null,
       "example": null
     },
-    "tags": ["family"]
+    "tags": ["family"],
+    "examples": [
+      {
+        "hanzi": "我奶奶住在北京。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": ["hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"]
   },
   {
     "id": "name",
@@ -2686,9 +3431,9 @@
       "en": "bird",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "noun",
     "example": {
-      "hanzi": "",
+      "hanzi": "树上有很多鸟在唱歌。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -2697,7 +3442,16 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "树上有很多鸟在唱歌。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": ["hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"]
   },
   {
     "id": "nuhair",
@@ -2736,9 +3490,9 @@
       "en": "beside; next to",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "noun",
     "example": {
-      "hanzi": "",
+      "hanzi": "爸爸在我旁边。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -2747,7 +3501,19 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "爸爸在我旁边。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "pao",
@@ -2788,7 +3554,7 @@
     },
     "partOfSpeech": "verb",
     "example": {
-      "hanzi": "",
+      "hanzi": "我每天早上都跑步。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -2797,7 +3563,19 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我每天早上都跑步。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "piao",
@@ -2811,9 +3589,9 @@
       "en": "ticket",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "noun",
     "example": {
-      "hanzi": "",
+      "hanzi": "我要去火车站买车票。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -2822,7 +3600,19 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我要去火车站买车票。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "qian-mian",
@@ -2836,9 +3626,9 @@
       "en": "in front",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "noun",
     "example": {
-      "hanzi": "",
+      "hanzi": "那个人是我的同学。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -2847,7 +3637,20 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "那个人是我的同学。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 1\\hsk-1-word-list-(my-hsk.com).pdf",
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "qilai",
@@ -2863,7 +3666,7 @@
     },
     "partOfSpeech": "verb",
     "example": {
-      "hanzi": "",
+      "hanzi": "他的心情好起来了。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -2872,7 +3675,16 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "他的心情好起来了。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": ["hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"]
   },
   {
     "id": "qing",
@@ -2886,9 +3698,9 @@
       "en": "sunny",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "adjective",
     "example": {
-      "hanzi": "",
+      "hanzi": "今天是晴天。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -2897,7 +3709,19 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "今天是晴天。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "qiu",
@@ -2936,9 +3760,9 @@
       "en": "wife",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "noun",
     "example": {
-      "hanzi": "",
+      "hanzi": "我妻子上班去了。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -2947,7 +3771,19 @@
       "word": null,
       "example": null
     },
-    "tags": ["family"]
+    "tags": ["family"],
+    "examples": [
+      {
+        "hanzi": "我妻子上班去了。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "rang",
@@ -2961,9 +3797,9 @@
       "en": "let",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "verb",
     "example": {
-      "hanzi": "",
+      "hanzi": "他爸爸不让他来。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -2972,7 +3808,25 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "他爸爸不让他来。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      },
+      {
+        "hanzi": "他把座位让给了一位老人。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "rou",
@@ -3111,9 +3965,9 @@
       "en": "surf the internet",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "verb",
     "example": {
-      "hanzi": "",
+      "hanzi": "我上网去看看新闻。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -3122,7 +3976,16 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我上网去看看新闻。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": ["hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"]
   },
   {
     "id": "shengri",
@@ -3136,9 +3999,9 @@
       "en": "birthday",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "noun",
     "example": {
-      "hanzi": "",
+      "hanzi": "祝你生日快乐！",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -3147,7 +4010,19 @@
       "word": null,
       "example": null
     },
-    "tags": ["time"]
+    "tags": ["time"],
+    "examples": [
+      {
+        "hanzi": "祝你生日快乐！",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "shenti",
@@ -3161,9 +4036,9 @@
       "en": "body; health",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "noun",
     "example": {
-      "hanzi": "",
+      "hanzi": "今天我的身体不太舒服。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -3172,7 +4047,19 @@
       "word": null,
       "example": null
     },
-    "tags": ["health"]
+    "tags": ["health"],
+    "examples": [
+      {
+        "hanzi": "今天我的身体不太舒服。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "shi",
@@ -3211,9 +4098,9 @@
       "en": "thing",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "noun",
     "example": {
-      "hanzi": "",
+      "hanzi": "你下午有什么事情吗？",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -3222,7 +4109,19 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "你下午有什么事情吗？",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "shou",
@@ -3261,9 +4160,9 @@
       "en": "watch",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "noun",
     "example": {
-      "hanzi": "",
+      "hanzi": "这块手表非常漂亮。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -3272,7 +4171,19 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "这块手表非常漂亮。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "shu-bao",
@@ -3311,9 +4222,9 @@
       "en": "comfortable",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "adjective",
     "example": {
-      "hanzi": "",
+      "hanzi": "坐在这里，真舒服。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -3322,7 +4233,16 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "坐在这里，真舒服。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": ["hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"]
   },
   {
     "id": "song",
@@ -3336,9 +4256,9 @@
       "en": "give as a gift; escort; deliver",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "verb",
     "example": {
-      "hanzi": "",
+      "hanzi": "我送你一本书。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -3347,7 +4267,25 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我送你一本书。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      },
+      {
+        "hanzi": "我去送一个朋友。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "suiran",
@@ -3411,9 +4349,9 @@
       "en": "pain",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "adjective",
     "example": {
-      "hanzi": "",
+      "hanzi": "我的腿有点儿疼。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -3422,7 +4360,16 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我的腿有点儿疼。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": ["hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"]
   },
   {
     "id": "ti",
@@ -3436,9 +4383,9 @@
       "en": "problem; question; title",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "noun",
     "example": {
-      "hanzi": "",
+      "hanzi": "这个题我不会做。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -3447,7 +4394,19 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "这个题我不会做。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "ti-2",
@@ -3486,9 +4445,9 @@
       "en": "strip",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "measure word",
     "example": {
-      "hanzi": "",
+      "hanzi": "这条裤子有点儿长。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -3497,7 +4456,16 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "这条裤子有点儿长。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": ["hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"]
   },
   {
     "id": "tiaowu",
@@ -3513,7 +4481,7 @@
     },
     "partOfSpeech": "unknown",
     "example": {
-      "hanzi": "",
+      "hanzi": "妹妹会唱歌，也会跳舞。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -3522,7 +4490,19 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "妹妹会唱歌，也会跳舞。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "tou",
@@ -3611,9 +4591,9 @@
       "en": "finish",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "verb",
     "example": {
-      "hanzi": "",
+      "hanzi": "这本书我看完了。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -3622,7 +4602,19 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "这本书我看完了。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "wan-2",
@@ -3638,7 +4630,7 @@
     },
     "partOfSpeech": "number",
     "example": {
-      "hanzi": "",
+      "hanzi": "我们学校有一万名学生。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -3647,7 +4639,16 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我们学校有一万名学生。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": ["hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"]
   },
   {
     "id": "wang",
@@ -3686,9 +4687,9 @@
       "en": "towards",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "preposition",
     "example": {
-      "hanzi": "",
+      "hanzi": "再往前走 500 米就到了。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -3697,7 +4698,16 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "再往前走 500 米就到了。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": ["hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"]
   },
   {
     "id": "wangshang",
@@ -3736,9 +4746,9 @@
       "en": "position / place (respectful)",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "measure word",
     "example": {
-      "hanzi": "",
+      "hanzi": "他真是一位好老师。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -3747,7 +4757,16 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "他真是一位好老师。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": ["hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"]
   },
   {
     "id": "weishenme",
@@ -3763,7 +4782,7 @@
     },
     "partOfSpeech": "unknown",
     "example": {
-      "hanzi": "",
+      "hanzi": "你为什么不喝点儿水呢？",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -3772,7 +4791,19 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "你为什么不喝点儿水呢？",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "xi",
@@ -3788,7 +4819,7 @@
     },
     "partOfSpeech": "verb",
     "example": {
-      "hanzi": "",
+      "hanzi": "今天我要洗很多衣服。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -3797,7 +4828,25 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "今天我要洗很多衣服。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      },
+      {
+        "hanzi": "照片要三天才能洗出来。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "xialai",
@@ -3863,7 +4912,7 @@
     },
     "partOfSpeech": "verb",
     "example": {
-      "hanzi": "",
+      "hanzi": "听到他这么说，我们都笑了。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -3872,7 +4921,19 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "听到他这么说，我们都笑了。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "xiaohair",
@@ -3961,9 +5022,9 @@
       "en": "surname",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "noun",
     "example": {
-      "hanzi": "",
+      "hanzi": "中国人的姓在名字的前面。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -3972,7 +5033,25 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "中国人的姓在名字的前面。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      },
+      {
+        "hanzi": "我姓张。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "xingming",
@@ -4011,9 +5090,9 @@
       "en": "restroom",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "noun",
     "example": {
-      "hanzi": "",
+      "hanzi": "我去一下洗手间。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -4022,7 +5101,16 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我去一下洗手间。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": ["hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"]
   },
   {
     "id": "xiwang",
@@ -4036,9 +5124,9 @@
       "en": "hope",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "verb",
     "example": {
-      "hanzi": "",
+      "hanzi": "我希望你别走了。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -4047,7 +5135,25 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我希望你别走了。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      },
+      {
+        "hanzi": "孩子是爸爸、妈妈的希望。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "yanjing",
@@ -4061,9 +5167,9 @@
       "en": "eye",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "noun",
     "example": {
-      "hanzi": "",
+      "hanzi": "我的眼睛是黑色的。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -4072,7 +5178,19 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我的眼睛是黑色的。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "yanse",
@@ -4086,9 +5204,9 @@
       "en": "color",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "noun",
     "example": {
-      "hanzi": "",
+      "hanzi": "你喜欢哪种颜色？",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -4097,7 +5215,19 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "你喜欢哪种颜色？",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "yao",
@@ -4111,9 +5241,9 @@
       "en": "medicine",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "noun",
     "example": {
-      "hanzi": "",
+      "hanzi": "这个药一天吃三次。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -4122,7 +5252,19 @@
       "word": null,
       "example": null
     },
-    "tags": ["health"]
+    "tags": ["health"],
+    "examples": [
+      {
+        "hanzi": "这个药一天吃三次。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "yaodian",
@@ -4161,9 +5303,9 @@
       "en": "grandfather (paternal)",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "noun",
     "example": {
-      "hanzi": "",
+      "hanzi": "请您坐这儿吧。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -4172,7 +5314,16 @@
       "word": null,
       "example": null
     },
-    "tags": ["family"]
+    "tags": ["family"],
+    "examples": [
+      {
+        "hanzi": "请您坐这儿吧。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": ["hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"]
   },
   {
     "id": "yihuir",
@@ -4188,7 +5339,7 @@
     },
     "partOfSpeech": "unknown",
     "example": {
-      "hanzi": "",
+      "hanzi": "我看一会儿电视就睡觉。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -4197,7 +5348,16 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我看一会儿电视就睡觉。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": ["hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"]
   },
   {
     "id": "yijing",
@@ -4211,9 +5371,9 @@
       "en": "already",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "adverb",
     "example": {
-      "hanzi": "",
+      "hanzi": "我们已经吃完饭了。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -4222,7 +5382,19 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我们已经吃完饭了。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "yin",
@@ -4236,9 +5408,9 @@
       "en": "overcast",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "adjective",
     "example": {
-      "hanzi": "",
+      "hanzi": "今天是阴天。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -4247,7 +5419,19 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "今天是阴天。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "yinwei",
@@ -4286,9 +5470,9 @@
       "en": "together",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "adverb",
     "example": {
-      "hanzi": "",
+      "hanzi": "我和你一起去北京。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -4297,7 +5481,19 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我和你一起去北京。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "yisi",
@@ -4311,9 +5507,9 @@
       "en": "meaning",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "noun",
     "example": {
-      "hanzi": "",
+      "hanzi": "这个词是什么意思？",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -4322,7 +5518,31 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "这个词是什么意思？",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      },
+      {
+        "hanzi": "把你的意思告诉我吧。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      },
+      {
+        "hanzi": "这个电影真有意思。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "you",
@@ -4411,9 +5631,9 @@
       "en": "right side",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "noun",
     "example": {
-      "hanzi": "",
+      "hanzi": "王医生右边那个人是谁？",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -4422,7 +5642,19 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "王医生右边那个人是谁？",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "youshihou",
@@ -4461,9 +5693,9 @@
       "en": "swim",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "verb",
     "example": {
-      "hanzi": "",
+      "hanzi": "我会游泳了。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -4472,7 +5704,19 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我会游泳了。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "yu",
@@ -4486,9 +5730,9 @@
       "en": "fish",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "noun",
     "example": {
-      "hanzi": "",
+      "hanzi": "水里有很多鱼。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -4497,7 +5741,19 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "水里有很多鱼。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "yuan",
@@ -4511,9 +5767,9 @@
       "en": "far",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "adjective",
     "example": {
-      "hanzi": "",
+      "hanzi": "我家离公司很远。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -4522,7 +5778,19 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我家离公司很远。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "yundong",
@@ -4536,9 +5804,9 @@
       "en": "exercise/sport",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "verb",
     "example": {
-      "hanzi": "",
+      "hanzi": "我们都很喜欢运动。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -4547,7 +5815,19 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我们都很喜欢运动。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "zhan",
@@ -4561,9 +5841,9 @@
       "en": "stand; station",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "verb",
     "example": {
-      "hanzi": "",
+      "hanzi": "爸爸站在我的身边。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -4572,7 +5852,22 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "爸爸站在我的身边。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      },
+      {
+        "hanzi": "去火车站，坐地铁 3站就到了。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": ["hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"]
   },
   {
     "id": "zhang-fu",
@@ -4586,9 +5881,9 @@
       "en": "husband",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "noun",
     "example": {
-      "hanzi": "",
+      "hanzi": "我丈夫在医院工作。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -4597,7 +5892,19 @@
       "word": null,
       "example": null
     },
-    "tags": ["family"]
+    "tags": ["family"],
+    "examples": [
+      {
+        "hanzi": "我丈夫在医院工作。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "zhe",
@@ -4611,9 +5918,9 @@
       "en": "indicating continuous action",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "structural auxiliary",
     "example": {
-      "hanzi": "",
+      "hanzi": "他笑着说：“你不认识我， 但是我认识你。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -4622,7 +5929,25 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "他笑着说：“你不认识我， 但是我认识你。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      },
+      {
+        "hanzi": "他笑着说：“你不认识我，但是我认识你。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "zhengme",
@@ -4736,9 +6061,9 @@
       "en": "prepare",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "verb",
     "example": {
-      "hanzi": "",
+      "hanzi": "我准备星期日去北京。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -4747,7 +6072,25 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我准备星期日去北京。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      },
+      {
+        "hanzi": "我在为考试做准备。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "ziji",
@@ -4761,9 +6104,9 @@
       "en": "oneself",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "pronoun",
     "example": {
-      "hanzi": "",
+      "hanzi": "我喜欢自己一个人旅游。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -4772,7 +6115,16 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我喜欢自己一个人旅游。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": ["hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"]
   },
   {
     "id": "zou",
@@ -4786,9 +6138,9 @@
       "en": "walk; go",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "verb",
     "example": {
-      "hanzi": "",
+      "hanzi": "我女儿 9 个月就会走了。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -4797,7 +6149,25 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "我女儿 9 个月就会走了。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      },
+      {
+        "hanzi": "我走了，再见！",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "zoulu",
@@ -4836,9 +6206,9 @@
       "en": "most; the best",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "adverb",
     "example": {
-      "hanzi": "",
+      "hanzi": "她是我最好的朋友。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -4847,7 +6217,19 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "她是我最好的朋友。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "zuo",
@@ -4886,9 +6268,9 @@
       "en": "left side",
       "ar": ""
     },
-    "partOfSpeech": "unknown",
+    "partOfSpeech": "noun",
     "example": {
-      "hanzi": "",
+      "hanzi": "的那个杯子是你的，右边的是我的。",
       "pinyin": "",
       "en": "",
       "ar": ""
@@ -4897,7 +6279,19 @@
       "word": null,
       "example": null
     },
-    "tags": []
+    "tags": [],
+    "examples": [
+      {
+        "hanzi": "的那个杯子是你的，右边的是我的。",
+        "pinyin": "",
+        "en": "",
+        "ar": ""
+      }
+    ],
+    "exampleSource": [
+      "hsk 2\\vocabulary_hsk2.pdf",
+      "hsk 4\\hsk-4-vocabulary-list-(studyblog.org).pdf"
+    ]
   },
   {
     "id": "zuqiu",

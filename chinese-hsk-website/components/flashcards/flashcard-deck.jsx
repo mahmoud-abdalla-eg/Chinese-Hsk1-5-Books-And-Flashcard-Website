@@ -51,10 +51,10 @@ export default function FlashcardDeck({ words }) {
                 className="block text-xl font-bold text-slate-500 dark:text-slate-400"
                 dir="rtl"
               >
-                {word.meaning.ar || "Arabic translation pending"}
+                {word.meaning.ar || "Arabic coming soon"}
               </span>
               <span className="block rounded-2xl bg-slate-950/[0.04] p-4 text-sm font-semibold text-slate-500 dark:bg-white/[0.06]">
-                {word.example.hanzi || "Example sentence pending review"}
+                {word.example.hanzi || "Practice sentence coming soon"}
               </span>
             </span>
           )}

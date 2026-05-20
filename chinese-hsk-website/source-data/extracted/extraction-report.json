@@ -1,0 +1,47 @@
+{
+  "sourcesRoot": "E:\\Chinese Website\\Chinese-Hsk1-5-Books-And-Flashcard-Website",
+  "vocabularyRowsExtracted": 3076,
+  "grammarItemsExtracted": 410,
+  "merge": {
+    "1": {
+      "words": 300,
+      "matchedSourceRows": 215,
+      "examplesAddedThisRun": 0,
+      "wordsWithExamples": 214,
+      "exampleRowsMerged": 291
+    },
+    "2": {
+      "words": 197,
+      "matchedSourceRows": 108,
+      "examplesAddedThisRun": 0,
+      "wordsWithExamples": 107,
+      "exampleRowsMerged": 143
+    },
+    "3": {
+      "words": 491,
+      "matchedSourceRows": 306,
+      "examplesAddedThisRun": 0,
+      "wordsWithExamples": 304,
+      "exampleRowsMerged": 469
+    },
+    "4": {
+      "words": 990,
+      "matchedSourceRows": 597,
+      "examplesAddedThisRun": 0,
+      "wordsWithExamples": 512,
+      "exampleRowsMerged": 580
+    },
+    "5": {
+      "words": 1579,
+      "matchedSourceRows": 866,
+      "examplesAddedThisRun": 0,
+      "wordsWithExamples": 22,
+      "exampleRowsMerged": 24
+    }
+  },
+  "notes": [
+    "Only examples present in the local source PDFs were merged.",
+    "Arabic translations and audio paths remain blank unless real data exists.",
+    "HSK 5 MandarinBean vocabulary source has no example sentences, so it was extracted for reference but not used to invent examples."
+  ]
+}
